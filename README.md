@@ -1,1 +1,11 @@
 # eagles
+
+## Getting data out of a bucket
+
+gcloud storage cp -r BUCKET_NAME .
+
+## Creating new env
+
+conda create --name NAME_HERE python=3.9
+
+conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
