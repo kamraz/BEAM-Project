@@ -3,7 +3,7 @@ import os
 import glob
 import json
 from PIL import Image
-from utils.utils import SAMPLE_MAP
+from eaglescnn.utils.constants import SAMPLE_MAP
 
 class SmallDataset(torch.utils.data.Dataset):
     def __init__(self, data_folder, annotations_file, transforms=None):
