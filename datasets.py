@@ -3,7 +3,8 @@ import os
 import glob
 import json
 from PIL import Image
-from eaglescnn.utils.constants import SAMPLE_MAP
+from utils.constants import SAMPLE_MAP
+from utils.transforms import get_transform
 
 class SmallDataset(torch.utils.data.Dataset):
     def __init__(self, data_folder, annotations_file, transforms=None):
@@ -40,9 +41,10 @@ class SmallDataset(torch.utils.data.Dataset):
         target = {}
         target["boxes"] = torch.as_tensor(boxes, dtype=torch.float32)
         target["labels"] = torch.as_tensor(labels, dtype=torch.int64)
-
+        
+        # TODO: Handle transforms on target dict
         if self.transforms is not None:
-            img, target = self.transforms(img, target)
+            img = self.transforms(img)
 
         return img, target
 
@@ -51,15 +53,19 @@ class SmallDataset(torch.utils.data.Dataset):
 
 if __name__ == "__main__":
     dataset = SmallDataset("/home/kamranzolfonoon/eagle-test-bucket", 
-    "/home/kamranzolfonoon/eagle-test-bucket/image_labels.json")
+    "/home/kamranzolfonoon/eagle-test-bucket/image_labels.json", get_transform(train=False))
     img, target = dataset[2]
 
+    for i in range(len(dataset)):
+        img, target = dataset[i]
+    print("done")
+    loader = torch.utils.data.DataLoader(dataset, batch_size=2, shuffle=True, num_workers=4, collate_fn=collate_fn)
     # Draw bounding boxes on the image using pil
-    from PIL import ImageDraw
-    draw = ImageDraw.Draw(img)
-    for box in target["boxes"]:
-        draw.rectangle(box.tolist(), outline="red")
-    img.save("test.jpg")
+    # from PIL import ImageDraw
+    # draw = ImageDraw.Draw(img)
+    # for box in target["boxes"]:
+    #     draw.rectangle(box.tolist(), outline="red")
+    # img.save("test.jpg")
 
 
         
