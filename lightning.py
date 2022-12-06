@@ -1,6 +1,7 @@
 from models import get_model
 import torch
 import pytorch_lightning as pl
+from torchmetrics.detection.mean_ap import MeanAveragePrecision
 
 
 class LitCNN(pl.LightningModule):
@@ -16,6 +17,10 @@ class LitCNN(pl.LightningModule):
         super().__init__()
         self.save_hyperparameters()
         self.model = get_model(model_hparams["num_classes"])
+
+        self.validation_map = MeanAveragePrecision(
+            num_classes=self.hparams.model_hparams["num_classes"]
+        )
 
     def forward(self, images, targets=None):
         return self.model(images, targets)
@@ -46,15 +51,19 @@ class LitCNN(pl.LightningModule):
         loss_dict = self.model(images, targets)
         losses = sum(loss for loss in loss_dict.values())
 
-        self.log("train_loss", losses, on_step=False, on_epoch=True)
+        self.log("train_loss", losses, on_step=False, on_epoch=True, batch_size=len(images))
+        self.log("lr", self.trainer.optimizers[0].param_groups[0]["lr"], on_step=False, on_epoch=True)
         return losses
 
-    # def validation_step(self, batch, batch_idx):
-    #     images, targets = batch
-    #     loss_dict = self.model(images, targets)
-    #     losses = sum(loss for loss in loss_dict.values())
+    def validation_step(self, batch, batch_idx):
+        images, targets = batch
+        results = self.model(images, targets)
+        self.validation_map.update(results, targets)
 
-    #     self.log("val_loss", losses, on_step=False, on_epoch=True)
+    def validation_epoch_end(self, outputs):
+        metrics = self.validation_map.compute()
+        self.log("val_map", metrics["map"], on_step=False, on_epoch=True)
+        self.log("val_ar", metrics["mar_10"], on_step=False, on_epoch=True)
 
     # def test_step(self, batch, batch_idx):
     #     images, targets = batch
