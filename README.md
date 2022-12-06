@@ -1,4 +1,18 @@
-# eagles
+# BEAM Project
+
+## Setting up cloud compute instance from scratch
+
+- Open compute engine dash board
+- Select marketplace and search for: "Deep Learning VM" or "Pytorch" select the google click to deploy ML vm and hit launch
+- Sugested compute settings GPU: Nvidia T4, Machine Type: n1-standard-2
+- Set framework to be: "PyTorch 1.12 (CUDA 11.3)"
+- Select "Install NVIDIA GPU driver automatically on first startup?"
+- Bootdisk as large as needed 150gb sugested to start
+
+## Adding SSH key to google cloud
+
+- Open compute engine metadata page
+- Click on ssh keys tab, add personal ssh key
 
 ## Getting data out of a bucket
 
