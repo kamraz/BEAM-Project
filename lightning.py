@@ -16,7 +16,9 @@ class LitCNN(pl.LightningModule):
     ):
         super().__init__()
         self.save_hyperparameters()
-        self.model = get_model(model_hparams["num_classes"])
+        self.model = get_model(
+            model_hparams["num_classes"], frozen=model_hparams["frozen"]
+        )
 
         self.validation_map = MeanAveragePrecision(
             num_classes=self.hparams.model_hparams["num_classes"]
@@ -51,8 +53,15 @@ class LitCNN(pl.LightningModule):
         loss_dict = self.model(images, targets)
         losses = sum(loss for loss in loss_dict.values())
 
-        self.log("train_loss", losses, on_step=False, on_epoch=True, batch_size=len(images))
-        self.log("lr", self.trainer.optimizers[0].param_groups[0]["lr"], on_step=False, on_epoch=True)
+        self.log(
+            "train_loss", losses, on_step=False, on_epoch=True, batch_size=len(images)
+        )
+        self.log(
+            "lr",
+            self.trainer.optimizers[0].param_groups[0]["lr"],
+            on_step=False,
+            on_epoch=True,
+        )
         return losses
 
     def validation_step(self, batch, batch_idx):
