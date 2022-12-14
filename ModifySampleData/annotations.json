@@ -1,0 +1,8283 @@
+{
+    "Big Bear_2022_05_19_00_11_06.png": [
+        {
+            "label": 1,
+            "x_min": 1006,
+            "x_max": 1173,
+            "y_min": 269,
+            "y_max": 500
+        }
+    ],
+    "Decorah North_2022_05_02_21_34_29.png": [
+        {
+            "label": 2,
+            "x_min": 753,
+            "x_max": 1125,
+            "y_min": 343,
+            "y_max": 573
+        }
+    ],
+    "Decorah North_2022_05_21_21_07_25.png": [
+        {
+            "label": 1,
+            "x_min": 981,
+            "x_max": 1115,
+            "y_min": 56,
+            "y_max": 346
+        },
+        {
+            "label": 2,
+            "x_min": 822,
+            "x_max": 1074,
+            "y_min": 527,
+            "y_max": 675
+        },
+        {
+            "label": 2,
+            "x_min": 1066,
+            "x_max": 1210,
+            "y_min": 520,
+            "y_max": 679
+        }
+    ],
+    "Big Bear_2022_06_16_18_25_13.png": [
+        {
+            "label": 3,
+            "x_min": 531,
+            "x_max": 993,
+            "y_min": 49,
+            "y_max": 734
+        }
+    ],
+    "Decorah North_2022_06_09_03_14_45.png": [
+        {
+            "label": 3,
+            "x_min": 510,
+            "x_max": 696,
+            "y_min": 304,
+            "y_max": 531
+        },
+        {
+            "label": 3,
+            "x_min": 953,
+            "x_max": 1092,
+            "y_min": 337,
+            "y_max": 507
+        }
+    ],
+    "Decorah North_2022_05_12_04_57_01.png": [
+        {
+            "label": 1,
+            "x_min": 973,
+            "x_max": 1127,
+            "y_min": 89,
+            "y_max": 381
+        },
+        {
+            "label": 2,
+            "x_min": 1012,
+            "x_max": 1220,
+            "y_min": 538,
+            "y_max": 660
+        },
+        {
+            "label": 2,
+            "x_min": 773,
+            "x_max": 1050,
+            "y_min": 617,
+            "y_max": 697
+        }
+    ],
+    "Big Bear_2022_05_21_15_17_26.png": [
+        {
+            "label": 1,
+            "x_min": 1231,
+            "x_max": 1347,
+            "y_min": 421,
+            "y_max": 616
+        }
+    ],
+    "Decorah North_2022_06_16_05_40_10.png": [
+        {
+            "label": 3,
+            "x_min": 1016,
+            "x_max": 1237,
+            "y_min": 536,
+            "y_max": 610
+        }
+    ],
+    "Decorah North_2022_05_24_23_37_06.png": [
+        {
+            "label": 2,
+            "x_min": 734,
+            "x_max": 1065,
+            "y_min": 493,
+            "y_max": 675
+        },
+        {
+            "label": 1,
+            "x_min": 986,
+            "x_max": 1139,
+            "y_min": 67,
+            "y_max": 337
+        }
+    ],
+    "National Arboretum A_2022_05_01_16_13_26.png": [
+        {
+            "label": 1,
+            "x_min": 597,
+            "x_max": 841,
+            "y_min": 163,
+            "y_max": 461
+        },
+        {
+            "label": 2,
+            "x_min": 503,
+            "x_max": 744,
+            "y_min": 317,
+            "y_max": 596
+        }
+    ],
+    "Decorah North_2022_05_29_20_48_18.png": [
+        {
+            "label": 3,
+            "x_min": 684,
+            "x_max": 819,
+            "y_min": 306,
+            "y_max": 526
+        },
+        {
+            "label": 3,
+            "x_min": 1031,
+            "x_max": 1200,
+            "y_min": 267,
+            "y_max": 561
+        },
+        {
+            "label": 1,
+            "x_min": 924,
+            "x_max": 1061,
+            "y_min": 122,
+            "y_max": 352
+        }
+    ],
+    "Big Bear_2022_03_30_23_17_58.png": [
+        {
+            "label": 1,
+            "x_min": 405,
+            "x_max": 967,
+            "y_min": 201,
+            "y_max": 581
+        },
+        {
+            "label": 2,
+            "x_min": 787,
+            "x_max": 980,
+            "y_min": 527,
+            "y_max": 649
+        }
+    ],
+    "National Arboretum B_2022_05_01_10_43_03.png": [
+        {
+            "label": 1,
+            "x_min": 651,
+            "x_max": 957,
+            "y_min": 254,
+            "y_max": 635
+        },
+        {
+            "label": 4,
+            "x_min": 547,
+            "x_max": 706,
+            "y_min": 583,
+            "y_max": 654
+        },
+        {
+            "label": 2,
+            "x_min": 334,
+            "x_max": 585,
+            "y_min": 409,
+            "y_max": 531
+        }
+    ],
+    "National Arboretum B_2022_05_10_06_14_06.png": [
+        {
+            "label": 1,
+            "x_min": 242,
+            "x_max": 487,
+            "y_min": 387,
+            "y_max": 750
+        },
+        {
+            "label": 3,
+            "x_min": 978,
+            "x_max": 1149,
+            "y_min": 278,
+            "y_max": 400
+        }
+    ],
+    "Decorah North_2022_05_24_18_16_10.png": [
+        {
+            "label": 3,
+            "x_min": 525,
+            "x_max": 631,
+            "y_min": 410,
+            "y_max": 566
+        },
+        {
+            "label": 3,
+            "x_min": 719,
+            "x_max": 859,
+            "y_min": 543,
+            "y_max": 619
+        }
+    ],
+    "National Arboretum A_2022_04_28_21_25_28.png": [
+        {
+            "label": 1,
+            "x_min": 532,
+            "x_max": 844,
+            "y_min": 359,
+            "y_max": 646
+        },
+        {
+            "label": 2,
+            "x_min": 806,
+            "x_max": 982,
+            "y_min": 341,
+            "y_max": 484
+        }
+    ],
+    "Big Bear_2022_04_02_10_43_43.png": [
+        {
+            "label": 1,
+            "x_min": 688,
+            "x_max": 1054,
+            "y_min": 222,
+            "y_max": 523
+        },
+        {
+            "label": 2,
+            "x_min": 584,
+            "x_max": 869,
+            "y_min": 483,
+            "y_max": 626
+        }
+    ],
+    "National Arboretum B_2022_05_11_13_06_57.png": [
+        {
+            "label": 2,
+            "x_min": 702,
+            "x_max": 820,
+            "y_min": 485,
+            "y_max": 605
+        }
+    ],
+    "National Arboretum A_2022_04_02_13_51_49.png": [
+        {
+            "label": 4,
+            "x_min": 174,
+            "x_max": 598,
+            "y_min": 26,
+            "y_max": 214
+        },
+        {
+            "label": 1,
+            "x_min": 70,
+            "x_max": 957,
+            "y_min": 1,
+            "y_max": 94
+        },
+        {
+            "label": 4,
+            "x_min": 2,
+            "x_max": 65,
+            "y_min": 176,
+            "y_max": 284
+        }
+    ],
+    "Decorah North_2022_03_31_06_36_34.png": [
+        {
+            "label": 1,
+            "x_min": 675,
+            "x_max": 924,
+            "y_min": 329,
+            "y_max": 524
+        }
+    ],
+    "Big Bear_2022_03_13_14_47_54.png": [
+        {
+            "label": 1,
+            "x_min": 689,
+            "x_max": 1003,
+            "y_min": 348,
+            "y_max": 643
+        }
+    ],
+    "National Arboretum A_2022_04_28_03_48_41.png": [
+        {
+            "label": 2,
+            "x_min": 668,
+            "x_max": 881,
+            "y_min": 351,
+            "y_max": 539
+        },
+        {
+            "label": 1,
+            "x_min": 860,
+            "x_max": 1135,
+            "y_min": 69,
+            "y_max": 321
+        }
+    ],
+    "National Arboretum B_2022_05_03_20_26_55.png": [
+        {
+            "label": 1,
+            "x_min": 788,
+            "x_max": 1107,
+            "y_min": 247,
+            "y_max": 531
+        }
+    ],
+    "Decorah North_2022_04_27_01_59_12.png": [
+        {
+            "label": 1,
+            "x_min": 448,
+            "x_max": 889,
+            "y_min": 95,
+            "y_max": 478
+        },
+        {
+            "label": 2,
+            "x_min": 810,
+            "x_max": 1042,
+            "y_min": 377,
+            "y_max": 538
+        }
+    ],
+    "Big Bear_2022_05_15_10_14_21.png": [
+        {
+            "label": 3,
+            "x_min": 449,
+            "x_max": 818,
+            "y_min": 197,
+            "y_max": 481
+        }
+    ],
+    "Big Bear_2022_04_26_08_05_09.png": [
+        {
+            "label": 2,
+            "x_min": 653,
+            "x_max": 1129,
+            "y_min": 440,
+            "y_max": 610
+        }
+    ],
+    "National Arboretum B_2022_05_01_00_58_34.png": [
+        {
+            "label": 1,
+            "x_min": 794,
+            "x_max": 875,
+            "y_min": 38,
+            "y_max": 228
+        },
+        {
+            "label": 2,
+            "x_min": 830,
+            "x_max": 909,
+            "y_min": 545,
+            "y_max": 636
+        }
+    ],
+    "National Arboretum A_2022_03_26_01_16_31.png": [
+        {
+            "label": 4,
+            "x_min": 191,
+            "x_max": 368,
+            "y_min": 212,
+            "y_max": 421
+        },
+        {
+            "label": 1,
+            "x_min": 247,
+            "x_max": 935,
+            "y_min": 182,
+            "y_max": 739
+        },
+        {
+            "label": 4,
+            "x_min": 889,
+            "x_max": 1019,
+            "y_min": 169,
+            "y_max": 255
+        }
+    ],
+    "Big Bear_2022_05_02_04_02_00.png": [
+        {
+            "label": 3,
+            "x_min": 363,
+            "x_max": 782,
+            "y_min": 215,
+            "y_max": 599
+        },
+        {
+            "label": 3,
+            "x_min": 363,
+            "x_max": 782,
+            "y_min": 215,
+            "y_max": 599
+        }
+    ],
+    "Big Bear_2022_05_10_20_45_58.png": [
+        {
+            "label": 1,
+            "x_min": 975,
+            "x_max": 1115,
+            "y_min": 234,
+            "y_max": 426
+        },
+        {
+            "label": 3,
+            "x_min": 465,
+            "x_max": 1017,
+            "y_min": 418,
+            "y_max": 687
+        }
+    ],
+    "Decorah North_2022_05_21_18_59_11.png": [
+        {
+            "label": 2,
+            "x_min": 422,
+            "x_max": 805,
+            "y_min": 401,
+            "y_max": 627
+        },
+        {
+            "label": 2,
+            "x_min": 646,
+            "x_max": 1042,
+            "y_min": 343,
+            "y_max": 581
+        }
+    ],
+    "National Arboretum B_2022_05_07_18_58_38.png": [
+        {
+            "label": 3,
+            "x_min": 799,
+            "x_max": 886,
+            "y_min": 446,
+            "y_max": 579
+        }
+    ],
+    "Big Bear_2022_05_28_14_42_22.png": [
+        {
+            "label": 1,
+            "x_min": 267,
+            "x_max": 702,
+            "y_min": 276,
+            "y_max": 589
+        },
+        {
+            "label": 1,
+            "x_min": 537,
+            "x_max": 978,
+            "y_min": 349,
+            "y_max": 735
+        }
+    ],
+    "Big Bear_2022_04_04_17_09_24.png": [
+        {
+            "label": 1,
+            "x_min": 745,
+            "x_max": 1038,
+            "y_min": 252,
+            "y_max": 572
+        },
+        {
+            "label": 2,
+            "x_min": 621,
+            "x_max": 972,
+            "y_min": 477,
+            "y_max": 612
+        }
+    ],
+    "Big Bear_2022_05_22_11_29_32.png": [
+        {
+            "label": 3,
+            "x_min": 850,
+            "x_max": 1008,
+            "y_min": 340,
+            "y_max": 537
+        }
+    ],
+    "Decorah North_2022_06_09_17_06_42.png": [
+        {
+            "label": 3,
+            "x_min": 729,
+            "x_max": 912,
+            "y_min": 544,
+            "y_max": 694
+        },
+        {
+            "label": 3,
+            "x_min": 988,
+            "x_max": 1131,
+            "y_min": 76,
+            "y_max": 331
+        }
+    ],
+    "Big Bear_2022_03_30_11_10_48.png": [
+        {
+            "label": 1,
+            "x_min": 610,
+            "x_max": 934,
+            "y_min": 190,
+            "y_max": 510
+        },
+        {
+            "label": 2,
+            "x_min": 718,
+            "x_max": 953,
+            "y_min": 496,
+            "y_max": 646
+        }
+    ],
+    "Decorah North_2022_06_08_21_13_53.png": [
+        {
+            "label": 3,
+            "x_min": 842,
+            "x_max": 962,
+            "y_min": 287,
+            "y_max": 454
+        }
+    ],
+    "Decorah North_2022_06_09_18_20_44.png": [
+        {
+            "label": 3,
+            "x_min": 896,
+            "x_max": 1173,
+            "y_min": 52,
+            "y_max": 319
+        },
+        {
+            "label": 3,
+            "x_min": 862,
+            "x_max": 1105,
+            "y_min": 478,
+            "y_max": 687
+        }
+    ],
+    "Big Bear_2022_05_15_21_15_08.png": [
+        {
+            "label": 3,
+            "x_min": 466,
+            "x_max": 1004,
+            "y_min": 541,
+            "y_max": 742
+        }
+    ],
+    "Decorah North_2022_03_27_12_19_56.png": [
+        {
+            "label": 1,
+            "x_min": 529,
+            "x_max": 888,
+            "y_min": 241,
+            "y_max": 589
+        }
+    ],
+    "National Arboretum A_2022_03_23_04_43_20.png": [
+        {
+            "label": 2,
+            "x_min": 470,
+            "x_max": 877,
+            "y_min": 271,
+            "y_max": 691
+        }
+    ],
+    "National Arboretum A_2022_05_13_14_01_50.png": [
+        {
+            "label": 3,
+            "x_min": 584,
+            "x_max": 903,
+            "y_min": 327,
+            "y_max": 546
+        },
+        {
+            "label": 4,
+            "x_min": 497,
+            "x_max": 555,
+            "y_min": 206,
+            "y_max": 301
+        }
+    ],
+    "Decorah North_2022_05_14_19_13_26.png": [
+        {
+            "label": 2,
+            "x_min": 460,
+            "x_max": 820,
+            "y_min": 349,
+            "y_max": 528
+        },
+        {
+            "label": 2,
+            "x_min": 457,
+            "x_max": 886,
+            "y_min": 566,
+            "y_max": 698
+        }
+    ],
+    "Big Bear_2022_06_28_18_27_50.png": [
+        {
+            "label": 1,
+            "x_min": 529,
+            "x_max": 562,
+            "y_min": 58,
+            "y_max": 137
+        }
+    ],
+    "Decorah North_2022_06_22_08_29_33.png": [
+        {
+            "label": 3,
+            "x_min": 612,
+            "x_max": 761,
+            "y_min": 329,
+            "y_max": 592
+        },
+        {
+            "label": 3,
+            "x_min": 747,
+            "x_max": 907,
+            "y_min": 304,
+            "y_max": 616
+        }
+    ],
+    "Big Bear_2022_03_26_11_21_46.png": [
+        {
+            "label": 1,
+            "x_min": 569,
+            "x_max": 996,
+            "y_min": 218,
+            "y_max": 622
+        },
+        {
+            "label": 2,
+            "x_min": 885,
+            "x_max": 1114,
+            "y_min": 478,
+            "y_max": 634
+        }
+    ],
+    "Decorah North_2022_06_26_15_59_05.png": [
+        {
+            "label": 3,
+            "x_min": 305,
+            "x_max": 399,
+            "y_min": 248,
+            "y_max": 377
+        }
+    ],
+    "Decorah North_2022_05_27_21_33_45.png": [
+        {
+            "label": 1,
+            "x_min": 966,
+            "x_max": 1114,
+            "y_min": 93,
+            "y_max": 391
+        },
+        {
+            "label": 3,
+            "x_min": 870,
+            "x_max": 1147,
+            "y_min": 504,
+            "y_max": 630
+        },
+        {
+            "label": 3,
+            "x_min": 646,
+            "x_max": 886,
+            "y_min": 528,
+            "y_max": 695
+        }
+    ],
+    "National Arboretum B_2022_05_12_13_48_51.png": [
+        {
+            "label": 3,
+            "x_min": 836,
+            "x_max": 961,
+            "y_min": 498,
+            "y_max": 601
+        }
+    ],
+    "Decorah North_2022_03_28_23_26_57.png": [
+        {
+            "label": 1,
+            "x_min": 598,
+            "x_max": 951,
+            "y_min": 288,
+            "y_max": 639
+        }
+    ],
+    "Big Bear_2022_05_01_15_52_58.png": [
+        {
+            "label": 3,
+            "x_min": 140,
+            "x_max": 446,
+            "y_min": 170,
+            "y_max": 703
+        },
+        {
+            "label": 1,
+            "x_min": 905,
+            "x_max": 1098,
+            "y_min": 266,
+            "y_max": 533
+        }
+    ],
+    "Decorah North_2022_03_27_15_38_39.png": [
+        {
+            "label": 1,
+            "x_min": 566,
+            "x_max": 881,
+            "y_min": 253,
+            "y_max": 638
+        }
+    ],
+    "National Arboretum B_2022_04_03_08_58_44.png": [
+        {
+            "label": 1,
+            "x_min": 534,
+            "x_max": 900,
+            "y_min": 204,
+            "y_max": 568
+        }
+    ],
+    "National Arboretum B_2022_05_13_01_15_08.png": [
+        {
+            "label": 2,
+            "x_min": 653,
+            "x_max": 881,
+            "y_min": 453,
+            "y_max": 534
+        }
+    ],
+    "Decorah North_2022_05_12_14_49_58.png": [
+        {
+            "label": 1,
+            "x_min": 97,
+            "x_max": 510,
+            "y_min": 354,
+            "y_max": 574
+        },
+        {
+            "label": 3,
+            "x_min": 559,
+            "x_max": 791,
+            "y_min": 290,
+            "y_max": 524
+        },
+        {
+            "label": 4,
+            "x_min": 495,
+            "x_max": 556,
+            "y_min": 567,
+            "y_max": 600
+        }
+    ],
+    "National Arboretum A_2022_05_07_18_27_50.png": [
+        {
+            "label": 1,
+            "x_min": 476,
+            "x_max": 792,
+            "y_min": 216,
+            "y_max": 448
+        },
+        {
+            "label": 3,
+            "x_min": 514,
+            "x_max": 820,
+            "y_min": 450,
+            "y_max": 610
+        }
+    ],
+    "Big Bear_2022_04_26_12_24_14.png": [
+        {
+            "label": 1,
+            "x_min": 279,
+            "x_max": 672,
+            "y_min": 36,
+            "y_max": 427
+        },
+        {
+            "label": 2,
+            "x_min": 727,
+            "x_max": 1077,
+            "y_min": 467,
+            "y_max": 647
+        }
+    ],
+    "Decorah North_2022_06_14_22_50_20.png": [
+        {
+            "label": 2,
+            "x_min": 997,
+            "x_max": 1104,
+            "y_min": 423,
+            "y_max": 567
+        }
+    ],
+    "National Arboretum A_2022_04_02_20_31_52.png": [
+        {
+            "label": 1,
+            "x_min": 454,
+            "x_max": 982,
+            "y_min": 15,
+            "y_max": 693
+        },
+        {
+            "label": 4,
+            "x_min": 41,
+            "x_max": 372,
+            "y_min": 414,
+            "y_max": 712
+        }
+    ],
+    "Decorah North_2022_05_01_18_52_48.png": [
+        {
+            "label": 2,
+            "x_min": 472,
+            "x_max": 961,
+            "y_min": 468,
+            "y_max": 700
+        },
+        {
+            "label": 2,
+            "x_min": 712,
+            "x_max": 1047,
+            "y_min": 256,
+            "y_max": 625
+        }
+    ],
+    "Big Bear_2022_05_25_11_55_43.png": [
+        {
+            "label": 3,
+            "x_min": 908,
+            "x_max": 1016,
+            "y_min": 150,
+            "y_max": 416
+        }
+    ],
+    "Big Bear_2022_05_28_06_37_24.png": [
+        {
+            "label": 3,
+            "x_min": 794,
+            "x_max": 1000,
+            "y_min": 328,
+            "y_max": 591
+        }
+    ],
+    "National Arboretum A_2022_05_12_22_43_16.png": [
+        {
+            "label": 2,
+            "x_min": 541,
+            "x_max": 901,
+            "y_min": 288,
+            "y_max": 530
+        }
+    ],
+    "Big Bear_2022_03_10_20_46_42.png": [
+        {
+            "label": 1,
+            "x_min": 526,
+            "x_max": 980,
+            "y_min": 334,
+            "y_max": 660
+        }
+    ],
+    "Big Bear_2022_05_19_16_11_31.png": [
+        {
+            "label": 3,
+            "x_min": 353,
+            "x_max": 688,
+            "y_min": 202,
+            "y_max": 569
+        },
+        {
+            "label": 4,
+            "x_min": 475,
+            "x_max": 558,
+            "y_min": 489,
+            "y_max": 561
+        }
+    ],
+    "Decorah North_2022_03_11_13_07_45.png": [
+        {
+            "label": 1,
+            "x_min": 1085,
+            "x_max": 1215,
+            "y_min": 354,
+            "y_max": 417
+        }
+    ],
+    "Decorah North_2022_04_01_01_18_30.png": [
+        {
+            "label": 1,
+            "x_min": 502,
+            "x_max": 927,
+            "y_min": 247,
+            "y_max": 622
+        }
+    ],
+    "Big Bear_2022_04_04_05_06_23.png": [
+        {
+            "label": 1,
+            "x_min": 723,
+            "x_max": 1051,
+            "y_min": 277,
+            "y_max": 620
+        }
+    ],
+    "Decorah North_2022_06_28_20_51_54.png": [
+        {
+            "label": 1,
+            "x_min": 449,
+            "x_max": 698,
+            "y_min": 284,
+            "y_max": 683
+        }
+    ],
+    "Decorah North_2022_06_19_16_38_55.png": [
+        {
+            "label": 3,
+            "x_min": 695,
+            "x_max": 935,
+            "y_min": 226,
+            "y_max": 696
+        },
+        {
+            "label": 3,
+            "x_min": 841,
+            "x_max": 1046,
+            "y_min": 102,
+            "y_max": 491
+        }
+    ],
+    "National Arboretum A_2022_05_07_04_40_03.png": [
+        {
+            "label": 3,
+            "x_min": 475,
+            "x_max": 789,
+            "y_min": 467,
+            "y_max": 680
+        },
+        {
+            "label": 1,
+            "x_min": 623,
+            "x_max": 956,
+            "y_min": 137,
+            "y_max": 555
+        }
+    ],
+    "Big Bear_2022_05_20_08_05_12.png": [
+        {
+            "label": 4,
+            "x_min": 12,
+            "x_max": 435,
+            "y_min": 4,
+            "y_max": 751
+        },
+        {
+            "label": 4,
+            "x_min": 500,
+            "x_max": 659,
+            "y_min": 461,
+            "y_max": 557
+        }
+    ],
+    "National Arboretum B_2022_03_27_20_03_00.png": [
+        {
+            "label": 1,
+            "x_min": 557,
+            "x_max": 923,
+            "y_min": 98,
+            "y_max": 571
+        }
+    ],
+    "Decorah North_2022_03_21_11_37_51.png": [
+        {
+            "label": 1,
+            "x_min": 844,
+            "x_max": 1069,
+            "y_min": 407,
+            "y_max": 531
+        }
+    ],
+    "Decorah North_2022_05_15_20_23_01.png": [
+        {
+            "label": 1,
+            "x_min": 957,
+            "x_max": 1115,
+            "y_min": 37,
+            "y_max": 330
+        },
+        {
+            "label": 3,
+            "x_min": 793,
+            "x_max": 946,
+            "y_min": 391,
+            "y_max": 611
+        }
+    ],
+    "Decorah North_2022_03_20_06_29_14.png": [
+        {
+            "label": 1,
+            "x_min": 67,
+            "x_max": 1086,
+            "y_min": 126,
+            "y_max": 675
+        }
+    ],
+    "Decorah North_2022_05_17_18_57_38.png": [
+        {
+            "label": 3,
+            "x_min": 388,
+            "x_max": 1221,
+            "y_min": 49,
+            "y_max": 569
+        },
+        {
+            "label": 3,
+            "x_min": 160,
+            "x_max": 1175,
+            "y_min": 301,
+            "y_max": 695
+        }
+    ],
+    "Big Bear_2022_05_24_17_50_01.png": [
+        {
+            "label": 1,
+            "x_min": 939,
+            "x_max": 1069,
+            "y_min": 229,
+            "y_max": 464
+        },
+        {
+            "label": 3,
+            "x_min": 728,
+            "x_max": 1346,
+            "y_min": 211,
+            "y_max": 755
+        }
+    ],
+    "Decorah North_2022_03_18_14_11_08.png": [
+        {
+            "label": 1,
+            "x_min": 595,
+            "x_max": 1101,
+            "y_min": 367,
+            "y_max": 598
+        }
+    ],
+    "Decorah North_2022_06_01_21_59_15.png": [
+        {
+            "label": 1,
+            "x_min": 1008,
+            "x_max": 1125,
+            "y_min": 69,
+            "y_max": 322
+        },
+        {
+            "label": 3,
+            "x_min": 876,
+            "x_max": 1004,
+            "y_min": 236,
+            "y_max": 467
+        },
+        {
+            "label": 3,
+            "x_min": 792,
+            "x_max": 1102,
+            "y_min": 475,
+            "y_max": 598
+        }
+    ],
+    "Decorah North_2022_04_28_21_16_13.png": [
+        {
+            "label": 1,
+            "x_min": 346,
+            "x_max": 802,
+            "y_min": 213,
+            "y_max": 499
+        },
+        {
+            "label": 3,
+            "x_min": 537,
+            "x_max": 1032,
+            "y_min": 386,
+            "y_max": 571
+        }
+    ],
+    "Big Bear_2022_03_11_12_12_41.png": [
+        {
+            "label": 1,
+            "x_min": 668,
+            "x_max": 1120,
+            "y_min": 278,
+            "y_max": 758
+        }
+    ],
+    "Big Bear_2022_04_01_15_32_29.png": [
+        {
+            "label": 1,
+            "x_min": 627,
+            "x_max": 1192,
+            "y_min": 219,
+            "y_max": 697
+        }
+    ],
+    "National Arboretum A_2022_05_06_23_06_33.png": [
+        {
+            "label": 1,
+            "x_min": 632,
+            "x_max": 956,
+            "y_min": 235,
+            "y_max": 442
+        },
+        {
+            "label": 3,
+            "x_min": 596,
+            "x_max": 761,
+            "y_min": 308,
+            "y_max": 513
+        }
+    ],
+    "National Arboretum A_2022_05_15_00_00_33.png": [
+        {
+            "label": 3,
+            "x_min": 182,
+            "x_max": 658,
+            "y_min": 309,
+            "y_max": 521
+        }
+    ],
+    "Big Bear_2022_03_06_14_19_47.png": [
+        {
+            "label": 1,
+            "x_min": 393,
+            "x_max": 1048,
+            "y_min": 341,
+            "y_max": 655
+        }
+    ],
+    "Big Bear_2022_05_13_16_22_02.png": [
+        {
+            "label": 3,
+            "x_min": 75,
+            "x_max": 1341,
+            "y_min": 8,
+            "y_max": 715
+        }
+    ],
+    "National Arboretum A_2022_04_28_23_15_56.png": [
+        {
+            "label": 1,
+            "x_min": 489,
+            "x_max": 864,
+            "y_min": 370,
+            "y_max": 644
+        },
+        {
+            "label": 2,
+            "x_min": 747,
+            "x_max": 917,
+            "y_min": 249,
+            "y_max": 450
+        }
+    ],
+    "Decorah North_2022_05_19_12_58_25.png": [
+        {
+            "label": 3,
+            "x_min": 504,
+            "x_max": 831,
+            "y_min": 305,
+            "y_max": 563
+        },
+        {
+            "label": 3,
+            "x_min": 401,
+            "x_max": 685,
+            "y_min": 512,
+            "y_max": 693
+        }
+    ],
+    "Decorah North_2022_05_11_22_00_39.png": [
+        {
+            "label": 1,
+            "x_min": 951,
+            "x_max": 1122,
+            "y_min": 110,
+            "y_max": 401
+        },
+        {
+            "label": 2,
+            "x_min": 1035,
+            "x_max": 1297,
+            "y_min": 544,
+            "y_max": 674
+        },
+        {
+            "label": 2,
+            "x_min": 873,
+            "x_max": 1062,
+            "y_min": 447,
+            "y_max": 613
+        }
+    ],
+    "Big Bear_2022_05_02_17_53_51.png": [
+        {
+            "label": 3,
+            "x_min": 115,
+            "x_max": 547,
+            "y_min": 121,
+            "y_max": 691
+        },
+        {
+            "label": 1,
+            "x_min": 1016,
+            "x_max": 1333,
+            "y_min": 269,
+            "y_max": 646
+        }
+    ],
+    "Decorah North_2022_04_27_03_21_32.png": [
+        {
+            "label": 1,
+            "x_min": 378,
+            "x_max": 916,
+            "y_min": 91,
+            "y_max": 449
+        },
+        {
+            "label": 2,
+            "x_min": 685,
+            "x_max": 1001,
+            "y_min": 391,
+            "y_max": 545
+        }
+    ],
+    "National Arboretum A_2022_04_02_03_13_56.png": [
+        {
+            "label": 1,
+            "x_min": 507,
+            "x_max": 887,
+            "y_min": 164,
+            "y_max": 593
+        }
+    ],
+    "National Arboretum B_2022_05_09_10_18_20.png": [
+        {
+            "label": 3,
+            "x_min": 573,
+            "x_max": 778,
+            "y_min": 376,
+            "y_max": 484
+        }
+    ],
+    "Big Bear_2022_05_27_18_32_28.png": [
+        {
+            "label": 3,
+            "x_min": 836,
+            "x_max": 1000,
+            "y_min": 323,
+            "y_max": 551
+        }
+    ],
+    "Decorah North_2022_03_14_13_14_06.png": [
+        {
+            "label": 1,
+            "x_min": 345,
+            "x_max": 1346,
+            "y_min": 191,
+            "y_max": 695
+        }
+    ],
+    "Decorah North_2022_04_04_05_57_22.png": [
+        {
+            "label": 1,
+            "x_min": 569,
+            "x_max": 1345,
+            "y_min": 144,
+            "y_max": 691
+        }
+    ],
+    "Decorah North_2022_05_21_09_32_33.png": [
+        {
+            "label": 1,
+            "x_min": 4,
+            "x_max": 444,
+            "y_min": 6,
+            "y_max": 513
+        },
+        {
+            "label": 3,
+            "x_min": 531,
+            "x_max": 1345,
+            "y_min": 91,
+            "y_max": 695
+        },
+        {
+            "label": 3,
+            "x_min": 565,
+            "x_max": 1346,
+            "y_min": 1,
+            "y_max": 287
+        },
+        {
+            "label": 4,
+            "x_min": 272,
+            "x_max": 728,
+            "y_min": 404,
+            "y_max": 634
+        }
+    ],
+    "National Arboretum B_2022_05_09_08_53_30.png": [
+        {
+            "label": 2,
+            "x_min": 564,
+            "x_max": 774,
+            "y_min": 342,
+            "y_max": 491
+        }
+    ],
+    "Decorah North_2022_05_15_11_16_49.png": [
+        {
+            "label": 3,
+            "x_min": 521,
+            "x_max": 727,
+            "y_min": 520,
+            "y_max": 695
+        },
+        {
+            "label": 3,
+            "x_min": 945,
+            "x_max": 1104,
+            "y_min": 313,
+            "y_max": 584
+        }
+    ],
+    "National Arboretum A_2022_05_03_17_16_27.png": [
+        {
+            "label": 1,
+            "x_min": 791,
+            "x_max": 948,
+            "y_min": 76,
+            "y_max": 283
+        },
+        {
+            "label": 2,
+            "x_min": 590,
+            "x_max": 783,
+            "y_min": 484,
+            "y_max": 724
+        }
+    ],
+    "Decorah North_2022_05_19_14_15_22.png": [
+        {
+            "label": 3,
+            "x_min": 304,
+            "x_max": 786,
+            "y_min": 80,
+            "y_max": 613
+        },
+        {
+            "label": 3,
+            "x_min": 943,
+            "x_max": 1338,
+            "y_min": 152,
+            "y_max": 693
+        },
+        {
+            "label": 4,
+            "x_min": 593,
+            "x_max": 832,
+            "y_min": 533,
+            "y_max": 597
+        }
+    ],
+    "National Arboretum A_2022_04_26_17_47_43.png": [
+        {
+            "label": 1,
+            "x_min": 419,
+            "x_max": 848,
+            "y_min": 252,
+            "y_max": 576
+        }
+    ],
+    "Decorah North_2022_05_11_20_01_10.png": [
+        {
+            "label": 3,
+            "x_min": 863,
+            "x_max": 1205,
+            "y_min": 277,
+            "y_max": 513
+        },
+        {
+            "label": 3,
+            "x_min": 651,
+            "x_max": 1088,
+            "y_min": 452,
+            "y_max": 664
+        }
+    ],
+    "Big Bear_2022_05_15_08_05_46.png": [
+        {
+            "label": 1,
+            "x_min": 772,
+            "x_max": 910,
+            "y_min": 197,
+            "y_max": 428
+        },
+        {
+            "label": 3,
+            "x_min": 882,
+            "x_max": 1337,
+            "y_min": 179,
+            "y_max": 740
+        }
+    ],
+    "National Arboretum B_2022_03_25_10_36_27.png": [
+        {
+            "label": 1,
+            "x_min": 364,
+            "x_max": 1300,
+            "y_min": 31,
+            "y_max": 674
+        }
+    ],
+    "Decorah North_2022_04_26_12_53_13.png": [
+        {
+            "label": 1,
+            "x_min": 927,
+            "x_max": 1077,
+            "y_min": 162,
+            "y_max": 394
+        },
+        {
+            "label": 2,
+            "x_min": 749,
+            "x_max": 874,
+            "y_min": 455,
+            "y_max": 544
+        },
+        {
+            "label": 2,
+            "x_min": 845,
+            "x_max": 1008,
+            "y_min": 446,
+            "y_max": 515
+        }
+    ],
+    "Decorah North_2022_03_31_09_51_41.png": [
+        {
+            "label": 1,
+            "x_min": 272,
+            "x_max": 836,
+            "y_min": 219,
+            "y_max": 573
+        }
+    ],
+    "Decorah North_2022_06_16_02_41_16.png": [
+        {
+            "label": 3,
+            "x_min": 973,
+            "x_max": 1080,
+            "y_min": 444,
+            "y_max": 562
+        }
+    ],
+    "National Arboretum B_2022_04_28_00_59_12.png": [
+        {
+            "label": 1,
+            "x_min": 685,
+            "x_max": 943,
+            "y_min": 274,
+            "y_max": 532
+        },
+        {
+            "label": 3,
+            "x_min": 939,
+            "x_max": 1062,
+            "y_min": 310,
+            "y_max": 425
+        }
+    ],
+    "Decorah North_2022_03_14_23_41_53.png": [
+        {
+            "label": 1,
+            "x_min": 515,
+            "x_max": 971,
+            "y_min": 366,
+            "y_max": 579
+        }
+    ],
+    "Decorah North_2022_05_15_09_39_56.png": [
+        {
+            "label": 1,
+            "x_min": 1059,
+            "x_max": 1247,
+            "y_min": 155,
+            "y_max": 354
+        },
+        {
+            "label": 3,
+            "x_min": 797,
+            "x_max": 1045,
+            "y_min": 500,
+            "y_max": 675
+        },
+        {
+            "label": 3,
+            "x_min": 577,
+            "x_max": 809,
+            "y_min": 525,
+            "y_max": 645
+        }
+    ],
+    "Decorah North_2022_04_27_06_37_59.png": [
+        {
+            "label": 1,
+            "x_min": 8,
+            "x_max": 825,
+            "y_min": 14,
+            "y_max": 669
+        },
+        {
+            "label": 2,
+            "x_min": 574,
+            "x_max": 1171,
+            "y_min": 483,
+            "y_max": 693
+        },
+        {
+            "label": 2,
+            "x_min": 754,
+            "x_max": 1138,
+            "y_min": 341,
+            "y_max": 541
+        }
+    ],
+    "Big Bear_2022_05_24_20_19_00.png": [
+        {
+            "label": 1,
+            "x_min": 706,
+            "x_max": 828,
+            "y_min": 274,
+            "y_max": 517
+        },
+        {
+            "label": 3,
+            "x_min": 886,
+            "x_max": 1006,
+            "y_min": 319,
+            "y_max": 577
+        }
+    ],
+    "Big Bear_2022_05_24_12_34_44.png": [
+        {
+            "label": 3,
+            "x_min": 887,
+            "x_max": 1012,
+            "y_min": 304,
+            "y_max": 570
+        }
+    ],
+    "Big Bear_2022_03_20_05_48_07.png": [
+        {
+            "label": 1,
+            "x_min": 627,
+            "x_max": 1041,
+            "y_min": 330,
+            "y_max": 702
+        }
+    ],
+    "Big Bear_2022_04_26_22_42_49.png": [
+        {
+            "label": 1,
+            "x_min": 362,
+            "x_max": 858,
+            "y_min": 242,
+            "y_max": 564
+        },
+        {
+            "label": 3,
+            "x_min": 679,
+            "x_max": 1080,
+            "y_min": 436,
+            "y_max": 625
+        }
+    ],
+    "Big Bear_2022_05_09_18_49_56.png": [
+        {
+            "label": 3,
+            "x_min": 361,
+            "x_max": 658,
+            "y_min": 102,
+            "y_max": 396
+        }
+    ],
+    "National Arboretum A_2022_03_25_09_52_22.png": [
+        {
+            "label": 1,
+            "x_min": 278,
+            "x_max": 1065,
+            "y_min": 7,
+            "y_max": 736
+        }
+    ],
+    "Decorah North_2022_05_27_22_53_11.png": [
+        {
+            "label": 1,
+            "x_min": 988,
+            "x_max": 1117,
+            "y_min": 86,
+            "y_max": 361
+        },
+        {
+            "label": 3,
+            "x_min": 805,
+            "x_max": 1077,
+            "y_min": 504,
+            "y_max": 658
+        },
+        {
+            "label": 3,
+            "x_min": 735,
+            "x_max": 1028,
+            "y_min": 577,
+            "y_max": 690
+        }
+    ],
+    "Big Bear_2022_05_21_08_49_29.png": [
+        {
+            "label": 3,
+            "x_min": 685,
+            "x_max": 1332,
+            "y_min": 197,
+            "y_max": 755
+        },
+        {
+            "label": 4,
+            "x_min": 585,
+            "x_max": 763,
+            "y_min": 488,
+            "y_max": 571
+        },
+        {
+            "label": 1,
+            "x_min": 30,
+            "x_max": 426,
+            "y_min": 2,
+            "y_max": 754
+        }
+    ],
+    "Big Bear_2022_03_23_14_17_25.png": [
+        {
+            "label": 1,
+            "x_min": 664,
+            "x_max": 1000,
+            "y_min": 267,
+            "y_max": 723
+        },
+        {
+            "label": 4,
+            "x_min": 581,
+            "x_max": 719,
+            "y_min": 396,
+            "y_max": 466
+        }
+    ],
+    "National Arboretum B_2022_03_28_15_09_48.png": [
+        {
+            "label": 1,
+            "x_min": 478,
+            "x_max": 986,
+            "y_min": 77,
+            "y_max": 629
+        }
+    ],
+    "Decorah North_2022_05_09_21_10_27.png": [
+        {
+            "label": 1,
+            "x_min": 781,
+            "x_max": 1064,
+            "y_min": 335,
+            "y_max": 597
+        },
+        {
+            "label": 3,
+            "x_min": 797,
+            "x_max": 1086,
+            "y_min": 582,
+            "y_max": 695
+        },
+        {
+            "label": 3,
+            "x_min": 1083,
+            "x_max": 1314,
+            "y_min": 459,
+            "y_max": 595
+        }
+    ],
+    "Big Bear_2022_05_17_11_59_49.png": [
+        {
+            "label": 3,
+            "x_min": 163,
+            "x_max": 552,
+            "y_min": 72,
+            "y_max": 750
+        }
+    ],
+    "Decorah North_2022_04_02_14_42_02.png": [
+        {
+            "label": 1,
+            "x_min": 2,
+            "x_max": 750,
+            "y_min": 0,
+            "y_max": 695
+        },
+        {
+            "label": 2,
+            "x_min": 731,
+            "x_max": 969,
+            "y_min": 245,
+            "y_max": 585
+        },
+        {
+            "label": 2,
+            "x_min": 908,
+            "x_max": 1161,
+            "y_min": 300,
+            "y_max": 582
+        }
+    ],
+    "Big Bear_2022_05_24_19_47_38.png": [
+        {
+            "label": 1,
+            "x_min": 235,
+            "x_max": 499,
+            "y_min": 84,
+            "y_max": 652
+        },
+        {
+            "label": 3,
+            "x_min": 642,
+            "x_max": 911,
+            "y_min": 218,
+            "y_max": 727
+        }
+    ],
+    "Big Bear_2022_03_30_06_57_06.png": [
+        {
+            "label": 1,
+            "x_min": 693,
+            "x_max": 1123,
+            "y_min": 198,
+            "y_max": 472
+        },
+        {
+            "label": 2,
+            "x_min": 693,
+            "x_max": 914,
+            "y_min": 436,
+            "y_max": 679
+        }
+    ],
+    "Big Bear_2022_05_15_21_30_48.png": [
+        {
+            "label": 3,
+            "x_min": 489,
+            "x_max": 1033,
+            "y_min": 549,
+            "y_max": 756
+        },
+        {
+            "label": 1,
+            "x_min": 736,
+            "x_max": 876,
+            "y_min": 306,
+            "y_max": 509
+        }
+    ],
+    "Decorah North_2022_05_02_00_02_34.png": [
+        {
+            "label": 2,
+            "x_min": 618,
+            "x_max": 967,
+            "y_min": 343,
+            "y_max": 557
+        }
+    ],
+    "Big Bear_2022_04_01_18_10_45.png": [
+        {
+            "label": 1,
+            "x_min": 756,
+            "x_max": 1223,
+            "y_min": 166,
+            "y_max": 665
+        }
+    ],
+    "Decorah North_2022_05_11_10_48_12.png": [
+        {
+            "label": 2,
+            "x_min": 191,
+            "x_max": 557,
+            "y_min": 449,
+            "y_max": 609
+        },
+        {
+            "label": 2,
+            "x_min": 565,
+            "x_max": 812,
+            "y_min": 233,
+            "y_max": 562
+        }
+    ],
+    "Big Bear_2022_03_09_15_11_33.png": [
+        {
+            "label": 1,
+            "x_min": 568,
+            "x_max": 1007,
+            "y_min": 355,
+            "y_max": 658
+        }
+    ],
+    "Decorah North_2022_05_01_01_57_35.png": [
+        {
+            "label": 1,
+            "x_min": 640,
+            "x_max": 945,
+            "y_min": 200,
+            "y_max": 687
+        }
+    ],
+    "Decorah North_2022_03_20_17_05_50.png": [
+        {
+            "label": 1,
+            "x_min": 199,
+            "x_max": 1348,
+            "y_min": 11,
+            "y_max": 685
+        }
+    ],
+    "Big Bear_2022_05_24_23_15_31.png": [
+        {
+            "label": 3,
+            "x_min": 695,
+            "x_max": 929,
+            "y_min": 275,
+            "y_max": 604
+        },
+        {
+            "label": 1,
+            "x_min": 884,
+            "x_max": 1104,
+            "y_min": 291,
+            "y_max": 543
+        }
+    ],
+    "Big Bear_2022_05_28_12_00_42.png": [
+        {
+            "label": 3,
+            "x_min": 834,
+            "x_max": 1008,
+            "y_min": 325,
+            "y_max": 558
+        }
+    ],
+    "Decorah North_2022_05_21_20_00_36.png": [
+        {
+            "label": 3,
+            "x_min": 803,
+            "x_max": 996,
+            "y_min": 121,
+            "y_max": 517
+        },
+        {
+            "label": 3,
+            "x_min": 989,
+            "x_max": 1259,
+            "y_min": 218,
+            "y_max": 604
+        }
+    ],
+    "Big Bear_2022_05_08_12_05_36.png": [
+        {
+            "label": 3,
+            "x_min": 357,
+            "x_max": 598,
+            "y_min": 68,
+            "y_max": 389
+        }
+    ],
+    "National Arboretum A_2022_04_04_18_05_36.png": [
+        {
+            "label": 1,
+            "x_min": 87,
+            "x_max": 780,
+            "y_min": 169,
+            "y_max": 610
+        },
+        {
+            "label": 4,
+            "x_min": 20,
+            "x_max": 412,
+            "y_min": 130,
+            "y_max": 341
+        },
+        {
+            "label": 4,
+            "x_min": 417,
+            "x_max": 479,
+            "y_min": 129,
+            "y_max": 270
+        },
+        {
+            "label": 4,
+            "x_min": 435,
+            "x_max": 583,
+            "y_min": 110,
+            "y_max": 292
+        }
+    ],
+    "Big Bear_2022_04_30_18_23_27.png": [
+        {
+            "label": 3,
+            "x_min": 167,
+            "x_max": 545,
+            "y_min": 67,
+            "y_max": 572
+        }
+    ],
+    "Decorah North_2022_05_10_05_58_02.png": [
+        {
+            "label": 3,
+            "x_min": 637,
+            "x_max": 884,
+            "y_min": 345,
+            "y_max": 691
+        },
+        {
+            "label": 3,
+            "x_min": 436,
+            "x_max": 696,
+            "y_min": 186,
+            "y_max": 512
+        }
+    ],
+    "National Arboretum A_2022_04_26_20_45_04.png": [
+        {
+            "label": 1,
+            "x_min": 168,
+            "x_max": 652,
+            "y_min": 218,
+            "y_max": 547
+        },
+        {
+            "label": 2,
+            "x_min": 586,
+            "x_max": 817,
+            "y_min": 386,
+            "y_max": 621
+        }
+    ],
+    "National Arboretum A_2022_03_22_08_24_13.png": [
+        {
+            "label": 1,
+            "x_min": 484,
+            "x_max": 863,
+            "y_min": 313,
+            "y_max": 479
+        }
+    ],
+    "Big Bear_2022_05_28_14_16_14.png": [
+        {
+            "label": 3,
+            "x_min": 733,
+            "x_max": 966,
+            "y_min": 343,
+            "y_max": 557
+        },
+        {
+            "label": 1,
+            "x_min": 910,
+            "x_max": 1014,
+            "y_min": 270,
+            "y_max": 525
+        }
+    ],
+    "Decorah North_2022_05_25_01_10_20.png": [
+        {
+            "label": 1,
+            "x_min": 987,
+            "x_max": 1134,
+            "y_min": 70,
+            "y_max": 359
+        },
+        {
+            "label": 3,
+            "x_min": 961,
+            "x_max": 1109,
+            "y_min": 455,
+            "y_max": 693
+        },
+        {
+            "label": 3,
+            "x_min": 731,
+            "x_max": 972,
+            "y_min": 523,
+            "y_max": 669
+        }
+    ],
+    "Big Bear_2022_03_10_16_02_39.png": [
+        {
+            "label": 1,
+            "x_min": 467,
+            "x_max": 1085,
+            "y_min": 349,
+            "y_max": 646
+        }
+    ],
+    "Decorah North_2022_05_19_16_40_35.png": [
+        {
+            "label": 3,
+            "x_min": 486,
+            "x_max": 789,
+            "y_min": 142,
+            "y_max": 516
+        },
+        {
+            "label": 3,
+            "x_min": 877,
+            "x_max": 1343,
+            "y_min": 412,
+            "y_max": 629
+        }
+    ],
+    "Decorah North_2022_06_15_03_59_15.png": [
+        {
+            "label": 3,
+            "x_min": 990,
+            "x_max": 1099,
+            "y_min": 449,
+            "y_max": 576
+        }
+    ],
+    "Decorah North_2022_05_13_16_21_08.png": [
+        {
+            "label": 3,
+            "x_min": 293,
+            "x_max": 520,
+            "y_min": 233,
+            "y_max": 522
+        },
+        {
+            "label": 3,
+            "x_min": 709,
+            "x_max": 1014,
+            "y_min": 411,
+            "y_max": 613
+        }
+    ],
+    "Decorah North_2022_05_11_21_48_42.png": [
+        {
+            "label": 1,
+            "x_min": 945,
+            "x_max": 1133,
+            "y_min": 81,
+            "y_max": 377
+        },
+        {
+            "label": 3,
+            "x_min": 866,
+            "x_max": 1054,
+            "y_min": 438,
+            "y_max": 603
+        },
+        {
+            "label": 3,
+            "x_min": 1046,
+            "x_max": 1285,
+            "y_min": 510,
+            "y_max": 659
+        }
+    ],
+    "Decorah North_2022_03_20_06_39_45.png": [
+        {
+            "label": 1,
+            "x_min": 534,
+            "x_max": 1057,
+            "y_min": 65,
+            "y_max": 688
+        }
+    ],
+    "Decorah North_2022_03_27_02_10_32.png": [
+        {
+            "label": 1,
+            "x_min": 529,
+            "x_max": 1065,
+            "y_min": 150,
+            "y_max": 693
+        }
+    ],
+    "Decorah North_2022_05_09_23_51_46.png": [
+        {
+            "label": 2,
+            "x_min": 860,
+            "x_max": 1005,
+            "y_min": 484,
+            "y_max": 616
+        },
+        {
+            "label": 2,
+            "x_min": 966,
+            "x_max": 1154,
+            "y_min": 519,
+            "y_max": 629
+        }
+    ],
+    "National Arboretum A_2022_05_09_07_24_00.png": [
+        {
+            "label": 3,
+            "x_min": 341,
+            "x_max": 595,
+            "y_min": 596,
+            "y_max": 745
+        },
+        {
+            "label": 3,
+            "x_min": 721,
+            "x_max": 838,
+            "y_min": 4,
+            "y_max": 105
+        }
+    ],
+    "Big Bear_2022_05_01_19_20_34.png": [
+        {
+            "label": 3,
+            "x_min": 697,
+            "x_max": 1209,
+            "y_min": 465,
+            "y_max": 710
+        },
+        {
+            "label": 1,
+            "x_min": 904,
+            "x_max": 1107,
+            "y_min": 275,
+            "y_max": 534
+        }
+    ],
+    "Decorah North_2022_05_24_13_49_38.png": [
+        {
+            "label": 3,
+            "x_min": 386,
+            "x_max": 635,
+            "y_min": 390,
+            "y_max": 597
+        },
+        {
+            "label": 3,
+            "x_min": 515,
+            "x_max": 677,
+            "y_min": 284,
+            "y_max": 526
+        }
+    ],
+    "Decorah North_2022_05_29_16_43_36.png": [
+        {
+            "label": 3,
+            "x_min": 309,
+            "x_max": 1000,
+            "y_min": 333,
+            "y_max": 544
+        },
+        {
+            "label": 3,
+            "x_min": 418,
+            "x_max": 1088,
+            "y_min": 439,
+            "y_max": 667
+        }
+    ],
+    "National Arboretum A_2022_05_03_21_18_23.png": [
+        {
+            "label": 1,
+            "x_min": 489,
+            "x_max": 693,
+            "y_min": 199,
+            "y_max": 414
+        },
+        {
+            "label": 2,
+            "x_min": 451,
+            "x_max": 766,
+            "y_min": 412,
+            "y_max": 599
+        }
+    ],
+    "Decorah North_2022_06_22_02_58_02.png": [
+        {
+            "label": 3,
+            "x_min": 444,
+            "x_max": 566,
+            "y_min": 271,
+            "y_max": 560
+        }
+    ],
+    "Big Bear_2022_05_25_04_02_48.png": [
+        {
+            "label": 1,
+            "x_min": 382,
+            "x_max": 826,
+            "y_min": 277,
+            "y_max": 633
+        },
+        {
+            "label": 3,
+            "x_min": 802,
+            "x_max": 1277,
+            "y_min": 272,
+            "y_max": 742
+        },
+        {
+            "label": 4,
+            "x_min": 458,
+            "x_max": 540,
+            "y_min": 522,
+            "y_max": 582
+        }
+    ],
+    "Big Bear_2022_05_25_15_28_36.png": [
+        {
+            "label": 3,
+            "x_min": 898,
+            "x_max": 1011,
+            "y_min": 315,
+            "y_max": 561
+        }
+    ],
+    "Decorah North_2022_03_26_04_18_55.png": [
+        {
+            "label": 1,
+            "x_min": 163,
+            "x_max": 1236,
+            "y_min": 9,
+            "y_max": 669
+        }
+    ],
+    "National Arboretum A_2022_05_06_23_22_29.png": [
+        {
+            "label": 1,
+            "x_min": 214,
+            "x_max": 638,
+            "y_min": 161,
+            "y_max": 434
+        },
+        {
+            "label": 3,
+            "x_min": 493,
+            "x_max": 805,
+            "y_min": 316,
+            "y_max": 504
+        }
+    ],
+    "National Arboretum A_2022_03_27_10_22_24.png": [
+        {
+            "label": 1,
+            "x_min": 323,
+            "x_max": 1129,
+            "y_min": 4,
+            "y_max": 647
+        }
+    ],
+    "National Arboretum A_2022_05_12_03_41_53.png": [
+        {
+            "label": 3,
+            "x_min": 571,
+            "x_max": 808,
+            "y_min": 518,
+            "y_max": 716
+        }
+    ],
+    "Decorah North_2022_05_08_18_40_30.png": [
+        {
+            "label": 3,
+            "x_min": 727,
+            "x_max": 1160,
+            "y_min": 374,
+            "y_max": 687
+        }
+    ],
+    "National Arboretum A_2022_05_10_18_53_05.png": [
+        {
+            "label": 2,
+            "x_min": 591,
+            "x_max": 867,
+            "y_min": 255,
+            "y_max": 434
+        }
+    ],
+    "National Arboretum A_2022_05_09_01_47_21.png": [
+        {
+            "label": 3,
+            "x_min": 411,
+            "x_max": 683,
+            "y_min": 411,
+            "y_max": 634
+        }
+    ],
+    "Big Bear_2022_05_07_10_07_46.png": [
+        {
+            "label": 1,
+            "x_min": 931,
+            "x_max": 1088,
+            "y_min": 189,
+            "y_max": 436
+        },
+        {
+            "label": 3,
+            "x_min": 1061,
+            "x_max": 1341,
+            "y_min": 123,
+            "y_max": 755
+        }
+    ],
+    "National Arboretum A_2022_05_02_01_45_32.png": [
+        {
+            "label": 2,
+            "x_min": 735,
+            "x_max": 1020,
+            "y_min": 144,
+            "y_max": 436
+        }
+    ],
+    "Decorah North_2022_05_11_13_40_42.png": [
+        {
+            "label": 3,
+            "x_min": 393,
+            "x_max": 1345,
+            "y_min": 508,
+            "y_max": 693
+        },
+        {
+            "label": 3,
+            "x_min": 6,
+            "x_max": 817,
+            "y_min": 321,
+            "y_max": 683
+        }
+    ],
+    "National Arboretum A_2022_05_08_14_35_34.png": [
+        {
+            "label": 2,
+            "x_min": 518,
+            "x_max": 746,
+            "y_min": 398,
+            "y_max": 605
+        }
+    ],
+    "National Arboretum B_2022_03_21_20_38_05.png": [
+        {
+            "label": 1,
+            "x_min": 830,
+            "x_max": 1088,
+            "y_min": 459,
+            "y_max": 557
+        }
+    ],
+    "Decorah North_2022_05_24_15_12_35.png": [
+        {
+            "label": 3,
+            "x_min": 428,
+            "x_max": 955,
+            "y_min": 6,
+            "y_max": 558
+        }
+    ],
+    "Decorah North_2022_03_31_21_11_30.png": [
+        {
+            "label": 1,
+            "x_min": 526,
+            "x_max": 916,
+            "y_min": 242,
+            "y_max": 643
+        }
+    ],
+    "Decorah North_2022_05_12_17_17_05.png": [
+        {
+            "label": 3,
+            "x_min": 6,
+            "x_max": 1200,
+            "y_min": 1,
+            "y_max": 685
+        }
+    ],
+    "Decorah North_2022_05_29_01_24_03.png": [
+        {
+            "label": 1,
+            "x_min": 958,
+            "x_max": 1123,
+            "y_min": 20,
+            "y_max": 319
+        },
+        {
+            "label": 3,
+            "x_min": 820,
+            "x_max": 1110,
+            "y_min": 508,
+            "y_max": 648
+        },
+        {
+            "label": 3,
+            "x_min": 688,
+            "x_max": 990,
+            "y_min": 614,
+            "y_max": 693
+        }
+    ],
+    "National Arboretum B_2022_04_27_11_22_19.png": [
+        {
+            "label": 1,
+            "x_min": 763,
+            "x_max": 844,
+            "y_min": 60,
+            "y_max": 221
+        },
+        {
+            "label": 1,
+            "x_min": 905,
+            "x_max": 1023,
+            "y_min": 531,
+            "y_max": 753
+        },
+        {
+            "label": 2,
+            "x_min": 746,
+            "x_max": 878,
+            "y_min": 549,
+            "y_max": 622
+        }
+    ],
+    "National Arboretum A_2022_05_08_21_06_49.png": [
+        {
+            "label": 2,
+            "x_min": 437,
+            "x_max": 657,
+            "y_min": 432,
+            "y_max": 655
+        }
+    ],
+    "National Arboretum B_2022_05_11_13_59_40.png": [
+        {
+            "label": 1,
+            "x_min": 856,
+            "x_max": 1059,
+            "y_min": 467,
+            "y_max": 650
+        },
+        {
+            "label": 3,
+            "x_min": 1020,
+            "x_max": 1056,
+            "y_min": 518,
+            "y_max": 593
+        }
+    ],
+    "National Arboretum A_2022_05_03_10_35_37.png": [
+        {
+            "label": 1,
+            "x_min": 515,
+            "x_max": 598,
+            "y_min": 107,
+            "y_max": 236
+        }
+    ],
+    "National Arboretum A_2022_03_31_07_31_50.png": [
+        {
+            "label": 1,
+            "x_min": 542,
+            "x_max": 971,
+            "y_min": 123,
+            "y_max": 707
+        },
+        {
+            "label": 4,
+            "x_min": 417,
+            "x_max": 582,
+            "y_min": 146,
+            "y_max": 264
+        },
+        {
+            "label": 4,
+            "x_min": 261,
+            "x_max": 481,
+            "y_min": 336,
+            "y_max": 451
+        },
+        {
+            "label": 4,
+            "x_min": 370,
+            "x_max": 501,
+            "y_min": 118,
+            "y_max": 232
+        },
+        {
+            "label": 4,
+            "x_min": 308,
+            "x_max": 409,
+            "y_min": 51,
+            "y_max": 147
+        },
+        {
+            "label": 4,
+            "x_min": 77,
+            "x_max": 261,
+            "y_min": 375,
+            "y_max": 513
+        },
+        {
+            "label": 4,
+            "x_min": 216,
+            "x_max": 284,
+            "y_min": 242,
+            "y_max": 355
+        },
+        {
+            "label": 4,
+            "x_min": 23,
+            "x_max": 122,
+            "y_min": 322,
+            "y_max": 452
+        }
+    ],
+    "National Arboretum B_2022_03_30_23_04_52.png": [
+        {
+            "label": 1,
+            "x_min": 585,
+            "x_max": 820,
+            "y_min": 213,
+            "y_max": 576
+        },
+        {
+            "label": 4,
+            "x_min": 854,
+            "x_max": 986,
+            "y_min": 444,
+            "y_max": 513
+        },
+        {
+            "label": 4,
+            "x_min": 823,
+            "x_max": 931,
+            "y_min": 429,
+            "y_max": 483
+        },
+        {
+            "label": 4,
+            "x_min": 887,
+            "x_max": 997,
+            "y_min": 480,
+            "y_max": 569
+        }
+    ],
+    "National Arboretum B_2022_05_10_22_05_54.png": [
+        {
+            "label": 1,
+            "x_min": 462,
+            "x_max": 624,
+            "y_min": 546,
+            "y_max": 741
+        }
+    ],
+    "Decorah North_2022_05_28_05_59_52.png": [
+        {
+            "label": 3,
+            "x_min": 325,
+            "x_max": 666,
+            "y_min": 330,
+            "y_max": 666
+        },
+        {
+            "label": 3,
+            "x_min": 1106,
+            "x_max": 1319,
+            "y_min": 183,
+            "y_max": 613
+        }
+    ],
+    "Big Bear_2022_04_02_18_58_36.png": [
+        {
+            "label": 1,
+            "x_min": 287,
+            "x_max": 923,
+            "y_min": 9,
+            "y_max": 421
+        },
+        {
+            "label": 4,
+            "x_min": 191,
+            "x_max": 823,
+            "y_min": 232,
+            "y_max": 509
+        },
+        {
+            "label": 2,
+            "x_min": 216,
+            "x_max": 900,
+            "y_min": 432,
+            "y_max": 755
+        }
+    ],
+    "Big Bear_2022_03_22_23_00_23.png": [
+        {
+            "label": 1,
+            "x_min": 775,
+            "x_max": 1348,
+            "y_min": 304,
+            "y_max": 719
+        }
+    ],
+    "Big Bear_2022_05_15_11_57_29.png": [
+        {
+            "label": 1,
+            "x_min": 935,
+            "x_max": 1110,
+            "y_min": 216,
+            "y_max": 428
+        },
+        {
+            "label": 3,
+            "x_min": 664,
+            "x_max": 1205,
+            "y_min": 421,
+            "y_max": 689
+        }
+    ],
+    "Big Bear_2022_04_27_21_12_50.png": [
+        {
+            "label": 1,
+            "x_min": 1008,
+            "x_max": 1160,
+            "y_min": 219,
+            "y_max": 477
+        },
+        {
+            "label": 3,
+            "x_min": 597,
+            "x_max": 1059,
+            "y_min": 420,
+            "y_max": 668
+        }
+    ],
+    "National Arboretum A_2022_05_07_05_22_03.png": [
+        {
+            "label": 3,
+            "x_min": 501,
+            "x_max": 753,
+            "y_min": 440,
+            "y_max": 621
+        },
+        {
+            "label": 1,
+            "x_min": 627,
+            "x_max": 940,
+            "y_min": 146,
+            "y_max": 512
+        }
+    ],
+    "National Arboretum B_2022_04_28_05_34_35.png": [
+        {
+            "label": 2,
+            "x_min": 274,
+            "x_max": 1299,
+            "y_min": 93,
+            "y_max": 626
+        }
+    ],
+    "Decorah North_2022_06_29_17_28_26.png": [
+        {
+            "label": 3,
+            "x_min": 462,
+            "x_max": 669,
+            "y_min": 356,
+            "y_max": 489
+        },
+        {
+            "label": 3,
+            "x_min": 857,
+            "x_max": 1000,
+            "y_min": 297,
+            "y_max": 467
+        },
+        {
+            "label": 1,
+            "x_min": 961,
+            "x_max": 1223,
+            "y_min": 187,
+            "y_max": 356
+        }
+    ],
+    "Decorah North_2022_05_15_11_43_25.png": [
+        {
+            "label": 3,
+            "x_min": 306,
+            "x_max": 512,
+            "y_min": 227,
+            "y_max": 605
+        },
+        {
+            "label": 3,
+            "x_min": 561,
+            "x_max": 829,
+            "y_min": 372,
+            "y_max": 698
+        }
+    ],
+    "National Arboretum A_2022_05_01_19_58_04.png": [
+        {
+            "label": 2,
+            "x_min": 947,
+            "x_max": 1272,
+            "y_min": 384,
+            "y_max": 753
+        },
+        {
+            "label": 1,
+            "x_min": 9,
+            "x_max": 532,
+            "y_min": 66,
+            "y_max": 554
+        },
+        {
+            "label": 4,
+            "x_min": 359,
+            "x_max": 534,
+            "y_min": 403,
+            "y_max": 633
+        }
+    ],
+    "Decorah North_2022_06_09_07_46_45.png": [
+        {
+            "label": 3,
+            "x_min": 887,
+            "x_max": 1022,
+            "y_min": 276,
+            "y_max": 536
+        },
+        {
+            "label": 3,
+            "x_min": 1054,
+            "x_max": 1163,
+            "y_min": 232,
+            "y_max": 515
+        }
+    ],
+    "National Arboretum A_2022_05_12_02_26_07.png": [
+        {
+            "label": 3,
+            "x_min": 528,
+            "x_max": 809,
+            "y_min": 367,
+            "y_max": 584
+        }
+    ],
+    "Big Bear_2022_04_02_19_19_16.png": [
+        {
+            "label": 1,
+            "x_min": 621,
+            "x_max": 932,
+            "y_min": 270,
+            "y_max": 591
+        },
+        {
+            "label": 2,
+            "x_min": 780,
+            "x_max": 988,
+            "y_min": 440,
+            "y_max": 590
+        }
+    ],
+    "Big Bear_2022_06_09_04_54_59.png": [
+        {
+            "label": 1,
+            "x_min": 431,
+            "x_max": 698,
+            "y_min": 177,
+            "y_max": 645
+        }
+    ],
+    "National Arboretum B_2022_04_27_00_40_51.png": [
+        {
+            "label": 1,
+            "x_min": 1006,
+            "x_max": 1213,
+            "y_min": 191,
+            "y_max": 448
+        },
+        {
+            "label": 2,
+            "x_min": 845,
+            "x_max": 981,
+            "y_min": 341,
+            "y_max": 446
+        }
+    ],
+    "Decorah North_2022_06_10_23_32_22.png": [
+        {
+            "label": 3,
+            "x_min": 544,
+            "x_max": 836,
+            "y_min": 491,
+            "y_max": 582
+        }
+    ],
+    "National Arboretum B_2022_05_12_05_25_28.png": [
+        {
+            "label": 1,
+            "x_min": 202,
+            "x_max": 400,
+            "y_min": 530,
+            "y_max": 755
+        }
+    ],
+    "National Arboretum A_2022_04_01_03_51_23.png": [
+        {
+            "label": 1,
+            "x_min": 228,
+            "x_max": 948,
+            "y_min": 137,
+            "y_max": 745
+        },
+        {
+            "label": 4,
+            "x_min": 32,
+            "x_max": 436,
+            "y_min": 7,
+            "y_max": 147
+        }
+    ],
+    "Decorah North_2022_06_16_09_04_12.png": [
+        {
+            "label": 3,
+            "x_min": 1269,
+            "x_max": 1329,
+            "y_min": 194,
+            "y_max": 298
+        }
+    ],
+    "Big Bear_2022_03_07_00_40_10.png": [
+        {
+            "label": 1,
+            "x_min": 637,
+            "x_max": 1229,
+            "y_min": 354,
+            "y_max": 642
+        }
+    ],
+    "National Arboretum A_2022_04_03_19_26_30.png": [
+        {
+            "label": 1,
+            "x_min": 630,
+            "x_max": 869,
+            "y_min": 313,
+            "y_max": 696
+        },
+        {
+            "label": 4,
+            "x_min": 434,
+            "x_max": 518,
+            "y_min": 278,
+            "y_max": 358
+        }
+    ],
+    "Big Bear_2022_05_11_12_58_51.png": [
+        {
+            "label": 1,
+            "x_min": 487,
+            "x_max": 829,
+            "y_min": 131,
+            "y_max": 472
+        },
+        {
+            "label": 3,
+            "x_min": 762,
+            "x_max": 908,
+            "y_min": 176,
+            "y_max": 428
+        }
+    ],
+    "Big Bear_2022_03_14_14_39_26.png": [
+        {
+            "label": 1,
+            "x_min": 709,
+            "x_max": 1321,
+            "y_min": 261,
+            "y_max": 743
+        },
+        {
+            "label": 1,
+            "x_min": 709,
+            "x_max": 1321,
+            "y_min": 261,
+            "y_max": 743
+        }
+    ],
+    "Big Bear_2022_05_31_18_50_00.png": [
+        {
+            "label": 3,
+            "x_min": 622,
+            "x_max": 744,
+            "y_min": 288,
+            "y_max": 537
+        }
+    ],
+    "Decorah North_2022_03_30_11_53_42.png": [
+        {
+            "label": 2,
+            "x_min": 407,
+            "x_max": 653,
+            "y_min": 486,
+            "y_max": 695
+        },
+        {
+            "label": 2,
+            "x_min": 658,
+            "x_max": 953,
+            "y_min": 414,
+            "y_max": 696
+        }
+    ],
+    "Big Bear_2022_05_11_21_16_14.png": [
+        {
+            "label": 1,
+            "x_min": 1011,
+            "x_max": 1144,
+            "y_min": 235,
+            "y_max": 440
+        },
+        {
+            "label": 1,
+            "x_min": 736,
+            "x_max": 1303,
+            "y_min": 466,
+            "y_max": 691
+        }
+    ],
+    "National Arboretum B_2022_03_29_22_16_22.png": [
+        {
+            "label": 1,
+            "x_min": 481,
+            "x_max": 1018,
+            "y_min": 160,
+            "y_max": 612
+        }
+    ],
+    "Decorah North_2022_03_18_17_16_05.png": [
+        {
+            "label": 1,
+            "x_min": 309,
+            "x_max": 1346,
+            "y_min": 271,
+            "y_max": 666
+        }
+    ],
+    "National Arboretum B_2022_03_27_00_40_48.png": [
+        {
+            "label": 1,
+            "x_min": 744,
+            "x_max": 886,
+            "y_min": 429,
+            "y_max": 560
+        }
+    ],
+    "Big Bear_2022_04_28_01_32_19.png": [
+        {
+            "label": 3,
+            "x_min": 585,
+            "x_max": 1045,
+            "y_min": 447,
+            "y_max": 649
+        },
+        {
+            "label": 1,
+            "x_min": 1016,
+            "x_max": 1157,
+            "y_min": 230,
+            "y_max": 474
+        }
+    ],
+    "Decorah North_2022_05_15_17_52_41.png": [
+        {
+            "label": 3,
+            "x_min": 496,
+            "x_max": 762,
+            "y_min": 345,
+            "y_max": 696
+        },
+        {
+            "label": 3,
+            "x_min": 881,
+            "x_max": 1089,
+            "y_min": 203,
+            "y_max": 491
+        }
+    ],
+    "Big Bear_2022_05_28_18_21_50.png": [
+        {
+            "label": 3,
+            "x_min": 822,
+            "x_max": 992,
+            "y_min": 325,
+            "y_max": 577
+        }
+    ],
+    "National Arboretum B_2022_05_09_15_55_49.png": [
+        {
+            "label": 3,
+            "x_min": 338,
+            "x_max": 623,
+            "y_min": 521,
+            "y_max": 668
+        }
+    ],
+    "National Arboretum B_2022_05_11_04_24_00.png": [
+        {
+            "label": 1,
+            "x_min": 355,
+            "x_max": 526,
+            "y_min": 425,
+            "y_max": 707
+        },
+        {
+            "label": 3,
+            "x_min": 883,
+            "x_max": 1026,
+            "y_min": 285,
+            "y_max": 389
+        }
+    ],
+    "Decorah North_2022_05_24_17_16_39.png": [
+        {
+            "label": 3,
+            "x_min": 243,
+            "x_max": 924,
+            "y_min": 131,
+            "y_max": 518
+        },
+        {
+            "label": 3,
+            "x_min": 593,
+            "x_max": 1272,
+            "y_min": 380,
+            "y_max": 630
+        }
+    ],
+    "National Arboretum B_2022_04_28_01_15_33.png": [
+        {
+            "label": 1,
+            "x_min": 566,
+            "x_max": 920,
+            "y_min": 249,
+            "y_max": 479
+        },
+        {
+            "label": 2,
+            "x_min": 906,
+            "x_max": 1123,
+            "y_min": 321,
+            "y_max": 427
+        }
+    ],
+    "Big Bear_2022_05_31_19_46_36.png": [
+        {
+            "label": 3,
+            "x_min": 839,
+            "x_max": 985,
+            "y_min": 330,
+            "y_max": 569
+        }
+    ],
+    "Decorah North_2022_06_16_11_43_45.png": [
+        {
+            "label": 3,
+            "x_min": 285,
+            "x_max": 828,
+            "y_min": 189,
+            "y_max": 529
+        },
+        {
+            "label": 3,
+            "x_min": 794,
+            "x_max": 1345,
+            "y_min": 165,
+            "y_max": 638
+        },
+        {
+            "label": 4,
+            "x_min": 635,
+            "x_max": 906,
+            "y_min": 428,
+            "y_max": 590
+        }
+    ],
+    "Decorah North_2022_05_25_07_12_52.png": [
+        {
+            "label": 3,
+            "x_min": 478,
+            "x_max": 631,
+            "y_min": 332,
+            "y_max": 566
+        },
+        {
+            "label": 3,
+            "x_min": 626,
+            "x_max": 770,
+            "y_min": 349,
+            "y_max": 614
+        }
+    ],
+    "National Arboretum A_2022_05_03_01_38_08.png": [
+        {
+            "label": 2,
+            "x_min": 503,
+            "x_max": 811,
+            "y_min": 394,
+            "y_max": 613
+        }
+    ],
+    "Big Bear_2022_05_07_03_50_17.png": [
+        {
+            "label": 3,
+            "x_min": 581,
+            "x_max": 1141,
+            "y_min": 429,
+            "y_max": 692
+        },
+        {
+            "label": 1,
+            "x_min": 927,
+            "x_max": 1083,
+            "y_min": 224,
+            "y_max": 434
+        }
+    ],
+    "Decorah North_2022_04_01_22_37_28.png": [
+        {
+            "label": 1,
+            "x_min": 521,
+            "x_max": 897,
+            "y_min": 252,
+            "y_max": 638
+        }
+    ],
+    "Decorah North_2022_05_29_18_36_23.png": [
+        {
+            "label": 3,
+            "x_min": 565,
+            "x_max": 738,
+            "y_min": 504,
+            "y_max": 682
+        },
+        {
+            "label": 1,
+            "x_min": 788,
+            "x_max": 1040,
+            "y_min": 377,
+            "y_max": 624
+        },
+        {
+            "label": 3,
+            "x_min": 722,
+            "x_max": 855,
+            "y_min": 459,
+            "y_max": 558
+        }
+    ],
+    "National Arboretum B_2022_05_09_04_55_33.png": [
+        {
+            "label": 1,
+            "x_min": 484,
+            "x_max": 632,
+            "y_min": 440,
+            "y_max": 730
+        }
+    ],
+    "National Arboretum A_2022_05_10_19_20_51.png": [
+        {
+            "label": 2,
+            "x_min": 316,
+            "x_max": 545,
+            "y_min": 295,
+            "y_max": 505
+        }
+    ],
+    "Decorah North_2022_05_28_01_13_46.png": [
+        {
+            "label": 1,
+            "x_min": 985,
+            "x_max": 1125,
+            "y_min": 117,
+            "y_max": 364
+        },
+        {
+            "label": 2,
+            "x_min": 709,
+            "x_max": 895,
+            "y_min": 594,
+            "y_max": 695
+        },
+        {
+            "label": 3,
+            "x_min": 781,
+            "x_max": 1035,
+            "y_min": 611,
+            "y_max": 696
+        }
+    ],
+    "National Arboretum A_2022_03_27_03_26_31.png": [
+        {
+            "label": 1,
+            "x_min": 394,
+            "x_max": 940,
+            "y_min": 48,
+            "y_max": 613
+        }
+    ],
+    "Big Bear_2022_03_26_22_38_00.png": [
+        {
+            "label": 1,
+            "x_min": 815,
+            "x_max": 1117,
+            "y_min": 219,
+            "y_max": 575
+        },
+        {
+            "label": 2,
+            "x_min": 789,
+            "x_max": 972,
+            "y_min": 503,
+            "y_max": 594
+        }
+    ],
+    "Big Bear_2022_06_23_18_24_48.png": [
+        {
+            "label": 3,
+            "x_min": 386,
+            "x_max": 818,
+            "y_min": 4,
+            "y_max": 596
+        }
+    ],
+    "National Arboretum A_2022_03_31_15_18_34.png": [
+        {
+            "label": 1,
+            "x_min": 380,
+            "x_max": 886,
+            "y_min": 3,
+            "y_max": 517
+        }
+    ],
+    "Decorah North_2022_03_27_02_40_46.png": [
+        {
+            "label": 1,
+            "x_min": 502,
+            "x_max": 1086,
+            "y_min": 162,
+            "y_max": 690
+        }
+    ],
+    "Decorah North_2022_06_15_18_06_14.png": [
+        {
+            "label": 3,
+            "x_min": 786,
+            "x_max": 953,
+            "y_min": 305,
+            "y_max": 465
+        },
+        {
+            "label": 3,
+            "x_min": 935,
+            "x_max": 1040,
+            "y_min": 321,
+            "y_max": 452
+        }
+    ],
+    "Big Bear_2022_05_13_03_52_43.png": [
+        {
+            "label": 1,
+            "x_min": 873,
+            "x_max": 1035,
+            "y_min": 280,
+            "y_max": 493
+        }
+    ],
+    "Big Bear_2022_04_27_00_02_21.png": [
+        {
+            "label": 1,
+            "x_min": 377,
+            "x_max": 889,
+            "y_min": 287,
+            "y_max": 585
+        },
+        {
+            "label": 3,
+            "x_min": 667,
+            "x_max": 1051,
+            "y_min": 481,
+            "y_max": 633
+        }
+    ],
+    "National Arboretum B_2022_05_13_22_35_24.png": [
+        {
+            "label": 1,
+            "x_min": 853,
+            "x_max": 962,
+            "y_min": 62,
+            "y_max": 222
+        }
+    ],
+    "Big Bear_2022_05_13_17_16_21.png": [
+        {
+            "label": 3,
+            "x_min": 404,
+            "x_max": 683,
+            "y_min": 80,
+            "y_max": 521
+        },
+        {
+            "label": 1,
+            "x_min": 931,
+            "x_max": 1101,
+            "y_min": 246,
+            "y_max": 484
+        }
+    ],
+    "National Arboretum A_2022_04_04_04_38_26.png": [
+        {
+            "label": 1,
+            "x_min": 288,
+            "x_max": 1299,
+            "y_min": 3,
+            "y_max": 570
+        }
+    ],
+    "National Arboretum A_2022_04_01_19_56_56.png": [
+        {
+            "label": 1,
+            "x_min": 504,
+            "x_max": 1299,
+            "y_min": 3,
+            "y_max": 562
+        },
+        {
+            "label": 2,
+            "x_min": 560,
+            "x_max": 883,
+            "y_min": 428,
+            "y_max": 663
+        }
+    ],
+    "Decorah North_2022_05_03_08_33_48.png": [
+        {
+            "label": 1,
+            "x_min": 73,
+            "x_max": 735,
+            "y_min": 61,
+            "y_max": 687
+        },
+        {
+            "label": 3,
+            "x_min": 609,
+            "x_max": 892,
+            "y_min": 422,
+            "y_max": 690
+        }
+    ],
+    "National Arboretum A_2022_05_13_21_30_51.png": [
+        {
+            "label": 3,
+            "x_min": 607,
+            "x_max": 968,
+            "y_min": 404,
+            "y_max": 630
+        }
+    ],
+    "Decorah North_2022_06_09_18_25_20.png": [
+        {
+            "label": 3,
+            "x_min": 939,
+            "x_max": 1126,
+            "y_min": 149,
+            "y_max": 460
+        },
+        {
+            "label": 3,
+            "x_min": 823,
+            "x_max": 1089,
+            "y_min": 571,
+            "y_max": 696
+        }
+    ],
+    "Big Bear_2022_05_21_11_16_56.png": [
+        {
+            "label": 3,
+            "x_min": 184,
+            "x_max": 661,
+            "y_min": 258,
+            "y_max": 758
+        }
+    ],
+    "Decorah North_2022_05_01_20_21_03.png": [
+        {
+            "label": 1,
+            "x_min": 693,
+            "x_max": 1290,
+            "y_min": 229,
+            "y_max": 566
+        },
+        {
+            "label": 3,
+            "x_min": 616,
+            "x_max": 748,
+            "y_min": 346,
+            "y_max": 513
+        }
+    ],
+    "National Arboretum A_2022_03_30_14_56_14.png": [
+        {
+            "label": 1,
+            "x_min": 577,
+            "x_max": 1018,
+            "y_min": 197,
+            "y_max": 508
+        },
+        {
+            "label": 4,
+            "x_min": 231,
+            "x_max": 299,
+            "y_min": 221,
+            "y_max": 287
+        },
+        {
+            "label": 4,
+            "x_min": 267,
+            "x_max": 397,
+            "y_min": 227,
+            "y_max": 343
+        },
+        {
+            "label": 4,
+            "x_min": 433,
+            "x_max": 528,
+            "y_min": 61,
+            "y_max": 129
+        },
+        {
+            "label": 4,
+            "x_min": 443,
+            "x_max": 589,
+            "y_min": 117,
+            "y_max": 188
+        },
+        {
+            "label": 4,
+            "x_min": 604,
+            "x_max": 674,
+            "y_min": 123,
+            "y_max": 179
+        },
+        {
+            "label": 4,
+            "x_min": 412,
+            "x_max": 543,
+            "y_min": 190,
+            "y_max": 330
+        },
+        {
+            "label": 4,
+            "x_min": 505,
+            "x_max": 671,
+            "y_min": 165,
+            "y_max": 302
+        },
+        {
+            "label": 4,
+            "x_min": 471,
+            "x_max": 616,
+            "y_min": 389,
+            "y_max": 511
+        }
+    ],
+    "Decorah North_2022_03_31_22_33_40.png": [
+        {
+            "label": 1,
+            "x_min": 529,
+            "x_max": 919,
+            "y_min": 248,
+            "y_max": 675
+        }
+    ],
+    "National Arboretum B_2022_04_01_12_55_37.png": [
+        {
+            "label": 1,
+            "x_min": 411,
+            "x_max": 897,
+            "y_min": 130,
+            "y_max": 482
+        },
+        {
+            "label": 4,
+            "x_min": 677,
+            "x_max": 769,
+            "y_min": 495,
+            "y_max": 562
+        }
+    ],
+    "Decorah North_2022_05_13_10_29_47.png": [
+        {
+            "label": 3,
+            "x_min": 415,
+            "x_max": 743,
+            "y_min": 149,
+            "y_max": 690
+        },
+        {
+            "label": 1,
+            "x_min": 685,
+            "x_max": 948,
+            "y_min": 113,
+            "y_max": 457
+        },
+        {
+            "label": 3,
+            "x_min": 707,
+            "x_max": 1040,
+            "y_min": 425,
+            "y_max": 691
+        }
+    ],
+    "Big Bear_2022_05_15_08_35_05.png": [
+        {
+            "label": 1,
+            "x_min": 773,
+            "x_max": 910,
+            "y_min": 197,
+            "y_max": 440
+        },
+        {
+            "label": 3,
+            "x_min": 205,
+            "x_max": 762,
+            "y_min": 3,
+            "y_max": 756
+        }
+    ],
+    "Big Bear_2022_06_22_01_47_36.png": [
+        {
+            "label": 1,
+            "x_min": 136,
+            "x_max": 1340,
+            "y_min": 325,
+            "y_max": 735
+        }
+    ],
+    "Big Bear_2022_03_14_11_20_39.png": [
+        {
+            "label": 1,
+            "x_min": 743,
+            "x_max": 1285,
+            "y_min": 258,
+            "y_max": 641
+        }
+    ],
+    "National Arboretum B_2022_05_13_17_18_38.png": [
+        {
+            "label": 2,
+            "x_min": 679,
+            "x_max": 847,
+            "y_min": 537,
+            "y_max": 627
+        }
+    ],
+    "National Arboretum B_2022_03_29_23_21_29.png": [
+        {
+            "label": 1,
+            "x_min": 481,
+            "x_max": 1052,
+            "y_min": 169,
+            "y_max": 632
+        }
+    ],
+    "Big Bear_2022_05_30_19_01_09.png": [
+        {
+            "label": 2,
+            "x_min": 834,
+            "x_max": 1040,
+            "y_min": 341,
+            "y_max": 583
+        }
+    ],
+    "Decorah North_2022_05_28_05_25_10.png": [
+        {
+            "label": 3,
+            "x_min": 905,
+            "x_max": 1107,
+            "y_min": 528,
+            "y_max": 642
+        },
+        {
+            "label": 3,
+            "x_min": 1008,
+            "x_max": 1151,
+            "y_min": 314,
+            "y_max": 526
+        }
+    ],
+    "National Arboretum B_2022_05_13_18_08_31.png": [
+        {
+            "label": 3,
+            "x_min": 760,
+            "x_max": 883,
+            "y_min": 470,
+            "y_max": 610
+        },
+        {
+            "label": 1,
+            "x_min": 325,
+            "x_max": 490,
+            "y_min": 596,
+            "y_max": 755
+        }
+    ],
+    "National Arboretum B_2022_04_03_04_36_57.png": [
+        {
+            "label": 1,
+            "x_min": 496,
+            "x_max": 848,
+            "y_min": 168,
+            "y_max": 496
+        },
+        {
+            "label": 4,
+            "x_min": 954,
+            "x_max": 1071,
+            "y_min": 453,
+            "y_max": 540
+        },
+        {
+            "label": 4,
+            "x_min": 439,
+            "x_max": 633,
+            "y_min": 597,
+            "y_max": 659
+        }
+    ],
+    "National Arboretum A_2022_04_03_07_22_58.png": [
+        {
+            "label": 1,
+            "x_min": 271,
+            "x_max": 1109,
+            "y_min": 190,
+            "y_max": 610
+        },
+        {
+            "label": 4,
+            "x_min": 390,
+            "x_max": 587,
+            "y_min": 121,
+            "y_max": 283
+        },
+        {
+            "label": 4,
+            "x_min": 928,
+            "x_max": 1130,
+            "y_min": 37,
+            "y_max": 141
+        }
+    ],
+    "National Arboretum A_2022_04_04_17_03_47.png": [
+        {
+            "label": 1,
+            "x_min": 563,
+            "x_max": 1129,
+            "y_min": 204,
+            "y_max": 710
+        },
+        {
+            "label": 4,
+            "x_min": 487,
+            "x_max": 593,
+            "y_min": 107,
+            "y_max": 280
+        },
+        {
+            "label": 4,
+            "x_min": 411,
+            "x_max": 473,
+            "y_min": 121,
+            "y_max": 285
+        },
+        {
+            "label": 4,
+            "x_min": 113,
+            "x_max": 233,
+            "y_min": 144,
+            "y_max": 327
+        },
+        {
+            "label": 4,
+            "x_min": 109,
+            "x_max": 339,
+            "y_min": 345,
+            "y_max": 450
+        }
+    ],
+    "Big Bear_2022_05_29_15_08_50.png": [
+        {
+            "label": 3,
+            "x_min": 820,
+            "x_max": 1024,
+            "y_min": 339,
+            "y_max": 582
+        },
+        {
+            "label": 1,
+            "x_min": 939,
+            "x_max": 1048,
+            "y_min": 150,
+            "y_max": 386
+        }
+    ],
+    "Big Bear_2022_03_28_18_10_47.png": [
+        {
+            "label": 1,
+            "x_min": 676,
+            "x_max": 1031,
+            "y_min": 283,
+            "y_max": 614
+        }
+    ],
+    "Decorah North_2022_05_09_20_30_19.png": [
+        {
+            "label": 1,
+            "x_min": 629,
+            "x_max": 927,
+            "y_min": 163,
+            "y_max": 557
+        },
+        {
+            "label": 3,
+            "x_min": 866,
+            "x_max": 1192,
+            "y_min": 447,
+            "y_max": 645
+        },
+        {
+            "label": 3,
+            "x_min": 423,
+            "x_max": 744,
+            "y_min": 362,
+            "y_max": 691
+        }
+    ],
+    "Big Bear_2022_04_04_11_21_31.png": [
+        {
+            "label": 1,
+            "x_min": 741,
+            "x_max": 1135,
+            "y_min": 215,
+            "y_max": 676
+        },
+        {
+            "label": 1,
+            "x_min": 707,
+            "x_max": 942,
+            "y_min": 80,
+            "y_max": 419
+        }
+    ],
+    "Big Bear_2022_03_27_01_00_44.png": [
+        {
+            "label": 1,
+            "x_min": 817,
+            "x_max": 1126,
+            "y_min": 303,
+            "y_max": 588
+        },
+        {
+            "label": 2,
+            "x_min": 748,
+            "x_max": 903,
+            "y_min": 476,
+            "y_max": 588
+        }
+    ],
+    "Decorah North_2022_05_28_17_39_08.png": [
+        {
+            "label": 3,
+            "x_min": 707,
+            "x_max": 894,
+            "y_min": 420,
+            "y_max": 655
+        },
+        {
+            "label": 3,
+            "x_min": 892,
+            "x_max": 1176,
+            "y_min": 385,
+            "y_max": 549
+        }
+    ],
+    "Decorah North_2022_06_09_07_50_43.png": [
+        {
+            "label": 3,
+            "x_min": 588,
+            "x_max": 869,
+            "y_min": 231,
+            "y_max": 694
+        },
+        {
+            "label": 3,
+            "x_min": 905,
+            "x_max": 1129,
+            "y_min": 148,
+            "y_max": 637
+        }
+    ],
+    "Decorah North_2022_05_13_16_51_42.png": [
+        {
+            "label": 3,
+            "x_min": 486,
+            "x_max": 873,
+            "y_min": 51,
+            "y_max": 695
+        },
+        {
+            "label": 3,
+            "x_min": 762,
+            "x_max": 1130,
+            "y_min": 353,
+            "y_max": 664
+        }
+    ],
+    "Decorah North_2022_05_11_01_33_14.png": [
+        {
+            "label": 2,
+            "x_min": 710,
+            "x_max": 928,
+            "y_min": 542,
+            "y_max": 681
+        },
+        {
+            "label": 2,
+            "x_min": 891,
+            "x_max": 1148,
+            "y_min": 493,
+            "y_max": 635
+        },
+        {
+            "label": 1,
+            "x_min": 972,
+            "x_max": 1121,
+            "y_min": 72,
+            "y_max": 330
+        }
+    ],
+    "National Arboretum B_2022_03_31_12_43_24.png": [
+        {
+            "label": 1,
+            "x_min": 641,
+            "x_max": 1230,
+            "y_min": 313,
+            "y_max": 753
+        }
+    ],
+    "Decorah North_2022_05_25_14_08_04.png": [
+        {
+            "label": 2,
+            "x_min": 8,
+            "x_max": 528,
+            "y_min": 337,
+            "y_max": 687
+        },
+        {
+            "label": 2,
+            "x_min": 817,
+            "x_max": 1097,
+            "y_min": 359,
+            "y_max": 693
+        }
+    ],
+    "Decorah North_2022_06_15_01_03_09.png": [
+        {
+            "label": 3,
+            "x_min": 992,
+            "x_max": 1123,
+            "y_min": 431,
+            "y_max": 566
+        }
+    ],
+    "Big Bear_2022_05_12_10_41_59.png": [
+        {
+            "label": 1,
+            "x_min": 513,
+            "x_max": 1020,
+            "y_min": 131,
+            "y_max": 477
+        },
+        {
+            "label": 3,
+            "x_min": 788,
+            "x_max": 1114,
+            "y_min": 416,
+            "y_max": 719
+        }
+    ],
+    "Decorah North_2022_03_22_13_01_58.png": [
+        {
+            "label": 1,
+            "x_min": 63,
+            "x_max": 1270,
+            "y_min": 191,
+            "y_max": 673
+        }
+    ],
+    "National Arboretum A_2022_05_02_08_05_30.png": [
+        {
+            "label": 1,
+            "x_min": 665,
+            "x_max": 880,
+            "y_min": 137,
+            "y_max": 406
+        },
+        {
+            "label": 2,
+            "x_min": 392,
+            "x_max": 735,
+            "y_min": 409,
+            "y_max": 633
+        }
+    ],
+    "Big Bear_2022_05_23_18_40_41.png": [
+        {
+            "label": 3,
+            "x_min": 873,
+            "x_max": 1036,
+            "y_min": 344,
+            "y_max": 572
+        }
+    ],
+    "National Arboretum B_2022_05_01_03_13_51.png": [
+        {
+            "label": 1,
+            "x_min": 905,
+            "x_max": 1096,
+            "y_min": 527,
+            "y_max": 640
+        },
+        {
+            "label": 2,
+            "x_min": 771,
+            "x_max": 906,
+            "y_min": 548,
+            "y_max": 622
+        }
+    ],
+    "Big Bear_2022_05_15_23_36_48.png": [
+        {
+            "label": 3,
+            "x_min": 852,
+            "x_max": 1197,
+            "y_min": 450,
+            "y_max": 735
+        },
+        {
+            "label": 1,
+            "x_min": 1056,
+            "x_max": 1208,
+            "y_min": 253,
+            "y_max": 500
+        }
+    ],
+    "Decorah North_2022_05_28_09_26_32.png": [
+        {
+            "label": 3,
+            "x_min": 295,
+            "x_max": 573,
+            "y_min": 359,
+            "y_max": 695
+        },
+        {
+            "label": 3,
+            "x_min": 571,
+            "x_max": 980,
+            "y_min": 419,
+            "y_max": 581
+        }
+    ],
+    "Decorah North_2022_05_20_10_27_40.png": [
+        {
+            "label": 2,
+            "x_min": 800,
+            "x_max": 990,
+            "y_min": 469,
+            "y_max": 635
+        },
+        {
+            "label": 2,
+            "x_min": 981,
+            "x_max": 1146,
+            "y_min": 482,
+            "y_max": 671
+        }
+    ],
+    "Decorah North_2022_06_09_16_53_34.png": [
+        {
+            "label": 3,
+            "x_min": 604,
+            "x_max": 908,
+            "y_min": 482,
+            "y_max": 694
+        },
+        {
+            "label": 3,
+            "x_min": 985,
+            "x_max": 1127,
+            "y_min": 106,
+            "y_max": 361
+        }
+    ],
+    "Big Bear_2022_05_24_04_47_02.png": [
+        {
+            "label": 1,
+            "x_min": 491,
+            "x_max": 908,
+            "y_min": 222,
+            "y_max": 756
+        }
+    ],
+    "Decorah North_2022_03_16_22_35_03.png": [
+        {
+            "label": 1,
+            "x_min": 595,
+            "x_max": 1088,
+            "y_min": 366,
+            "y_max": 576
+        }
+    ],
+    "Big Bear_2022_05_18_15_33_42.png": [
+        {
+            "label": 3,
+            "x_min": 152,
+            "x_max": 550,
+            "y_min": 76,
+            "y_max": 760
+        }
+    ],
+    "Decorah North_2022_03_08_08_49_31.png": [
+        {
+            "label": 1,
+            "x_min": 767,
+            "x_max": 1061,
+            "y_min": 427,
+            "y_max": 528
+        }
+    ],
+    "Big Bear_2022_05_18_18_18_12.png": [
+        {
+            "label": 3,
+            "x_min": 63,
+            "x_max": 469,
+            "y_min": 89,
+            "y_max": 757
+        }
+    ],
+    "National Arboretum A_2022_05_13_20_37_08.png": [
+        {
+            "label": 2,
+            "x_min": 341,
+            "x_max": 956,
+            "y_min": 157,
+            "y_max": 671
+        }
+    ],
+    "Decorah North_2022_03_26_01_00_11.png": [
+        {
+            "label": 1,
+            "x_min": 12,
+            "x_max": 1219,
+            "y_min": 219,
+            "y_max": 600
+        }
+    ],
+    "National Arboretum B_2022_03_26_05_19_25.png": [
+        {
+            "label": 1,
+            "x_min": 521,
+            "x_max": 890,
+            "y_min": 179,
+            "y_max": 555
+        }
+    ],
+    "National Arboretum A_2022_04_27_09_39_36.png": [
+        {
+            "label": 2,
+            "x_min": 683,
+            "x_max": 873,
+            "y_min": 409,
+            "y_max": 573
+        },
+        {
+            "label": 1,
+            "x_min": 710,
+            "x_max": 1006,
+            "y_min": 123,
+            "y_max": 411
+        }
+    ],
+    "National Arboretum A_2022_03_31_16_11_50.png": [
+        {
+            "label": 1,
+            "x_min": 495,
+            "x_max": 842,
+            "y_min": 29,
+            "y_max": 552
+        },
+        {
+            "label": 4,
+            "x_min": 356,
+            "x_max": 552,
+            "y_min": 3,
+            "y_max": 126
+        },
+        {
+            "label": 4,
+            "x_min": 356,
+            "x_max": 479,
+            "y_min": 174,
+            "y_max": 316
+        },
+        {
+            "label": 4,
+            "x_min": 112,
+            "x_max": 222,
+            "y_min": 161,
+            "y_max": 311
+        },
+        {
+            "label": 4,
+            "x_min": 12,
+            "x_max": 210,
+            "y_min": 311,
+            "y_max": 411
+        },
+        {
+            "label": 4,
+            "x_min": 192,
+            "x_max": 310,
+            "y_min": 242,
+            "y_max": 319
+        }
+    ],
+    "National Arboretum A_2022_05_10_11_23_31.png": [
+        {
+            "label": 1,
+            "x_min": 236,
+            "x_max": 577,
+            "y_min": 143,
+            "y_max": 359
+        },
+        {
+            "label": 2,
+            "x_min": 679,
+            "x_max": 905,
+            "y_min": 328,
+            "y_max": 548
+        }
+    ],
+    "National Arboretum B_2022_03_30_13_31_59.png": [
+        {
+            "label": 1,
+            "x_min": 523,
+            "x_max": 809,
+            "y_min": 157,
+            "y_max": 482
+        },
+        {
+            "label": 4,
+            "x_min": 811,
+            "x_max": 970,
+            "y_min": 456,
+            "y_max": 571
+        },
+        {
+            "label": 4,
+            "x_min": 892,
+            "x_max": 1021,
+            "y_min": 490,
+            "y_max": 562
+        },
+        {
+            "label": 4,
+            "x_min": 901,
+            "x_max": 1116,
+            "y_min": 551,
+            "y_max": 645
+        }
+    ],
+    "Decorah North_2022_04_04_01_06_03.png": [
+        {
+            "label": 1,
+            "x_min": 568,
+            "x_max": 877,
+            "y_min": 276,
+            "y_max": 679
+        }
+    ],
+    "Decorah North_2022_05_24_07_35_18.png": [
+        {
+            "label": 3,
+            "x_min": 526,
+            "x_max": 855,
+            "y_min": 229,
+            "y_max": 545
+        },
+        {
+            "label": 3,
+            "x_min": 948,
+            "x_max": 1184,
+            "y_min": 276,
+            "y_max": 542
+        }
+    ],
+    "Big Bear_2022_03_26_02_58_57.png": [
+        {
+            "label": 1,
+            "x_min": 706,
+            "x_max": 1016,
+            "y_min": 282,
+            "y_max": 538
+        },
+        {
+            "label": 2,
+            "x_min": 787,
+            "x_max": 981,
+            "y_min": 526,
+            "y_max": 638
+        }
+    ],
+    "Decorah North_2022_05_01_13_01_48.png": [
+        {
+            "label": 2,
+            "x_min": 405,
+            "x_max": 685,
+            "y_min": 335,
+            "y_max": 644
+        },
+        {
+            "label": 2,
+            "x_min": 460,
+            "x_max": 792,
+            "y_min": 253,
+            "y_max": 482
+        }
+    ],
+    "National Arboretum A_2022_05_12_14_08_42.png": [
+        {
+            "label": 3,
+            "x_min": 767,
+            "x_max": 1004,
+            "y_min": 214,
+            "y_max": 464
+        }
+    ],
+    "Decorah North_2022_05_30_21_35_07.png": [
+        {
+            "label": 1,
+            "x_min": 1008,
+            "x_max": 1189,
+            "y_min": 44,
+            "y_max": 340
+        }
+    ],
+    "Decorah North_2022_03_13_23_55_04.png": [
+        {
+            "label": 1,
+            "x_min": 401,
+            "x_max": 995,
+            "y_min": 351,
+            "y_max": 608
+        }
+    ],
+    "Decorah North_2022_04_01_03_42_57.png": [
+        {
+            "label": 1,
+            "x_min": 568,
+            "x_max": 924,
+            "y_min": 256,
+            "y_max": 645
+        }
+    ],
+    "Decorah North_2022_05_15_16_57_05.png": [
+        {
+            "label": 1,
+            "x_min": 521,
+            "x_max": 696,
+            "y_min": 401,
+            "y_max": 524
+        }
+    ],
+    "National Arboretum A_2022_04_26_19_15_54.png": [
+        {
+            "label": 1,
+            "x_min": 408,
+            "x_max": 735,
+            "y_min": 241,
+            "y_max": 499
+        },
+        {
+            "label": 2,
+            "x_min": 578,
+            "x_max": 732,
+            "y_min": 387,
+            "y_max": 536
+        }
+    ],
+    "National Arboretum A_2022_05_09_02_29_47.png": [
+        {
+            "label": 3,
+            "x_min": 414,
+            "x_max": 694,
+            "y_min": 414,
+            "y_max": 638
+        }
+    ],
+    "Decorah North_2022_05_09_08_26_34.png": [
+        {
+            "label": 3,
+            "x_min": 756,
+            "x_max": 1147,
+            "y_min": 430,
+            "y_max": 595
+        },
+        {
+            "label": 2,
+            "x_min": 632,
+            "x_max": 942,
+            "y_min": 380,
+            "y_max": 525
+        }
+    ],
+    "Big Bear_2022_03_22_23_09_53.png": [
+        {
+            "label": 1,
+            "x_min": 696,
+            "x_max": 1048,
+            "y_min": 253,
+            "y_max": 703
+        }
+    ],
+    "Decorah North_2022_05_22_21_52_34.png": [
+        {
+            "label": 1,
+            "x_min": 972,
+            "x_max": 1114,
+            "y_min": 54,
+            "y_max": 333
+        },
+        {
+            "label": 3,
+            "x_min": 842,
+            "x_max": 1024,
+            "y_min": 512,
+            "y_max": 695
+        }
+    ],
+    "National Arboretum A_2022_04_01_04_51_38.png": [
+        {
+            "label": 1,
+            "x_min": 211,
+            "x_max": 1026,
+            "y_min": 118,
+            "y_max": 641
+        }
+    ],
+    "Big Bear_2022_04_02_11_25_25.png": [
+        {
+            "label": 1,
+            "x_min": 473,
+            "x_max": 733,
+            "y_min": 140,
+            "y_max": 426
+        },
+        {
+            "label": 2,
+            "x_min": 522,
+            "x_max": 757,
+            "y_min": 353,
+            "y_max": 603
+        }
+    ],
+    "Decorah North_2022_05_12_12_10_15.png": [
+        {
+            "label": 1,
+            "x_min": 849,
+            "x_max": 1134,
+            "y_min": 117,
+            "y_max": 488
+        },
+        {
+            "label": 3,
+            "x_min": 990,
+            "x_max": 1309,
+            "y_min": 290,
+            "y_max": 491
+        },
+        {
+            "label": 3,
+            "x_min": 1011,
+            "x_max": 1343,
+            "y_min": 361,
+            "y_max": 584
+        }
+    ],
+    "Big Bear_2022_03_08_08_29_14.png": [
+        {
+            "label": 1,
+            "x_min": 616,
+            "x_max": 1182,
+            "y_min": 311,
+            "y_max": 648
+        }
+    ],
+    "Big Bear_2022_05_15_16_22_08.png": [
+        {
+            "label": 3,
+            "x_min": 691,
+            "x_max": 1229,
+            "y_min": 388,
+            "y_max": 650
+        }
+    ],
+    "Big Bear_2022_06_09_00_13_00.png": [
+        {
+            "label": 3,
+            "x_min": 577,
+            "x_max": 878,
+            "y_min": 322,
+            "y_max": 639
+        }
+    ],
+    "National Arboretum A_2022_05_10_06_19_44.png": [
+        {
+            "label": 3,
+            "x_min": 29,
+            "x_max": 1148,
+            "y_min": 6,
+            "y_max": 650
+        }
+    ],
+    "Big Bear_2022_05_13_08_32_29.png": [
+        {
+            "label": 1,
+            "x_min": 568,
+            "x_max": 801,
+            "y_min": 158,
+            "y_max": 614
+        }
+    ],
+    "Big Bear_2022_05_11_15_15_45.png": [
+        {
+            "label": 4,
+            "x_min": 591,
+            "x_max": 805,
+            "y_min": 429,
+            "y_max": 499
+        },
+        {
+            "label": 1,
+            "x_min": 896,
+            "x_max": 1151,
+            "y_min": 226,
+            "y_max": 417
+        },
+        {
+            "label": 2,
+            "x_min": 747,
+            "x_max": 1175,
+            "y_min": 436,
+            "y_max": 655
+        }
+    ],
+    "Big Bear_2022_04_30_21_39_47.png": [
+        {
+            "label": 1,
+            "x_min": 383,
+            "x_max": 860,
+            "y_min": 262,
+            "y_max": 519
+        },
+        {
+            "label": 3,
+            "x_min": 491,
+            "x_max": 1072,
+            "y_min": 506,
+            "y_max": 679
+        }
+    ],
+    "Decorah North_2022_03_31_05_06_54.png": [
+        {
+            "label": 1,
+            "x_min": 621,
+            "x_max": 985,
+            "y_min": 271,
+            "y_max": 638
+        }
+    ],
+    "Big Bear_2022_04_02_00_13_13.png": [
+        {
+            "label": 1,
+            "x_min": 791,
+            "x_max": 1345,
+            "y_min": 290,
+            "y_max": 607
+        },
+        {
+            "label": 2,
+            "x_min": 619,
+            "x_max": 845,
+            "y_min": 492,
+            "y_max": 630
+        }
+    ],
+    "Big Bear_2022_04_02_19_44_37.png": [
+        {
+            "label": 1,
+            "x_min": 435,
+            "x_max": 773,
+            "y_min": 94,
+            "y_max": 448
+        },
+        {
+            "label": 1,
+            "x_min": 908,
+            "x_max": 1200,
+            "y_min": 165,
+            "y_max": 489
+        },
+        {
+            "label": 2,
+            "x_min": 730,
+            "x_max": 1014,
+            "y_min": 482,
+            "y_max": 631
+        }
+    ],
+    "Decorah North_2022_05_24_20_37_24.png": [
+        {
+            "label": 3,
+            "x_min": 733,
+            "x_max": 932,
+            "y_min": 553,
+            "y_max": 679
+        },
+        {
+            "label": 3,
+            "x_min": 921,
+            "x_max": 1158,
+            "y_min": 492,
+            "y_max": 661
+        }
+    ],
+    "Decorah North_2022_06_01_21_43_29.png": [
+        {
+            "label": 1,
+            "x_min": 1006,
+            "x_max": 1157,
+            "y_min": 49,
+            "y_max": 333
+        },
+        {
+            "label": 3,
+            "x_min": 829,
+            "x_max": 1027,
+            "y_min": 272,
+            "y_max": 455
+        },
+        {
+            "label": 3,
+            "x_min": 637,
+            "x_max": 871,
+            "y_min": 327,
+            "y_max": 576
+        }
+    ],
+    "National Arboretum B_2022_05_13_08_21_11.png": [
+        {
+            "label": 3,
+            "x_min": 778,
+            "x_max": 911,
+            "y_min": 510,
+            "y_max": 610
+        }
+    ],
+    "National Arboretum A_2022_04_27_03_21_30.png": [
+        {
+            "label": 1,
+            "x_min": 721,
+            "x_max": 1091,
+            "y_min": 216,
+            "y_max": 465
+        },
+        {
+            "label": 2,
+            "x_min": 604,
+            "x_max": 859,
+            "y_min": 411,
+            "y_max": 599
+        }
+    ],
+    "Decorah North_2022_05_01_21_06_38.png": [
+        {
+            "label": 1,
+            "x_min": 626,
+            "x_max": 1282,
+            "y_min": 274,
+            "y_max": 560
+        }
+    ],
+    "National Arboretum A_2022_05_09_20_35_58.png": [
+        {
+            "label": 1,
+            "x_min": 671,
+            "x_max": 808,
+            "y_min": 121,
+            "y_max": 351
+        },
+        {
+            "label": 1,
+            "x_min": 814,
+            "x_max": 929,
+            "y_min": 104,
+            "y_max": 246
+        }
+    ],
+    "Big Bear_2022_04_01_16_14_25.png": [
+        {
+            "label": 1,
+            "x_min": 731,
+            "x_max": 996,
+            "y_min": 64,
+            "y_max": 447
+        },
+        {
+            "label": 1,
+            "x_min": 1012,
+            "x_max": 1242,
+            "y_min": 198,
+            "y_max": 436
+        },
+        {
+            "label": 2,
+            "x_min": 687,
+            "x_max": 984,
+            "y_min": 445,
+            "y_max": 574
+        }
+    ],
+    "Big Bear_2022_04_01_23_27_38.png": [
+        {
+            "label": 1,
+            "x_min": 796,
+            "x_max": 1345,
+            "y_min": 295,
+            "y_max": 636
+        },
+        {
+            "label": 2,
+            "x_min": 654,
+            "x_max": 895,
+            "y_min": 463,
+            "y_max": 634
+        }
+    ],
+    "Decorah North_2022_05_28_03_23_49.png": [
+        {
+            "label": 1,
+            "x_min": 975,
+            "x_max": 1133,
+            "y_min": 139,
+            "y_max": 399
+        },
+        {
+            "label": 2,
+            "x_min": 784,
+            "x_max": 982,
+            "y_min": 577,
+            "y_max": 700
+        }
+    ],
+    "Decorah North_2022_05_12_22_59_25.png": [
+        {
+            "label": 1,
+            "x_min": 977,
+            "x_max": 1133,
+            "y_min": 44,
+            "y_max": 337
+        },
+        {
+            "label": 3,
+            "x_min": 918,
+            "x_max": 1057,
+            "y_min": 454,
+            "y_max": 693
+        },
+        {
+            "label": 2,
+            "x_min": 685,
+            "x_max": 919,
+            "y_min": 566,
+            "y_max": 671
+        }
+    ],
+    "Big Bear_2022_03_31_04_55_49.png": [
+        {
+            "label": 1,
+            "x_min": 760,
+            "x_max": 1305,
+            "y_min": 291,
+            "y_max": 697
+        },
+        {
+            "label": 2,
+            "x_min": 668,
+            "x_max": 795,
+            "y_min": 472,
+            "y_max": 607
+        }
+    ],
+    "National Arboretum B_2022_03_23_16_52_50.png": [
+        {
+            "label": 1,
+            "x_min": 677,
+            "x_max": 939,
+            "y_min": 501,
+            "y_max": 568
+        }
+    ],
+    "National Arboretum B_2022_03_30_09_16_12.png": [
+        {
+            "label": 1,
+            "x_min": 7,
+            "x_max": 947,
+            "y_min": 14,
+            "y_max": 756
+        },
+        {
+            "label": 4,
+            "x_min": 911,
+            "x_max": 1306,
+            "y_min": 65,
+            "y_max": 263
+        }
+    ],
+    "Big Bear_2022_05_22_19_58_14.png": [
+        {
+            "label": 1,
+            "x_min": 1053,
+            "x_max": 1258,
+            "y_min": 187,
+            "y_max": 511
+        },
+        {
+            "label": 3,
+            "x_min": 1234,
+            "x_max": 1340,
+            "y_min": 373,
+            "y_max": 625
+        }
+    ],
+    "National Arboretum A_2022_04_28_13_48_33.png": [
+        {
+            "label": 2,
+            "x_min": 633,
+            "x_max": 876,
+            "y_min": 479,
+            "y_max": 680
+        }
+    ],
+    "Big Bear_2022_05_17_15_03_23.png": [
+        {
+            "label": 1,
+            "x_min": 1118,
+            "x_max": 1183,
+            "y_min": 238,
+            "y_max": 461
+        },
+        {
+            "label": 3,
+            "x_min": 972,
+            "x_max": 1139,
+            "y_min": 227,
+            "y_max": 501
+        }
+    ],
+    "National Arboretum B_2022_05_15_04_18_02.png": [
+        {
+            "label": 3,
+            "x_min": 24,
+            "x_max": 858,
+            "y_min": 186,
+            "y_max": 591
+        }
+    ],
+    "Decorah North_2022_06_15_00_00_13.png": [
+        {
+            "label": 3,
+            "x_min": 968,
+            "x_max": 1099,
+            "y_min": 429,
+            "y_max": 576
+        }
+    ],
+    "Big Bear_2022_03_27_14_23_11.png": [
+        {
+            "label": 1,
+            "x_min": 473,
+            "x_max": 929,
+            "y_min": 131,
+            "y_max": 468
+        },
+        {
+            "label": 2,
+            "x_min": 792,
+            "x_max": 972,
+            "y_min": 347,
+            "y_max": 594
+        }
+    ],
+    "National Arboretum A_2022_05_08_10_29_37.png": [
+        {
+            "label": 2,
+            "x_min": 498,
+            "x_max": 750,
+            "y_min": 417,
+            "y_max": 598
+        }
+    ],
+    "Big Bear_2022_04_30_18_15_52.png": [
+        {
+            "label": 3,
+            "x_min": 138,
+            "x_max": 560,
+            "y_min": 72,
+            "y_max": 541
+        }
+    ],
+    "National Arboretum A_2022_05_01_13_34_30.png": [
+        {
+            "label": 2,
+            "x_min": 911,
+            "x_max": 1300,
+            "y_min": 359,
+            "y_max": 654
+        }
+    ],
+    "Decorah North_2022_05_15_19_45_58.png": [
+        {
+            "label": 1,
+            "x_min": 966,
+            "x_max": 1112,
+            "y_min": 33,
+            "y_max": 338
+        },
+        {
+            "label": 2,
+            "x_min": 931,
+            "x_max": 1141,
+            "y_min": 447,
+            "y_max": 614
+        },
+        {
+            "label": 3,
+            "x_min": 722,
+            "x_max": 975,
+            "y_min": 568,
+            "y_max": 695
+        }
+    ],
+    "National Arboretum A_2022_04_26_21_58_47.png": [
+        {
+            "label": 1,
+            "x_min": 172,
+            "x_max": 604,
+            "y_min": 222,
+            "y_max": 574
+        },
+        {
+            "label": 2,
+            "x_min": 568,
+            "x_max": 789,
+            "y_min": 420,
+            "y_max": 588
+        }
+    ],
+    "National Arboretum A_2022_05_03_09_02_33.png": [
+        {
+            "label": 2,
+            "x_min": 333,
+            "x_max": 943,
+            "y_min": 258,
+            "y_max": 640
+        }
+    ],
+    "National Arboretum A_2022_05_07_10_10_56.png": [
+        {
+            "label": 1,
+            "x_min": 848,
+            "x_max": 1088,
+            "y_min": 355,
+            "y_max": 531
+        }
+    ],
+    "Big Bear_2022_05_24_22_32_23.png": [
+        {
+            "label": 1,
+            "x_min": 890,
+            "x_max": 1040,
+            "y_min": 322,
+            "y_max": 574
+        },
+        {
+            "label": 3,
+            "x_min": 634,
+            "x_max": 1017,
+            "y_min": 546,
+            "y_max": 745
+        }
+    ],
+    "Decorah North_2022_05_03_09_58_11.png": [
+        {
+            "label": 1,
+            "x_min": 110,
+            "x_max": 748,
+            "y_min": 133,
+            "y_max": 695
+        },
+        {
+            "label": 3,
+            "x_min": 587,
+            "x_max": 958,
+            "y_min": 422,
+            "y_max": 691
+        }
+    ],
+    "Big Bear_2022_04_02_15_42_19.png": [
+        {
+            "label": 1,
+            "x_min": 447,
+            "x_max": 953,
+            "y_min": 232,
+            "y_max": 604
+        },
+        {
+            "label": 2,
+            "x_min": 914,
+            "x_max": 1144,
+            "y_min": 472,
+            "y_max": 673
+        }
+    ],
+    "Decorah North_2022_05_08_16_44_33.png": [
+        {
+            "label": 2,
+            "x_min": 834,
+            "x_max": 1059,
+            "y_min": 520,
+            "y_max": 698
+        }
+    ],
+    "National Arboretum A_2022_04_04_06_16_59.png": [
+        {
+            "label": 1,
+            "x_min": 459,
+            "x_max": 1295,
+            "y_min": 7,
+            "y_max": 608
+        }
+    ],
+    "National Arboretum B_2022_05_09_00_16_52.png": [
+        {
+            "label": 1,
+            "x_min": 813,
+            "x_max": 1038,
+            "y_min": 587,
+            "y_max": 755
+        },
+        {
+            "label": 2,
+            "x_min": 1019,
+            "x_max": 1086,
+            "y_min": 597,
+            "y_max": 752
+        }
+    ],
+    "Big Bear_2022_05_24_22_17_39.png": [
+        {
+            "label": 1,
+            "x_min": 886,
+            "x_max": 1032,
+            "y_min": 278,
+            "y_max": 569
+        },
+        {
+            "label": 3,
+            "x_min": 685,
+            "x_max": 1046,
+            "y_min": 541,
+            "y_max": 751
+        }
+    ],
+    "National Arboretum B_2022_04_04_12_56_10.png": [
+        {
+            "label": 1,
+            "x_min": 440,
+            "x_max": 691,
+            "y_min": 202,
+            "y_max": 471
+        },
+        {
+            "label": 4,
+            "x_min": 733,
+            "x_max": 869,
+            "y_min": 604,
+            "y_max": 708
+        }
+    ],
+    "National Arboretum B_2022_04_30_20_14_39.png": [
+        {
+            "label": 1,
+            "x_min": 733,
+            "x_max": 845,
+            "y_min": 384,
+            "y_max": 624
+        }
+    ],
+    "Decorah North_2022_04_27_08_36_53.png": [
+        {
+            "label": 1,
+            "x_min": 996,
+            "x_max": 1221,
+            "y_min": 80,
+            "y_max": 359
+        },
+        {
+            "label": 2,
+            "x_min": 821,
+            "x_max": 1027,
+            "y_min": 469,
+            "y_max": 608
+        },
+        {
+            "label": 2,
+            "x_min": 956,
+            "x_max": 1079,
+            "y_min": 454,
+            "y_max": 562
+        }
+    ],
+    "National Arboretum B_2022_03_26_05_34_16.png": [
+        {
+            "label": 1,
+            "x_min": 306,
+            "x_max": 996,
+            "y_min": 216,
+            "y_max": 507
+        }
+    ],
+    "National Arboretum B_2022_04_27_09_52_57.png": [
+        {
+            "label": 1,
+            "x_min": 752,
+            "x_max": 858,
+            "y_min": 74,
+            "y_max": 213
+        },
+        {
+            "label": 2,
+            "x_min": 771,
+            "x_max": 878,
+            "y_min": 573,
+            "y_max": 655
+        },
+        {
+            "label": 4,
+            "x_min": 850,
+            "x_max": 925,
+            "y_min": 688,
+            "y_max": 728
+        }
+    ],
+    "Decorah North_2022_06_08_22_25_16.png": [
+        {
+            "label": 3,
+            "x_min": 724,
+            "x_max": 866,
+            "y_min": 373,
+            "y_max": 459
+        }
+    ],
+    "National Arboretum B_2022_05_11_15_09_14.png": [
+        {
+            "label": 1,
+            "x_min": 775,
+            "x_max": 1023,
+            "y_min": 495,
+            "y_max": 657
+        }
+    ],
+    "National Arboretum A_2022_05_09_08_59_22.png": [
+        {
+            "label": 1,
+            "x_min": 1160,
+            "x_max": 1302,
+            "y_min": 7,
+            "y_max": 219
+        }
+    ],
+    "Big Bear_2022_03_19_17_47_20.png": [
+        {
+            "label": 1,
+            "x_min": 682,
+            "x_max": 1268,
+            "y_min": 357,
+            "y_max": 660
+        }
+    ],
+    "National Arboretum A_2022_04_27_18_00_08.png": [
+        {
+            "label": 2,
+            "x_min": 356,
+            "x_max": 595,
+            "y_min": 98,
+            "y_max": 283
+        }
+    ],
+    "National Arboretum A_2022_05_04_00_01_20.png": [
+        {
+            "label": 2,
+            "x_min": 602,
+            "x_max": 778,
+            "y_min": 344,
+            "y_max": 598
+        }
+    ],
+    "National Arboretum B_2022_05_14_18_49_51.png": [
+        {
+            "label": 3,
+            "x_min": 232,
+            "x_max": 1292,
+            "y_min": 110,
+            "y_max": 738
+        }
+    ],
+    "Decorah North_2022_05_11_21_39_46.png": [
+        {
+            "label": 1,
+            "x_min": 950,
+            "x_max": 1128,
+            "y_min": 88,
+            "y_max": 380
+        },
+        {
+            "label": 2,
+            "x_min": 876,
+            "x_max": 1048,
+            "y_min": 443,
+            "y_max": 603
+        },
+        {
+            "label": 2,
+            "x_min": 1033,
+            "x_max": 1290,
+            "y_min": 505,
+            "y_max": 663
+        }
+    ],
+    "National Arboretum B_2022_05_15_09_09_51.png": [
+        {
+            "label": 3,
+            "x_min": 859,
+            "x_max": 992,
+            "y_min": 476,
+            "y_max": 599
+        }
+    ],
+    "National Arboretum B_2022_05_01_19_29_15.png": [
+        {
+            "label": 2,
+            "x_min": 696,
+            "x_max": 987,
+            "y_min": 190,
+            "y_max": 529
+        }
+    ],
+    "Decorah North_2022_05_30_17_30_26.png": [
+        {
+            "label": 3,
+            "x_min": 711,
+            "x_max": 972,
+            "y_min": 128,
+            "y_max": 510
+        },
+        {
+            "label": 3,
+            "x_min": 1003,
+            "x_max": 1287,
+            "y_min": 150,
+            "y_max": 571
+        }
+    ],
+    "Decorah North_2022_04_03_07_15_46.png": [
+        {
+            "label": 1,
+            "x_min": 539,
+            "x_max": 955,
+            "y_min": 211,
+            "y_max": 516
+        }
+    ],
+    "National Arboretum B_2022_05_06_23_14_12.png": [
+        {
+            "label": 1,
+            "x_min": 696,
+            "x_max": 903,
+            "y_min": 482,
+            "y_max": 636
+        }
+    ],
+    "Big Bear_2022_03_13_15_37_24.png": [
+        {
+            "label": 1,
+            "x_min": 707,
+            "x_max": 1016,
+            "y_min": 304,
+            "y_max": 636
+        }
+    ],
+    "Decorah North_2022_05_07_11_28_02.png": [
+        {
+            "label": 2,
+            "x_min": 280,
+            "x_max": 711,
+            "y_min": 248,
+            "y_max": 590
+        },
+        {
+            "label": 2,
+            "x_min": 489,
+            "x_max": 889,
+            "y_min": 459,
+            "y_max": 696
+        }
+    ],
+    "Big Bear_2022_03_20_01_56_02.png": [
+        {
+            "label": 1,
+            "x_min": 423,
+            "x_max": 1049,
+            "y_min": 314,
+            "y_max": 657
+        }
+    ],
+    "Decorah North_2022_05_26_07_20_00.png": [
+        {
+            "label": 3,
+            "x_min": 581,
+            "x_max": 796,
+            "y_min": 133,
+            "y_max": 435
+        },
+        {
+            "label": 3,
+            "x_min": 853,
+            "x_max": 1041,
+            "y_min": 258,
+            "y_max": 685
+        }
+    ],
+    "Big Bear_2022_03_26_13_12_31.png": [
+        {
+            "label": 1,
+            "x_min": 383,
+            "x_max": 820,
+            "y_min": 80,
+            "y_max": 445
+        },
+        {
+            "label": 1,
+            "x_min": 990,
+            "x_max": 1345,
+            "y_min": 309,
+            "y_max": 678
+        },
+        {
+            "label": 2,
+            "x_min": 645,
+            "x_max": 886,
+            "y_min": 421,
+            "y_max": 537
+        }
+    ],
+    "Big Bear_2022_04_04_00_25_11.png": [
+        {
+            "label": 1,
+            "x_min": 749,
+            "x_max": 1057,
+            "y_min": 277,
+            "y_max": 543
+        },
+        {
+            "label": 2,
+            "x_min": 707,
+            "x_max": 1009,
+            "y_min": 476,
+            "y_max": 622
+        }
+    ],
+    "National Arboretum B_2022_04_27_09_29_48.png": [
+        {
+            "label": 1,
+            "x_min": 693,
+            "x_max": 1305,
+            "y_min": 109,
+            "y_max": 588
+        },
+        {
+            "label": 2,
+            "x_min": 286,
+            "x_max": 707,
+            "y_min": 266,
+            "y_max": 646
+        }
+    ],
+    "Big Bear_2022_03_18_13_12_05.png": [
+        {
+            "label": 1,
+            "x_min": 770,
+            "x_max": 1345,
+            "y_min": 275,
+            "y_max": 731
+        }
+    ],
+    "Big Bear_2022_03_10_21_14_07.png": [
+        {
+            "label": 1,
+            "x_min": 548,
+            "x_max": 964,
+            "y_min": 335,
+            "y_max": 641
+        }
+    ],
+    "Big Bear_2022_05_03_07_34_53.png": [
+        {
+            "label": 3,
+            "x_min": 873,
+            "x_max": 1099,
+            "y_min": 171,
+            "y_max": 609
+        }
+    ],
+    "Decorah North_2022_05_10_17_21_08.png": [
+        {
+            "label": 3,
+            "x_min": 314,
+            "x_max": 818,
+            "y_min": 136,
+            "y_max": 635
+        },
+        {
+            "label": 2,
+            "x_min": 792,
+            "x_max": 1173,
+            "y_min": 245,
+            "y_max": 672
+        }
+    ],
+    "Decorah North_2022_05_19_02_34_32.png": [
+        {
+            "label": 1,
+            "x_min": 939,
+            "x_max": 1147,
+            "y_min": 38,
+            "y_max": 332
+        },
+        {
+            "label": 2,
+            "x_min": 881,
+            "x_max": 1088,
+            "y_min": 515,
+            "y_max": 648
+        },
+        {
+            "label": 2,
+            "x_min": 635,
+            "x_max": 932,
+            "y_min": 577,
+            "y_max": 690
+        }
+    ],
+    "Big Bear_2022_05_12_02_48_04.png": [
+        {
+            "label": 1,
+            "x_min": 980,
+            "x_max": 1141,
+            "y_min": 238,
+            "y_max": 455
+        }
+    ],
+    "Big Bear_2022_05_13_03_42_51.png": [
+        {
+            "label": 1,
+            "x_min": 906,
+            "x_max": 1086,
+            "y_min": 288,
+            "y_max": 490
+        },
+        {
+            "label": 3,
+            "x_min": 948,
+            "x_max": 1341,
+            "y_min": 307,
+            "y_max": 708
+        }
+    ],
+    "Big Bear_2022_03_12_10_25_01.png": [
+        {
+            "label": 1,
+            "x_min": 622,
+            "x_max": 1338,
+            "y_min": 396,
+            "y_max": 716
+        }
+    ],
+    "National Arboretum A_2022_03_27_10_51_06.png": [
+        {
+            "label": 1,
+            "x_min": 380,
+            "x_max": 1227,
+            "y_min": 115,
+            "y_max": 750
+        }
+    ],
+    "Decorah North_2022_03_16_20_57_56.png": [
+        {
+            "label": 1,
+            "x_min": 658,
+            "x_max": 1028,
+            "y_min": 258,
+            "y_max": 558
+        }
+    ],
+    "Decorah North_2022_04_01_18_03_47.png": [
+        {
+            "label": 1,
+            "x_min": 613,
+            "x_max": 1138,
+            "y_min": 247,
+            "y_max": 494
+        },
+        {
+            "label": 1,
+            "x_min": 606,
+            "x_max": 1126,
+            "y_min": 8,
+            "y_max": 277
+        },
+        {
+            "label": 4,
+            "x_min": 698,
+            "x_max": 815,
+            "y_min": 630,
+            "y_max": 677
+        }
+    ],
+    "Big Bear_2022_06_09_07_22_29.png": [
+        {
+            "label": 1,
+            "x_min": 73,
+            "x_max": 638,
+            "y_min": 352,
+            "y_max": 743
+        },
+        {
+            "label": 1,
+            "x_min": 725,
+            "x_max": 1240,
+            "y_min": 357,
+            "y_max": 755
+        }
+    ],
+    "National Arboretum B_2022_03_22_14_20_40.png": [
+        {
+            "label": 1,
+            "x_min": 501,
+            "x_max": 976,
+            "y_min": 221,
+            "y_max": 426
+        }
+    ],
+    "Big Bear_2022_03_28_05_34_30.png": [
+        {
+            "label": 1,
+            "x_min": 762,
+            "x_max": 1247,
+            "y_min": 251,
+            "y_max": 630
+        }
+    ],
+    "National Arboretum A_2022_03_23_17_58_06.png": [
+        {
+            "label": 1,
+            "x_min": 576,
+            "x_max": 943,
+            "y_min": 230,
+            "y_max": 749
+        }
+    ],
+    "Big Bear_2022_04_26_21_32_34.png": [
+        {
+            "label": 1,
+            "x_min": 316,
+            "x_max": 836,
+            "y_min": 246,
+            "y_max": 543
+        }
+    ],
+    "Decorah North_2022_04_27_04_44_43.png": [
+        {
+            "label": 1,
+            "x_min": 253,
+            "x_max": 820,
+            "y_min": 176,
+            "y_max": 475
+        },
+        {
+            "label": 2,
+            "x_min": 677,
+            "x_max": 1076,
+            "y_min": 342,
+            "y_max": 526
+        }
+    ],
+    "Decorah North_2022_05_16_00_47_28.png": [
+        {
+            "label": 1,
+            "x_min": 975,
+            "x_max": 1110,
+            "y_min": 46,
+            "y_max": 317
+        },
+        {
+            "label": 2,
+            "x_min": 735,
+            "x_max": 998,
+            "y_min": 454,
+            "y_max": 651
+        },
+        {
+            "label": 3,
+            "x_min": 982,
+            "x_max": 1187,
+            "y_min": 555,
+            "y_max": 679
+        }
+    ],
+    "Big Bear_2022_03_10_21_38_06.png": [
+        {
+            "label": 1,
+            "x_min": 547,
+            "x_max": 969,
+            "y_min": 359,
+            "y_max": 662
+        }
+    ],
+    "Decorah North_2022_03_08_06_40_44.png": [
+        {
+            "label": 1,
+            "x_min": 195,
+            "x_max": 1062,
+            "y_min": 285,
+            "y_max": 687
+        }
+    ],
+    "National Arboretum B_2022_05_13_12_40_23.png": [
+        {
+            "label": 3,
+            "x_min": 863,
+            "x_max": 944,
+            "y_min": 438,
+            "y_max": 546
+        },
+        {
+            "label": 1,
+            "x_min": 914,
+            "x_max": 1090,
+            "y_min": 523,
+            "y_max": 683
+        }
+    ],
+    "Decorah North_2022_05_25_04_57_49.png": [
+        {
+            "label": 1,
+            "x_min": 923,
+            "x_max": 1112,
+            "y_min": 459,
+            "y_max": 642
+        }
+    ],
+    "National Arboretum A_2022_04_02_20_47_46.png": [
+        {
+            "label": 1,
+            "x_min": 437,
+            "x_max": 1001,
+            "y_min": 29,
+            "y_max": 668
+        },
+        {
+            "label": 4,
+            "x_min": 31,
+            "x_max": 380,
+            "y_min": 417,
+            "y_max": 713
+        },
+        {
+            "label": 4,
+            "x_min": 345,
+            "x_max": 535,
+            "y_min": 113,
+            "y_max": 230
+        }
+    ],
+    "National Arboretum A_2022_03_22_12_03_06.png": [
+        {
+            "label": 1,
+            "x_min": 582,
+            "x_max": 797,
+            "y_min": 328,
+            "y_max": 616
+        }
+    ],
+    "National Arboretum A_2022_04_28_11_33_48.png": [
+        {
+            "label": 1,
+            "x_min": 412,
+            "x_max": 738,
+            "y_min": 364,
+            "y_max": 582
+        },
+        {
+            "label": 2,
+            "x_min": 749,
+            "x_max": 953,
+            "y_min": 341,
+            "y_max": 537
+        }
+    ],
+    "Big Bear_2022_05_30_15_07_42.png": [
+        {
+            "label": 1,
+            "x_min": 552,
+            "x_max": 760,
+            "y_min": 221,
+            "y_max": 620
+        }
+    ],
+    "Big Bear_2022_04_02_12_04_36.png": [
+        {
+            "label": 1,
+            "x_min": 720,
+            "x_max": 1032,
+            "y_min": 251,
+            "y_max": 548
+        },
+        {
+            "label": 2,
+            "x_min": 679,
+            "x_max": 964,
+            "y_min": 503,
+            "y_max": 631
+        }
+    ],
+    "Big Bear_2022_05_13_02_53_42.png": [
+        {
+            "label": 3,
+            "x_min": 934,
+            "x_max": 1333,
+            "y_min": 248,
+            "y_max": 710
+        },
+        {
+            "label": 1,
+            "x_min": 894,
+            "x_max": 1019,
+            "y_min": 291,
+            "y_max": 492
+        }
+    ],
+    "Big Bear_2022_05_11_09_45_56.png": [
+        {
+            "label": 3,
+            "x_min": 709,
+            "x_max": 1112,
+            "y_min": 365,
+            "y_max": 667
+        }
+    ],
+    "Big Bear_2022_05_21_18_50_03.png": [
+        {
+            "label": 3,
+            "x_min": 780,
+            "x_max": 1264,
+            "y_min": 450,
+            "y_max": 719
+        }
+    ],
+    "Decorah North_2022_04_27_05_28_54.png": [
+        {
+            "label": 1,
+            "x_min": 264,
+            "x_max": 796,
+            "y_min": 179,
+            "y_max": 507
+        },
+        {
+            "label": 2,
+            "x_min": 685,
+            "x_max": 1020,
+            "y_min": 356,
+            "y_max": 550
+        }
+    ],
+    "National Arboretum A_2022_05_02_06_22_50.png": [
+        {
+            "label": 1,
+            "x_min": 612,
+            "x_max": 897,
+            "y_min": 129,
+            "y_max": 381
+        },
+        {
+            "label": 2,
+            "x_min": 772,
+            "x_max": 982,
+            "y_min": 465,
+            "y_max": 626
+        }
+    ],
+    "National Arboretum B_2022_05_10_11_53_58.png": [
+        {
+            "label": 1,
+            "x_min": 526,
+            "x_max": 680,
+            "y_min": 270,
+            "y_max": 594
+        },
+        {
+            "label": 2,
+            "x_min": 889,
+            "x_max": 1060,
+            "y_min": 270,
+            "y_max": 356
+        }
+    ],
+    "Decorah North_2022_03_06_15_22_16.png": [
+        {
+            "label": 1,
+            "x_min": 335,
+            "x_max": 874,
+            "y_min": 290,
+            "y_max": 675
+        }
+    ],
+    "Decorah North_2022_05_09_03_18_19.png": [
+        {
+            "label": 1,
+            "x_min": 714,
+            "x_max": 969,
+            "y_min": 293,
+            "y_max": 555
+        },
+        {
+            "label": 2,
+            "x_min": 871,
+            "x_max": 1045,
+            "y_min": 512,
+            "y_max": 624
+        },
+        {
+            "label": 2,
+            "x_min": 1030,
+            "x_max": 1199,
+            "y_min": 504,
+            "y_max": 627
+        }
+    ],
+    "National Arboretum A_2022_05_01_17_50_37.png": [
+        {
+            "label": 2,
+            "x_min": 422,
+            "x_max": 752,
+            "y_min": 387,
+            "y_max": 608
+        }
+    ],
+    "Decorah North_2022_05_28_15_53_07.png": [
+        {
+            "label": 3,
+            "x_min": 470,
+            "x_max": 658,
+            "y_min": 346,
+            "y_max": 685
+        },
+        {
+            "label": 3,
+            "x_min": 308,
+            "x_max": 555,
+            "y_min": 308,
+            "y_max": 579
+        }
+    ],
+    "Big Bear_2022_05_12_07_09_57.png": [
+        {
+            "label": 1,
+            "x_min": 786,
+            "x_max": 1340,
+            "y_min": 238,
+            "y_max": 740
+        },
+        {
+            "label": 4,
+            "x_min": 994,
+            "x_max": 1263,
+            "y_min": 628,
+            "y_max": 754
+        }
+    ],
+    "Big Bear_2022_03_08_10_11_05.png": [
+        {
+            "label": 1,
+            "x_min": 653,
+            "x_max": 1004,
+            "y_min": 330,
+            "y_max": 729
+        }
+    ],
+    "Decorah North_2022_05_11_12_17_30.png": [
+        {
+            "label": 3,
+            "x_min": 984,
+            "x_max": 1101,
+            "y_min": 271,
+            "y_max": 454
+        },
+        {
+            "label": 2,
+            "x_min": 910,
+            "x_max": 1089,
+            "y_min": 455,
+            "y_max": 563
+        }
+    ],
+    "Decorah North_2022_06_15_04_43_41.png": [
+        {
+            "label": 2,
+            "x_min": 1017,
+            "x_max": 1107,
+            "y_min": 446,
+            "y_max": 555
+        }
+    ],
+    "National Arboretum B_2022_03_30_22_37_41.png": [
+        {
+            "label": 1,
+            "x_min": 625,
+            "x_max": 1065,
+            "y_min": 206,
+            "y_max": 442
+        },
+        {
+            "label": 4,
+            "x_min": 809,
+            "x_max": 971,
+            "y_min": 445,
+            "y_max": 566
+        }
+    ],
+    "Decorah North_2022_03_21_12_02_48.png": [
+        {
+            "label": 1,
+            "x_min": 301,
+            "x_max": 1348,
+            "y_min": 337,
+            "y_max": 674
+        }
+    ],
+    "Decorah North_2022_06_22_09_57_34.png": [
+        {
+            "label": 1,
+            "x_min": 650,
+            "x_max": 772,
+            "y_min": 195,
+            "y_max": 420
+        }
+    ],
+    "Big Bear_2022_04_27_13_50_11.png": [
+        {
+            "label": 1,
+            "x_min": 886,
+            "x_max": 1106,
+            "y_min": 187,
+            "y_max": 440
+        },
+        {
+            "label": 3,
+            "x_min": 730,
+            "x_max": 1099,
+            "y_min": 471,
+            "y_max": 620
+        }
+    ],
+    "National Arboretum A_2022_03_27_13_17_30.png": [
+        {
+            "label": 1,
+            "x_min": 408,
+            "x_max": 1109,
+            "y_min": 12,
+            "y_max": 580
+        }
+    ],
+    "Big Bear_2022_03_22_13_58_27.png": [
+        {
+            "label": 1,
+            "x_min": 701,
+            "x_max": 1001,
+            "y_min": 269,
+            "y_max": 630
+        },
+        {
+            "label": 1,
+            "x_min": 1019,
+            "x_max": 1343,
+            "y_min": 303,
+            "y_max": 671
+        }
+    ],
+    "Decorah North_2022_05_14_05_11_05.png": [
+        {
+            "label": 1,
+            "x_min": 985,
+            "x_max": 1162,
+            "y_min": 67,
+            "y_max": 378
+        },
+        {
+            "label": 2,
+            "x_min": 910,
+            "x_max": 1117,
+            "y_min": 531,
+            "y_max": 653
+        },
+        {
+            "label": 2,
+            "x_min": 749,
+            "x_max": 951,
+            "y_min": 555,
+            "y_max": 679
+        }
+    ],
+    "Decorah North_2022_05_01_09_27_34.png": [
+        {
+            "label": 2,
+            "x_min": 144,
+            "x_max": 707,
+            "y_min": 303,
+            "y_max": 584
+        },
+        {
+            "label": 2,
+            "x_min": 566,
+            "x_max": 1165,
+            "y_min": 303,
+            "y_max": 642
+        }
+    ],
+    "Big Bear_2022_03_22_18_34_58.png": [
+        {
+            "label": 1,
+            "x_min": 300,
+            "x_max": 876,
+            "y_min": 166,
+            "y_max": 556
+        },
+        {
+            "label": 2,
+            "x_min": 751,
+            "x_max": 889,
+            "y_min": 421,
+            "y_max": 626
+        }
+    ],
+    "Decorah North_2022_05_24_07_28_49.png": [
+        {
+            "label": 3,
+            "x_min": 905,
+            "x_max": 1150,
+            "y_min": 224,
+            "y_max": 618
+        },
+        {
+            "label": 3,
+            "x_min": 825,
+            "x_max": 1041,
+            "y_min": 239,
+            "y_max": 488
+        }
+    ],
+    "Big Bear_2022_05_21_06_29_31.png": [
+        {
+            "label": 1,
+            "x_min": 993,
+            "x_max": 1184,
+            "y_min": 256,
+            "y_max": 513
+        }
+    ],
+    "National Arboretum B_2022_04_03_15_50_18.png": [
+        {
+            "label": 1,
+            "x_min": 471,
+            "x_max": 884,
+            "y_min": 250,
+            "y_max": 590
+        },
+        {
+            "label": 4,
+            "x_min": 1038,
+            "x_max": 1264,
+            "y_min": 674,
+            "y_max": 758
+        }
+    ],
+    "Big Bear_2022_03_21_17_51_31.png": [
+        {
+            "label": 1,
+            "x_min": 136,
+            "x_max": 942,
+            "y_min": 96,
+            "y_max": 676
+        }
+    ],
+    "Decorah North_2022_05_25_19_04_18.png": [
+        {
+            "label": 3,
+            "x_min": 776,
+            "x_max": 1033,
+            "y_min": 533,
+            "y_max": 695
+        },
+        {
+            "label": 3,
+            "x_min": 894,
+            "x_max": 1216,
+            "y_min": 382,
+            "y_max": 610
+        }
+    ],
+    "National Arboretum B_2022_05_11_00_04_10.png": [
+        {
+            "label": 1,
+            "x_min": 417,
+            "x_max": 576,
+            "y_min": 563,
+            "y_max": 742
+        },
+        {
+            "label": 2,
+            "x_min": 931,
+            "x_max": 1059,
+            "y_min": 467,
+            "y_max": 555
+        }
+    ],
+    "Big Bear_2022_05_11_23_47_42.png": [
+        {
+            "label": 3,
+            "x_min": 735,
+            "x_max": 1226,
+            "y_min": 455,
+            "y_max": 684
+        },
+        {
+            "label": 1,
+            "x_min": 992,
+            "x_max": 1126,
+            "y_min": 237,
+            "y_max": 453
+        }
+    ],
+    "Big Bear_2022_03_16_22_29_10.png": [
+        {
+            "label": 1,
+            "x_min": 441,
+            "x_max": 1009,
+            "y_min": 235,
+            "y_max": 665
+        }
+    ],
+    "National Arboretum B_2022_03_30_22_58_38.png": [
+        {
+            "label": 1,
+            "x_min": 599,
+            "x_max": 841,
+            "y_min": 207,
+            "y_max": 521
+        },
+        {
+            "label": 4,
+            "x_min": 858,
+            "x_max": 987,
+            "y_min": 449,
+            "y_max": 513
+        },
+        {
+            "label": 4,
+            "x_min": 831,
+            "x_max": 936,
+            "y_min": 422,
+            "y_max": 484
+        },
+        {
+            "label": 4,
+            "x_min": 890,
+            "x_max": 999,
+            "y_min": 483,
+            "y_max": 569
+        }
+    ],
+    "Big Bear_2022_06_13_17_00_30.png": [
+        {
+            "label": 1,
+            "x_min": 711,
+            "x_max": 834,
+            "y_min": 288,
+            "y_max": 554
+        }
+    ],
+    "National Arboretum A_2022_03_29_09_34_52.png": [
+        {
+            "label": 1,
+            "x_min": 15,
+            "x_max": 965,
+            "y_min": 9,
+            "y_max": 543
+        }
+    ],
+    "National Arboretum A_2022_04_01_19_11_26.png": [
+        {
+            "label": 1,
+            "x_min": 236,
+            "x_max": 892,
+            "y_min": 118,
+            "y_max": 730
+        },
+        {
+            "label": 4,
+            "x_min": 761,
+            "x_max": 982,
+            "y_min": 4,
+            "y_max": 214
+        },
+        {
+            "label": 4,
+            "x_min": 621,
+            "x_max": 775,
+            "y_min": 557,
+            "y_max": 679
+        }
+    ],
+    "Decorah North_2022_05_31_16_30_27.png": [
+        {
+            "label": 3,
+            "x_min": 327,
+            "x_max": 521,
+            "y_min": 175,
+            "y_max": 539
+        },
+        {
+            "label": 3,
+            "x_min": 513,
+            "x_max": 699,
+            "y_min": 202,
+            "y_max": 693
+        }
+    ],
+    "Decorah North_2022_05_23_21_40_02.png": [
+        {
+            "label": 3,
+            "x_min": 749,
+            "x_max": 1003,
+            "y_min": 449,
+            "y_max": 658
+        },
+        {
+            "label": 1,
+            "x_min": 959,
+            "x_max": 1088,
+            "y_min": 70,
+            "y_max": 317
+        }
+    ],
+    "National Arboretum A_2022_05_13_05_02_09.png": [
+        {
+            "label": 1,
+            "x_min": 660,
+            "x_max": 736,
+            "y_min": 1,
+            "y_max": 158
+        }
+    ],
+    "Decorah North_2022_05_15_23_26_37.png": [
+        {
+            "label": 1,
+            "x_min": 956,
+            "x_max": 1112,
+            "y_min": 32,
+            "y_max": 313
+        },
+        {
+            "label": 2,
+            "x_min": 719,
+            "x_max": 995,
+            "y_min": 547,
+            "y_max": 656
+        },
+        {
+            "label": 2,
+            "x_min": 975,
+            "x_max": 1237,
+            "y_min": 504,
+            "y_max": 619
+        }
+    ],
+    "National Arboretum B_2022_03_22_13_25_05.png": [
+        {
+            "label": 1,
+            "x_min": 534,
+            "x_max": 785,
+            "y_min": 160,
+            "y_max": 481
+        }
+    ],
+    "Big Bear_2022_03_16_15_17_59.png": [
+        {
+            "label": 1,
+            "x_min": 590,
+            "x_max": 1069,
+            "y_min": 352,
+            "y_max": 638
+        }
+    ],
+    "Decorah North_2022_03_06_15_25_45.png": [
+        {
+            "label": 1,
+            "x_min": 345,
+            "x_max": 887,
+            "y_min": 239,
+            "y_max": 680
+        }
+    ],
+    "Big Bear_2022_06_23_15_47_00.png": [
+        {
+            "label": 3,
+            "x_min": 820,
+            "x_max": 927,
+            "y_min": 185,
+            "y_max": 460
+        }
+    ],
+    "Big Bear_2022_05_11_15_27_57.png": [
+        {
+            "label": 1,
+            "x_min": 914,
+            "x_max": 1102,
+            "y_min": 200,
+            "y_max": 444
+        },
+        {
+            "label": 3,
+            "x_min": 751,
+            "x_max": 1179,
+            "y_min": 450,
+            "y_max": 683
+        }
+    ],
+    "Decorah North_2022_05_21_11_58_44.png": [
+        {
+            "label": 3,
+            "x_min": 784,
+            "x_max": 1191,
+            "y_min": 117,
+            "y_max": 677
+        },
+        {
+            "label": 3,
+            "x_min": 218,
+            "x_max": 601,
+            "y_min": 152,
+            "y_max": 691
+        }
+    ],
+    "Decorah North_2022_03_08_11_55_25.png": [
+        {
+            "label": 1,
+            "x_min": 545,
+            "x_max": 1097,
+            "y_min": 351,
+            "y_max": 558
+        }
+    ],
+    "National Arboretum B_2022_04_28_23_34_36.png": [
+        {
+            "label": 2,
+            "x_min": 767,
+            "x_max": 880,
+            "y_min": 627,
+            "y_max": 713
+        },
+        {
+            "label": 1,
+            "x_min": 830,
+            "x_max": 964,
+            "y_min": 532,
+            "y_max": 638
+        }
+    ],
+    "Decorah North_2022_05_10_18_27_46.png": [
+        {
+            "label": 2,
+            "x_min": 300,
+            "x_max": 659,
+            "y_min": 438,
+            "y_max": 622
+        },
+        {
+            "label": 2,
+            "x_min": 834,
+            "x_max": 1181,
+            "y_min": 268,
+            "y_max": 467
+        }
+    ],
+    "Decorah North_2022_03_29_20_47_01.png": [
+        {
+            "label": 1,
+            "x_min": 345,
+            "x_max": 898,
+            "y_min": 293,
+            "y_max": 553
+        }
+    ],
+    "Decorah North_2022_06_09_00_35_47.png": [
+        {
+            "label": 3,
+            "x_min": 858,
+            "x_max": 990,
+            "y_min": 355,
+            "y_max": 527
+        }
+    ],
+    "Decorah North_2022_03_20_12_27_30.png": [
+        {
+            "label": 1,
+            "x_min": 573,
+            "x_max": 984,
+            "y_min": 215,
+            "y_max": 565
+        }
+    ],
+    "Big Bear_2022_03_07_15_10_31.png": [
+        {
+            "label": 1,
+            "x_min": 661,
+            "x_max": 995,
+            "y_min": 389,
+            "y_max": 631
+        }
+    ],
+    "Decorah North_2022_05_10_04_18_53.png": [
+        {
+            "label": 1,
+            "x_min": 682,
+            "x_max": 934,
+            "y_min": 359,
+            "y_max": 560
+        },
+        {
+            "label": 2,
+            "x_min": 818,
+            "x_max": 966,
+            "y_min": 516,
+            "y_max": 622
+        },
+        {
+            "label": 2,
+            "x_min": 979,
+            "x_max": 1194,
+            "y_min": 529,
+            "y_max": 627
+        }
+    ],
+    "Big Bear_2022_05_09_08_18_11.png": [
+        {
+            "label": 3,
+            "x_min": 1107,
+            "x_max": 1337,
+            "y_min": 142,
+            "y_max": 697
+        },
+        {
+            "label": 4,
+            "x_min": 402,
+            "x_max": 510,
+            "y_min": 574,
+            "y_max": 639
+        },
+        {
+            "label": 4,
+            "x_min": 505,
+            "x_max": 608,
+            "y_min": 386,
+            "y_max": 461
+        }
+    ],
+    "National Arboretum A_2022_03_28_15_28_50.png": [
+        {
+            "label": 1,
+            "x_min": 292,
+            "x_max": 931,
+            "y_min": 183,
+            "y_max": 753
+        }
+    ],
+    "Big Bear_2022_05_13_04_33_07.png": [
+        {
+            "label": 1,
+            "x_min": 905,
+            "x_max": 1028,
+            "y_min": 280,
+            "y_max": 493
+        }
+    ],
+    "Decorah North_2022_03_09_21_12_38.png": [
+        {
+            "label": 1,
+            "x_min": 540,
+            "x_max": 1155,
+            "y_min": 337,
+            "y_max": 544
+        }
+    ],
+    "Decorah North_2022_03_08_13_20_13.png": [
+        {
+            "label": 1,
+            "x_min": 447,
+            "x_max": 967,
+            "y_min": 327,
+            "y_max": 635
+        }
+    ],
+    "Decorah North_2022_06_16_10_57_50.png": [
+        {
+            "label": 3,
+            "x_min": 547,
+            "x_max": 993,
+            "y_min": 240,
+            "y_max": 672
+        },
+        {
+            "label": 3,
+            "x_min": 699,
+            "x_max": 987,
+            "y_min": 97,
+            "y_max": 465
+        }
+    ],
+    "National Arboretum A_2022_04_01_20_59_21.png": [
+        {
+            "label": 1,
+            "x_min": 576,
+            "x_max": 1119,
+            "y_min": 250,
+            "y_max": 626
+        }
+    ],
+    "Big Bear_2022_05_17_15_03_52.png": [
+        {
+            "label": 1,
+            "x_min": 1126,
+            "x_max": 1178,
+            "y_min": 232,
+            "y_max": 453
+        }
+    ],
+    "Big Bear_2022_05_28_14_41_53.png": [
+        {
+            "label": 1,
+            "x_min": 518,
+            "x_max": 1335,
+            "y_min": 400,
+            "y_max": 729
+        },
+        {
+            "label": 1,
+            "x_min": 659,
+            "x_max": 902,
+            "y_min": 282,
+            "y_max": 447
+        }
+    ],
+    "Decorah North_2022_06_23_10_01_30.png": [
+        {
+            "label": 3,
+            "x_min": 593,
+            "x_max": 699,
+            "y_min": 277,
+            "y_max": 411
+        }
+    ],
+    "Decorah North_2022_04_04_16_24_56.png": [
+        {
+            "label": 1,
+            "x_min": 706,
+            "x_max": 1086,
+            "y_min": 319,
+            "y_max": 669
+        }
+    ],
+    "Decorah North_2022_03_11_19_57_23.png": [
+        {
+            "label": 2,
+            "x_min": 653,
+            "x_max": 1014,
+            "y_min": 353,
+            "y_max": 577
+        }
+    ],
+    "Decorah North_2022_05_09_04_47_13.png": [
+        {
+            "label": 1,
+            "x_min": 963,
+            "x_max": 1138,
+            "y_min": 88,
+            "y_max": 356
+        },
+        {
+            "label": 2,
+            "x_min": 783,
+            "x_max": 967,
+            "y_min": 499,
+            "y_max": 622
+        },
+        {
+            "label": 2,
+            "x_min": 947,
+            "x_max": 1123,
+            "y_min": 525,
+            "y_max": 638
+        }
+    ],
+    "National Arboretum A_2022_04_02_20_57_31.png": [
+        {
+            "label": 1,
+            "x_min": 434,
+            "x_max": 989,
+            "y_min": 38,
+            "y_max": 694
+        },
+        {
+            "label": 4,
+            "x_min": 353,
+            "x_max": 563,
+            "y_min": 95,
+            "y_max": 225
+        },
+        {
+            "label": 4,
+            "x_min": 51,
+            "x_max": 380,
+            "y_min": 415,
+            "y_max": 702
+        }
+    ],
+    "Decorah North_2022_05_28_08_34_43.png": [
+        {
+            "label": 3,
+            "x_min": 807,
+            "x_max": 1175,
+            "y_min": 142,
+            "y_max": 687
+        },
+        {
+            "label": 3,
+            "x_min": 857,
+            "x_max": 1218,
+            "y_min": 73,
+            "y_max": 356
+        }
+    ],
+    "National Arboretum B_2022_05_07_18_46_47.png": [
+        {
+            "label": 3,
+            "x_min": 802,
+            "x_max": 894,
+            "y_min": 440,
+            "y_max": 587
+        }
+    ],
+    "Big Bear_2022_04_02_13_07_20.png": [
+        {
+            "label": 1,
+            "x_min": 438,
+            "x_max": 841,
+            "y_min": 131,
+            "y_max": 614
+        },
+        {
+            "label": 2,
+            "x_min": 658,
+            "x_max": 995,
+            "y_min": 309,
+            "y_max": 727
+        }
+    ],
+    "Decorah North_2022_04_27_01_01_37.png": [
+        {
+            "label": 1,
+            "x_min": 396,
+            "x_max": 929,
+            "y_min": 128,
+            "y_max": 480
+        },
+        {
+            "label": 2,
+            "x_min": 797,
+            "x_max": 1041,
+            "y_min": 356,
+            "y_max": 541
+        }
+    ],
+    "National Arboretum B_2022_05_01_18_33_29.png": [
+        {
+            "label": 1,
+            "x_min": 694,
+            "x_max": 786,
+            "y_min": 1,
+            "y_max": 172
+        },
+        {
+            "label": 2,
+            "x_min": 760,
+            "x_max": 892,
+            "y_min": 503,
+            "y_max": 577
+        }
+    ],
+    "National Arboretum B_2022_04_27_09_58_26.png": [
+        {
+            "label": 1,
+            "x_min": 760,
+            "x_max": 861,
+            "y_min": 70,
+            "y_max": 216
+        },
+        {
+            "label": 2,
+            "x_min": 766,
+            "x_max": 877,
+            "y_min": 591,
+            "y_max": 656
+        },
+        {
+            "label": 4,
+            "x_min": 846,
+            "x_max": 926,
+            "y_min": 692,
+            "y_max": 724
+        }
+    ],
+    "Big Bear_2022_03_23_16_07_33.png": [
+        {
+            "label": 1,
+            "x_min": 526,
+            "x_max": 963,
+            "y_min": 8,
+            "y_max": 535
+        },
+        {
+            "label": 2,
+            "x_min": 500,
+            "x_max": 844,
+            "y_min": 343,
+            "y_max": 755
+        },
+        {
+            "label": 4,
+            "x_min": 415,
+            "x_max": 536,
+            "y_min": 388,
+            "y_max": 612
+        },
+        {
+            "label": 4,
+            "x_min": 315,
+            "x_max": 459,
+            "y_min": 366,
+            "y_max": 458
+        }
+    ],
+    "Decorah North_2022_05_07_01_15_14.png": [
+        {
+            "label": 1,
+            "x_min": 979,
+            "x_max": 1109,
+            "y_min": 101,
+            "y_max": 341
+        },
+        {
+            "label": 2,
+            "x_min": 911,
+            "x_max": 1062,
+            "y_min": 525,
+            "y_max": 638
+        },
+        {
+            "label": 2,
+            "x_min": 1033,
+            "x_max": 1211,
+            "y_min": 531,
+            "y_max": 669
+        }
+    ],
+    "Decorah North_2022_05_09_09_49_09.png": [
+        {
+            "label": 3,
+            "x_min": 348,
+            "x_max": 720,
+            "y_min": 321,
+            "y_max": 680
+        },
+        {
+            "label": 3,
+            "x_min": 682,
+            "x_max": 959,
+            "y_min": 221,
+            "y_max": 568
+        }
+    ],
+    "National Arboretum B_2022_05_11_18_21_35.png": [
+        {
+            "label": 1,
+            "x_min": 221,
+            "x_max": 420,
+            "y_min": 543,
+            "y_max": 750
+        },
+        {
+            "label": 3,
+            "x_min": 694,
+            "x_max": 827,
+            "y_min": 566,
+            "y_max": 644
+        }
+    ],
+    "National Arboretum A_2022_05_01_03_14_52.png": [
+        {
+            "label": 1,
+            "x_min": 362,
+            "x_max": 711,
+            "y_min": 244,
+            "y_max": 513
+        },
+        {
+            "label": 2,
+            "x_min": 635,
+            "x_max": 876,
+            "y_min": 347,
+            "y_max": 545
+        }
+    ],
+    "National Arboretum A_2022_05_15_03_10_47.png": [
+        {
+            "label": 3,
+            "x_min": 308,
+            "x_max": 697,
+            "y_min": 168,
+            "y_max": 450
+        }
+    ],
+    "Big Bear_2022_05_15_19_58_52.png": [
+        {
+            "label": 3,
+            "x_min": 94,
+            "x_max": 585,
+            "y_min": 64,
+            "y_max": 747
+        }
+    ],
+    "National Arboretum A_2022_05_01_02_10_37.png": [
+        {
+            "label": 1,
+            "x_min": 218,
+            "x_max": 462,
+            "y_min": 174,
+            "y_max": 574
+        },
+        {
+            "label": 2,
+            "x_min": 482,
+            "x_max": 757,
+            "y_min": 269,
+            "y_max": 475
+        }
+    ],
+    "Decorah North_2022_03_27_12_03_13.png": [
+        {
+            "label": 1,
+            "x_min": 677,
+            "x_max": 996,
+            "y_min": 229,
+            "y_max": 489
+        }
+    ],
+    "National Arboretum A_2022_05_14_02_53_11.png": [
+        {
+            "label": 2,
+            "x_min": 334,
+            "x_max": 663,
+            "y_min": 297,
+            "y_max": 749
+        }
+    ],
+    "National Arboretum A_2022_04_27_19_00_42.png": [
+        {
+            "label": 2,
+            "x_min": 598,
+            "x_max": 795,
+            "y_min": 91,
+            "y_max": 247
+        }
+    ],
+    "National Arboretum A_2022_03_31_16_32_54.png": [
+        {
+            "label": 1,
+            "x_min": 509,
+            "x_max": 873,
+            "y_min": 118,
+            "y_max": 590
+        },
+        {
+            "label": 4,
+            "x_min": 482,
+            "x_max": 552,
+            "y_min": 260,
+            "y_max": 390
+        },
+        {
+            "label": 4,
+            "x_min": 375,
+            "x_max": 591,
+            "y_min": 12,
+            "y_max": 185
+        },
+        {
+            "label": 4,
+            "x_min": 221,
+            "x_max": 345,
+            "y_min": 286,
+            "y_max": 365
+        },
+        {
+            "label": 4,
+            "x_min": 95,
+            "x_max": 241,
+            "y_min": 336,
+            "y_max": 445
+        },
+        {
+            "label": 4,
+            "x_min": 163,
+            "x_max": 267,
+            "y_min": 197,
+            "y_max": 341
+        }
+    ],
+    "Big Bear_2022_06_09_19_02_12.png": [
+        {
+            "label": 3,
+            "x_min": 375,
+            "x_max": 844,
+            "y_min": 4,
+            "y_max": 748
+        }
+    ],
+    "Big Bear_2022_05_29_11_33_51.png": [
+        {
+            "label": 1,
+            "x_min": 828,
+            "x_max": 974,
+            "y_min": 290,
+            "y_max": 577
+        }
+    ],
+    "Decorah North_2022_04_26_14_13_18.png": [
+        {
+            "label": 2,
+            "x_min": 527,
+            "x_max": 806,
+            "y_min": 184,
+            "y_max": 463
+        },
+        {
+            "label": 2,
+            "x_min": 769,
+            "x_max": 1022,
+            "y_min": 253,
+            "y_max": 460
+        }
+    ],
+    "National Arboretum A_2022_05_07_01_11_33.png": [
+        {
+            "label": 3,
+            "x_min": 537,
+            "x_max": 791,
+            "y_min": 417,
+            "y_max": 576
+        },
+        {
+            "label": 1,
+            "x_min": 615,
+            "x_max": 795,
+            "y_min": 269,
+            "y_max": 456
+        }
+    ],
+    "Big Bear_2022_03_07_07_20_43.png": [
+        {
+            "label": 1,
+            "x_min": 136,
+            "x_max": 723,
+            "y_min": 124,
+            "y_max": 530
+        }
+    ],
+    "Big Bear_2022_05_07_06_26_28.png": [
+        {
+            "label": 1,
+            "x_min": 134,
+            "x_max": 670,
+            "y_min": 86,
+            "y_max": 432
+        }
+    ],
+    "Big Bear_2022_05_21_06_34_36.png": [
+        {
+            "label": 1,
+            "x_min": 987,
+            "x_max": 1163,
+            "y_min": 234,
+            "y_max": 509
+        }
+    ],
+    "Big Bear_2022_05_22_17_12_25.png": [
+        {
+            "label": 3,
+            "x_min": 8,
+            "x_max": 380,
+            "y_min": 75,
+            "y_max": 750
+        }
+    ],
+    "Big Bear_2022_05_15_21_21_16.png": [
+        {
+            "label": 3,
+            "x_min": 492,
+            "x_max": 1003,
+            "y_min": 545,
+            "y_max": 750
+        },
+        {
+            "label": 1,
+            "x_min": 751,
+            "x_max": 874,
+            "y_min": 317,
+            "y_max": 501
+        }
+    ],
+    "Decorah North_2022_06_14_20_54_32.png": [
+        {
+            "label": 3,
+            "x_min": 240,
+            "x_max": 303,
+            "y_min": 28,
+            "y_max": 136
+        }
+    ],
+    "Big Bear_2022_05_17_18_47_48.png": [
+        {
+            "label": 1,
+            "x_min": 662,
+            "x_max": 804,
+            "y_min": 287,
+            "y_max": 524
+        },
+        {
+            "label": 3,
+            "x_min": 1027,
+            "x_max": 1258,
+            "y_min": 278,
+            "y_max": 694
+        }
+    ],
+    "National Arboretum A_2022_04_28_12_38_31.png": [
+        {
+            "label": 1,
+            "x_min": 514,
+            "x_max": 690,
+            "y_min": 107,
+            "y_max": 552
+        },
+        {
+            "label": 2,
+            "x_min": 722,
+            "x_max": 928,
+            "y_min": 309,
+            "y_max": 503
+        }
+    ],
+    "National Arboretum B_2022_04_28_04_55_30.png": [
+        {
+            "label": 2,
+            "x_min": 741,
+            "x_max": 867,
+            "y_min": 489,
+            "y_max": 573
+        }
+    ],
+    "Big Bear_2022_06_13_19_20_07.png": [
+        {
+            "label": 3,
+            "x_min": 890,
+            "x_max": 1022,
+            "y_min": 314,
+            "y_max": 561
+        }
+    ],
+    "Big Bear_2022_03_16_18_33_45.png": [
+        {
+            "label": 1,
+            "x_min": 515,
+            "x_max": 990,
+            "y_min": 266,
+            "y_max": 743
+        }
+    ],
+    "Big Bear_2022_05_02_02_21_07.png": [
+        {
+            "label": 1,
+            "x_min": 982,
+            "x_max": 1118,
+            "y_min": 282,
+            "y_max": 513
+        },
+        {
+            "label": 3,
+            "x_min": 606,
+            "x_max": 1046,
+            "y_min": 469,
+            "y_max": 716
+        }
+    ],
+    "Big Bear_2022_04_27_02_39_20.png": [
+        {
+            "label": 1,
+            "x_min": 518,
+            "x_max": 942,
+            "y_min": 182,
+            "y_max": 596
+        },
+        {
+            "label": 3,
+            "x_min": 752,
+            "x_max": 1038,
+            "y_min": 450,
+            "y_max": 626
+        }
+    ],
+    "Decorah North_2022_05_24_22_20_52.png": [
+        {
+            "label": 1,
+            "x_min": 990,
+            "x_max": 1126,
+            "y_min": 104,
+            "y_max": 369
+        },
+        {
+            "label": 3,
+            "x_min": 735,
+            "x_max": 1022,
+            "y_min": 452,
+            "y_max": 655
+        }
+    ],
+    "Decorah North_2022_05_30_19_05_07.png": [
+        {
+            "label": 1,
+            "x_min": 459,
+            "x_max": 831,
+            "y_min": 394,
+            "y_max": 653
+        }
+    ],
+    "Big Bear_2022_03_16_21_19_46.png": [
+        {
+            "label": 1,
+            "x_min": 332,
+            "x_max": 975,
+            "y_min": 306,
+            "y_max": 681
+        }
+    ],
+    "Big Bear_2022_05_13_07_47_31.png": [
+        {
+            "label": 1,
+            "x_min": 634,
+            "x_max": 879,
+            "y_min": 208,
+            "y_max": 543
+        },
+        {
+            "label": 3,
+            "x_min": 958,
+            "x_max": 1340,
+            "y_min": 254,
+            "y_max": 751
+        }
+    ],
+    "Decorah North_2022_03_27_03_08_57.png": [
+        {
+            "label": 1,
+            "x_min": 539,
+            "x_max": 1099,
+            "y_min": 179,
+            "y_max": 690
+        }
+    ],
+    "Big Bear_2022_05_13_01_31_46.png": [
+        {
+            "label": 1,
+            "x_min": 913,
+            "x_max": 1054,
+            "y_min": 291,
+            "y_max": 498
+        }
+    ],
+    "Decorah North_2022_05_21_07_48_43.png": [
+        {
+            "label": 2,
+            "x_min": 659,
+            "x_max": 799,
+            "y_min": 313,
+            "y_max": 541
+        },
+        {
+            "label": 3,
+            "x_min": 799,
+            "x_max": 987,
+            "y_min": 423,
+            "y_max": 547
+        }
+    ],
+    "National Arboretum B_2022_03_25_09_20_04.png": [
+        {
+            "label": 1,
+            "x_min": 14,
+            "x_max": 657,
+            "y_min": 7,
+            "y_max": 602
+        }
+    ],
+    "National Arboretum B_2022_05_07_13_56_37.png": [
+        {
+            "label": 1,
+            "x_min": 809,
+            "x_max": 1020,
+            "y_min": 408,
+            "y_max": 559
+        },
+        {
+            "label": 3,
+            "x_min": 746,
+            "x_max": 855,
+            "y_min": 457,
+            "y_max": 546
+        }
+    ],
+    "Big Bear_2022_03_18_12_01_00.png": [
+        {
+            "label": 1,
+            "x_min": 496,
+            "x_max": 796,
+            "y_min": 139,
+            "y_max": 484
+        },
+        {
+            "label": 1,
+            "x_min": 829,
+            "x_max": 1237,
+            "y_min": 242,
+            "y_max": 485
+        },
+        {
+            "label": 2,
+            "x_min": 707,
+            "x_max": 862,
+            "y_min": 505,
+            "y_max": 638
+        }
+    ],
+    "National Arboretum A_2022_05_09_09_34_53.png": [
+        {
+            "label": 2,
+            "x_min": 619,
+            "x_max": 922,
+            "y_min": 621,
+            "y_max": 749
+        }
+    ],
+    "Decorah North_2022_06_16_10_07_36.png": [
+        {
+            "label": 3,
+            "x_min": 207,
+            "x_max": 317,
+            "y_min": 211,
+            "y_max": 382
+        },
+        {
+            "label": 3,
+            "x_min": 287,
+            "x_max": 378,
+            "y_min": 394,
+            "y_max": 563
+        }
+    ],
+    "Big Bear_2022_05_31_04_45_01.png": [
+        {
+            "label": 1,
+            "x_min": 1069,
+            "x_max": 1340,
+            "y_min": 317,
+            "y_max": 745
+        },
+        {
+            "label": 1,
+            "x_min": 473,
+            "x_max": 805,
+            "y_min": 251,
+            "y_max": 649
+        }
+    ],
+    "National Arboretum A_2022_03_29_11_41_07.png": [
+        {
+            "label": 1,
+            "x_min": 183,
+            "x_max": 1119,
+            "y_min": 179,
+            "y_max": 747
+        },
+        {
+            "label": 4,
+            "x_min": 1,
+            "x_max": 383,
+            "y_min": 190,
+            "y_max": 317
+        },
+        {
+            "label": 4,
+            "x_min": 576,
+            "x_max": 844,
+            "y_min": 6,
+            "y_max": 144
+        }
+    ],
+    "Big Bear_2022_05_11_23_29_27.png": [
+        {
+            "label": 3,
+            "x_min": 740,
+            "x_max": 1224,
+            "y_min": 458,
+            "y_max": 686
+        },
+        {
+            "label": 1,
+            "x_min": 982,
+            "x_max": 1126,
+            "y_min": 237,
+            "y_max": 448
+        }
+    ],
+    "Big Bear_2022_05_02_20_17_18.png": [
+        {
+            "label": 3,
+            "x_min": 723,
+            "x_max": 1067,
+            "y_min": 489,
+            "y_max": 713
+        },
+        {
+            "label": 1,
+            "x_min": 1035,
+            "x_max": 1152,
+            "y_min": 266,
+            "y_max": 493
+        }
+    ],
+    "Decorah North_2022_05_19_07_12_33.png": [
+        {
+            "label": 2,
+            "x_min": 457,
+            "x_max": 833,
+            "y_min": 439,
+            "y_max": 610
+        },
+        {
+            "label": 3,
+            "x_min": 855,
+            "x_max": 1154,
+            "y_min": 364,
+            "y_max": 695
+        }
+    ],
+    "Decorah North_2022_05_24_19_34_03.png": [
+        {
+            "label": 3,
+            "x_min": 491,
+            "x_max": 719,
+            "y_min": 163,
+            "y_max": 473
+        },
+        {
+            "label": 2,
+            "x_min": 587,
+            "x_max": 865,
+            "y_min": 473,
+            "y_max": 698
+        }
+    ],
+    "Decorah North_2022_04_04_05_32_54.png": [
+        {
+            "label": 1,
+            "x_min": 638,
+            "x_max": 1207,
+            "y_min": 242,
+            "y_max": 600
+        }
+    ],
+    "National Arboretum A_2022_05_13_07_35_43.png": [
+        {
+            "label": 1,
+            "x_min": 383,
+            "x_max": 528,
+            "y_min": 77,
+            "y_max": 400
+        }
+    ],
+    "Decorah North_2022_06_10_22_30_59.png": [
+        {
+            "label": 3,
+            "x_min": 537,
+            "x_max": 832,
+            "y_min": 482,
+            "y_max": 588
+        },
+        {
+            "label": 3,
+            "x_min": 757,
+            "x_max": 984,
+            "y_min": 438,
+            "y_max": 555
+        }
+    ],
+    "Decorah North_2022_05_24_16_41_23.png": [
+        {
+            "label": 3,
+            "x_min": 415,
+            "x_max": 947,
+            "y_min": 444,
+            "y_max": 687
+        },
+        {
+            "label": 3,
+            "x_min": 649,
+            "x_max": 1310,
+            "y_min": 521,
+            "y_max": 693
+        }
+    ],
+    "National Arboretum B_2022_05_07_21_07_47.png": [
+        {
+            "label": 1,
+            "x_min": 760,
+            "x_max": 950,
+            "y_min": 317,
+            "y_max": 697
+        }
+    ],
+    "National Arboretum A_2022_05_07_07_09_36.png": [
+        {
+            "label": 1,
+            "x_min": 590,
+            "x_max": 937,
+            "y_min": 222,
+            "y_max": 503
+        },
+        {
+            "label": 3,
+            "x_min": 537,
+            "x_max": 881,
+            "y_min": 471,
+            "y_max": 646
+        }
+    ],
+    "Decorah North_2022_06_22_21_43_50.png": [
+        {
+            "label": 3,
+            "x_min": 69,
+            "x_max": 173,
+            "y_min": 89,
+            "y_max": 247
+        }
+    ],
+    "Big Bear_2022_05_13_02_44_53.png": [
+        {
+            "label": 1,
+            "x_min": 903,
+            "x_max": 1035,
+            "y_min": 238,
+            "y_max": 490
+        },
+        {
+            "label": 3,
+            "x_min": 937,
+            "x_max": 1343,
+            "y_min": 295,
+            "y_max": 729
+        }
+    ],
+    "Big Bear_2022_03_22_16_14_42.png": [
+        {
+            "label": 1,
+            "x_min": 696,
+            "x_max": 1009,
+            "y_min": 190,
+            "y_max": 585
+        },
+        {
+            "label": 2,
+            "x_min": 801,
+            "x_max": 962,
+            "y_min": 444,
+            "y_max": 651
+        }
+    ],
+    "Decorah North_2022_05_12_06_46_23.png": [
+        {
+            "label": 3,
+            "x_min": 892,
+            "x_max": 1125,
+            "y_min": 142,
+            "y_max": 500
+        },
+        {
+            "label": 2,
+            "x_min": 966,
+            "x_max": 1226,
+            "y_min": 361,
+            "y_max": 610
+        }
+    ],
+    "Decorah North_2022_04_27_17_33_48.png": [
+        {
+            "label": 2,
+            "x_min": 268,
+            "x_max": 942,
+            "y_min": 271,
+            "y_max": 688
+        },
+        {
+            "label": 2,
+            "x_min": 690,
+            "x_max": 1337,
+            "y_min": 404,
+            "y_max": 687
+        }
+    ],
+    "National Arboretum A_2022_04_03_22_59_18.png": [
+        {
+            "label": 1,
+            "x_min": 461,
+            "x_max": 853,
+            "y_min": 102,
+            "y_max": 546
+        },
+        {
+            "label": 4,
+            "x_min": 98,
+            "x_max": 255,
+            "y_min": 115,
+            "y_max": 272
+        }
+    ],
+    "Big Bear_2022_03_08_15_26_43.png": [
+        {
+            "label": 1,
+            "x_min": 640,
+            "x_max": 1155,
+            "y_min": 299,
+            "y_max": 748
+        }
+    ],
+    "Decorah North_2022_05_11_00_04_01.png": [
+        {
+            "label": 1,
+            "x_min": 972,
+            "x_max": 1115,
+            "y_min": 35,
+            "y_max": 330
+        },
+        {
+            "label": 3,
+            "x_min": 775,
+            "x_max": 911,
+            "y_min": 435,
+            "y_max": 582
+        },
+        {
+            "label": 3,
+            "x_min": 645,
+            "x_max": 813,
+            "y_min": 492,
+            "y_max": 685
+        }
+    ],
+    "National Arboretum A_2022_03_31_13_09_33.png": [
+        {
+            "label": 1,
+            "x_min": 283,
+            "x_max": 771,
+            "y_min": 14,
+            "y_max": 602
+        },
+        {
+            "label": 4,
+            "x_min": 90,
+            "x_max": 313,
+            "y_min": 35,
+            "y_max": 239
+        }
+    ],
+    "Big Bear_2022_03_30_19_53_55.png": [
+        {
+            "label": 1,
+            "x_min": 574,
+            "x_max": 969,
+            "y_min": 208,
+            "y_max": 570
+        },
+        {
+            "label": 2,
+            "x_min": 849,
+            "x_max": 1045,
+            "y_min": 503,
+            "y_max": 614
+        }
+    ],
+    "Big Bear_2022_04_27_18_53_37.png": [
+        {
+            "label": 3,
+            "x_min": 396,
+            "x_max": 1117,
+            "y_min": 68,
+            "y_max": 747
+        },
+        {
+            "label": 1,
+            "x_min": 993,
+            "x_max": 1340,
+            "y_min": 221,
+            "y_max": 751
+        }
+    ],
+    "Decorah North_2022_05_25_10_30_39.png": [
+        {
+            "label": 3,
+            "x_min": 391,
+            "x_max": 680,
+            "y_min": 443,
+            "y_max": 690
+        },
+        {
+            "label": 3,
+            "x_min": 418,
+            "x_max": 619,
+            "y_min": 362,
+            "y_max": 515
+        }
+    ],
+    "Decorah North_2022_05_18_23_50_12.png": [
+        {
+            "label": 1,
+            "x_min": 982,
+            "x_max": 1146,
+            "y_min": 70,
+            "y_max": 356
+        }
+    ],
+    "National Arboretum B_2022_05_11_20_09_07.png": [
+        {
+            "label": 3,
+            "x_min": 548,
+            "x_max": 870,
+            "y_min": 7,
+            "y_max": 608
+        }
+    ],
+    "Decorah North_2022_03_14_16_12_32.png": [
+        {
+            "label": 1,
+            "x_min": 314,
+            "x_max": 1035,
+            "y_min": 303,
+            "y_max": 696
+        }
+    ],
+    "Big Bear_2022_05_17_14_57_53.png": [
+        {
+            "label": 1,
+            "x_min": 1080,
+            "x_max": 1179,
+            "y_min": 240,
+            "y_max": 482
+        }
+    ],
+    "Big Bear_2022_04_02_00_47_06.png": [
+        {
+            "label": 1,
+            "x_min": 762,
+            "x_max": 1340,
+            "y_min": 211,
+            "y_max": 642
+        },
+        {
+            "label": 2,
+            "x_min": 635,
+            "x_max": 845,
+            "y_min": 434,
+            "y_max": 625
+        }
+    ],
+    "National Arboretum B_2022_05_09_12_02_26.png": [
+        {
+            "label": 3,
+            "x_min": 696,
+            "x_max": 853,
+            "y_min": 333,
+            "y_max": 487
+        },
+        {
+            "label": 1,
+            "x_min": 830,
+            "x_max": 1010,
+            "y_min": 409,
+            "y_max": 675
+        }
+    ],
+    "Decorah North_2022_03_21_13_36_53.png": [
+        {
+            "label": 1,
+            "x_min": 258,
+            "x_max": 1333,
+            "y_min": 8,
+            "y_max": 667
+        }
+    ],
+    "National Arboretum B_2022_05_02_02_33_05.png": [
+        {
+            "label": 1,
+            "x_min": 1171,
+            "x_max": 1283,
+            "y_min": 541,
+            "y_max": 697
+        },
+        {
+            "label": 2,
+            "x_min": 948,
+            "x_max": 1127,
+            "y_min": 576,
+            "y_max": 649
+        }
+    ],
+    "Decorah North_2022_03_18_08_06_36.png": [
+        {
+            "label": 1,
+            "x_min": 293,
+            "x_max": 1341,
+            "y_min": 269,
+            "y_max": 693
+        }
+    ],
+    "Decorah North_2022_05_22_14_54_23.png": [
+        {
+            "label": 3,
+            "x_min": 28,
+            "x_max": 850,
+            "y_min": 203,
+            "y_max": 619
+        },
+        {
+            "label": 3,
+            "x_min": 695,
+            "x_max": 1343,
+            "y_min": 157,
+            "y_max": 696
+        }
+    ],
+    "National Arboretum B_2022_05_10_19_06_45.png": [
+        {
+            "label": 3,
+            "x_min": 1113,
+            "x_max": 1275,
+            "y_min": 281,
+            "y_max": 415
+        }
+    ],
+    "Big Bear_2022_04_26_09_34_57.png": [
+        {
+            "label": 1,
+            "x_min": 539,
+            "x_max": 1000,
+            "y_min": 179,
+            "y_max": 397
+        },
+        {
+            "label": 3,
+            "x_min": 714,
+            "x_max": 1199,
+            "y_min": 367,
+            "y_max": 601
+        }
+    ],
+    "Big Bear_2022_04_03_02_32_27.png": [
+        {
+            "label": 1,
+            "x_min": 99,
+            "x_max": 735,
+            "y_min": 4,
+            "y_max": 753
+        },
+        {
+            "label": 1,
+            "x_min": 926,
+            "x_max": 1184,
+            "y_min": 177,
+            "y_max": 498
+        },
+        {
+            "label": 2,
+            "x_min": 712,
+            "x_max": 950,
+            "y_min": 397,
+            "y_max": 618
+        }
+    ],
+    "Decorah North_2022_05_17_17_27_11.png": [
+        {
+            "label": 3,
+            "x_min": 598,
+            "x_max": 882,
+            "y_min": 191,
+            "y_max": 555
+        },
+        {
+            "label": 3,
+            "x_min": 418,
+            "x_max": 722,
+            "y_min": 383,
+            "y_max": 698
+        }
+    ],
+    "Big Bear_2022_05_15_13_18_54.png": [
+        {
+            "label": 3,
+            "x_min": 9,
+            "x_max": 433,
+            "y_min": 184,
+            "y_max": 753
+        }
+    ],
+    "National Arboretum B_2022_05_13_18_14_39.png": [
+        {
+            "label": 1,
+            "x_min": 336,
+            "x_max": 492,
+            "y_min": 571,
+            "y_max": 755
+        },
+        {
+            "label": 3,
+            "x_min": 775,
+            "x_max": 897,
+            "y_min": 492,
+            "y_max": 599
+        }
+    ],
+    "Decorah North_2022_06_16_05_30_48.png": [
+        {
+            "label": 3,
+            "x_min": 1102,
+            "x_max": 1223,
+            "y_min": 313,
+            "y_max": 500
+        }
+    ],
+    "National Arboretum B_2022_03_23_19_24_23.png": [
+        {
+            "label": 1,
+            "x_min": 247,
+            "x_max": 1297,
+            "y_min": 31,
+            "y_max": 630
+        }
+    ],
+    "Big Bear_2022_03_22_20_05_24.png": [
+        {
+            "label": 1,
+            "x_min": 802,
+            "x_max": 1340,
+            "y_min": 304,
+            "y_max": 617
+        },
+        {
+            "label": 1,
+            "x_min": 489,
+            "x_max": 902,
+            "y_min": 126,
+            "y_max": 471
+        }
+    ],
+    "Big Bear_2022_05_24_20_34_53.png": [
+        {
+            "label": 3,
+            "x_min": 890,
+            "x_max": 1017,
+            "y_min": 309,
+            "y_max": 574
+        },
+        {
+            "label": 1,
+            "x_min": 805,
+            "x_max": 932,
+            "y_min": 282,
+            "y_max": 532
+        }
+    ],
+    "Decorah North_2022_05_22_15_09_30.png": [
+        {
+            "label": 3,
+            "x_min": 218,
+            "x_max": 855,
+            "y_min": 9,
+            "y_max": 680
+        },
+        {
+            "label": 3,
+            "x_min": 813,
+            "x_max": 1335,
+            "y_min": 305,
+            "y_max": 690
+        }
+    ],
+    "Decorah North_2022_04_27_17_43_05.png": [
+        {
+            "label": 2,
+            "x_min": 470,
+            "x_max": 1258,
+            "y_min": 231,
+            "y_max": 688
+        },
+        {
+            "label": 2,
+            "x_min": 117,
+            "x_max": 781,
+            "y_min": 126,
+            "y_max": 659
+        }
+    ],
+    "National Arboretum B_2022_03_26_04_13_21.png": [
+        {
+            "label": 1,
+            "x_min": 478,
+            "x_max": 816,
+            "y_min": 143,
+            "y_max": 613
+        }
+    ],
+    "National Arboretum A_2022_03_31_12_18_01.png": [
+        {
+            "label": 1,
+            "x_min": 32,
+            "x_max": 783,
+            "y_min": 118,
+            "y_max": 685
+        },
+        {
+            "label": 4,
+            "x_min": 177,
+            "x_max": 297,
+            "y_min": 45,
+            "y_max": 186
+        },
+        {
+            "label": 4,
+            "x_min": 6,
+            "x_max": 104,
+            "y_min": 6,
+            "y_max": 79
+        },
+        {
+            "label": 4,
+            "x_min": 98,
+            "x_max": 404,
+            "y_min": 3,
+            "y_max": 88
+        }
+    ],
+    "Big Bear_2022_03_29_21_17_28.png": [
+        {
+            "label": 1,
+            "x_min": 778,
+            "x_max": 1340,
+            "y_min": 280,
+            "y_max": 675
+        },
+        {
+            "label": 2,
+            "x_min": 701,
+            "x_max": 852,
+            "y_min": 497,
+            "y_max": 626
+        }
+    ],
+    "Big Bear_2022_04_01_16_10_42.png": [
+        {
+            "label": 2,
+            "x_min": 635,
+            "x_max": 887,
+            "y_min": 343,
+            "y_max": 570
+        },
+        {
+            "label": 1,
+            "x_min": 898,
+            "x_max": 1150,
+            "y_min": 176,
+            "y_max": 710
+        },
+        {
+            "label": 1,
+            "x_min": 736,
+            "x_max": 988,
+            "y_min": 168,
+            "y_max": 384
+        }
+    ],
+    "Decorah North_2022_05_17_22_32_29.png": [
+        {
+            "label": 2,
+            "x_min": 833,
+            "x_max": 1080,
+            "y_min": 402,
+            "y_max": 541
+        },
+        {
+            "label": 2,
+            "x_min": 844,
+            "x_max": 1170,
+            "y_min": 565,
+            "y_max": 677
+        }
+    ],
+    "National Arboretum A_2022_03_31_14_51_24.png": [
+        {
+            "label": 2,
+            "x_min": 496,
+            "x_max": 781,
+            "y_min": 448,
+            "y_max": 755
+        },
+        {
+            "label": 1,
+            "x_min": 805,
+            "x_max": 1297,
+            "y_min": 7,
+            "y_max": 267
+        },
+        {
+            "label": 4,
+            "x_min": 250,
+            "x_max": 933,
+            "y_min": 1,
+            "y_max": 132
+        },
+        {
+            "label": 4,
+            "x_min": 7,
+            "x_max": 219,
+            "y_min": 12,
+            "y_max": 204
+        }
+    ],
+    "Big Bear_2022_03_19_17_20_44.png": [
+        {
+            "label": 2,
+            "x_min": 802,
+            "x_max": 946,
+            "y_min": 479,
+            "y_max": 650
+        },
+        {
+            "label": 4,
+            "x_min": 934,
+            "x_max": 1026,
+            "y_min": 496,
+            "y_max": 541
+        },
+        {
+            "label": 4,
+            "x_min": 1107,
+            "x_max": 1261,
+            "y_min": 529,
+            "y_max": 637
+        },
+        {
+            "label": 1,
+            "x_min": 758,
+            "x_max": 987,
+            "y_min": 197,
+            "y_max": 511
+        },
+        {
+            "label": 1,
+            "x_min": 996,
+            "x_max": 1294,
+            "y_min": 227,
+            "y_max": 581
+        }
+    ],
+    "Big Bear_2022_04_28_09_02_06.png": [
+        {
+            "label": 3,
+            "x_min": 279,
+            "x_max": 594,
+            "y_min": 63,
+            "y_max": 442
+        },
+        {
+            "label": 1,
+            "x_min": 804,
+            "x_max": 976,
+            "y_min": 210,
+            "y_max": 444
+        }
+    ],
+    "Decorah North_2022_05_12_20_12_33.png": [
+        {
+            "label": 3,
+            "x_min": 557,
+            "x_max": 847,
+            "y_min": 102,
+            "y_max": 356
+        },
+        {
+            "label": 3,
+            "x_min": 635,
+            "x_max": 1039,
+            "y_min": 229,
+            "y_max": 675
+        }
+    ],
+    "Decorah North_2022_05_12_08_24_06.png": [
+        {
+            "label": 3,
+            "x_min": 500,
+            "x_max": 685,
+            "y_min": 316,
+            "y_max": 659
+        },
+        {
+            "label": 3,
+            "x_min": 980,
+            "x_max": 1185,
+            "y_min": 276,
+            "y_max": 604
+        }
+    ],
+    "Decorah North_2022_03_25_08_41_09.png": [
+        {
+            "label": 1,
+            "x_min": 382,
+            "x_max": 1228,
+            "y_min": 51,
+            "y_max": 695
+        }
+    ],
+    "Decorah North_2022_05_07_17_56_34.png": [
+        {
+            "label": 3,
+            "x_min": 594,
+            "x_max": 924,
+            "y_min": 122,
+            "y_max": 494
+        }
+    ],
+    "Big Bear_2022_04_03_17_31_16.png": [
+        {
+            "label": 1,
+            "x_min": 733,
+            "x_max": 1057,
+            "y_min": 253,
+            "y_max": 546
+        },
+        {
+            "label": 2,
+            "x_min": 564,
+            "x_max": 859,
+            "y_min": 479,
+            "y_max": 639
+        }
+    ],
+    "Big Bear_2022_03_25_06_31_12.png": [
+        {
+            "label": 2,
+            "x_min": 805,
+            "x_max": 947,
+            "y_min": 418,
+            "y_max": 633
+        },
+        {
+            "label": 1,
+            "x_min": 711,
+            "x_max": 931,
+            "y_min": 199,
+            "y_max": 421
+        }
+    ],
+    "Decorah North_2022_05_28_13_59_00.png": [
+        {
+            "label": 3,
+            "x_min": 649,
+            "x_max": 1000,
+            "y_min": 477,
+            "y_max": 697
+        },
+        {
+            "label": 3,
+            "x_min": 1057,
+            "x_max": 1339,
+            "y_min": 250,
+            "y_max": 648
+        }
+    ],
+    "Big Bear_2022_03_30_20_29_25.png": [
+        {
+            "label": 1,
+            "x_min": 555,
+            "x_max": 940,
+            "y_min": 210,
+            "y_max": 547
+        },
+        {
+            "label": 2,
+            "x_min": 788,
+            "x_max": 1091,
+            "y_min": 495,
+            "y_max": 621
+        }
+    ],
+    "National Arboretum B_2022_05_15_07_16_32.png": [
+        {
+            "label": 2,
+            "x_min": 648,
+            "x_max": 793,
+            "y_min": 380,
+            "y_max": 523
+        }
+    ],
+    "Decorah North_2022_06_15_18_41_29.png": [
+        {
+            "label": 3,
+            "x_min": 1035,
+            "x_max": 1131,
+            "y_min": 163,
+            "y_max": 309
+        },
+        {
+            "label": 3,
+            "x_min": 1073,
+            "x_max": 1159,
+            "y_min": 99,
+            "y_max": 275
+        }
+    ],
+    "National Arboretum B_2022_05_09_13_52_54.png": [
+        {
+            "label": 4,
+            "x_min": 859,
+            "x_max": 935,
+            "y_min": 557,
+            "y_max": 594
+        },
+        {
+            "label": 2,
+            "x_min": 498,
+            "x_max": 702,
+            "y_min": 472,
+            "y_max": 685
+        },
+        {
+            "label": 1,
+            "x_min": 830,
+            "x_max": 1033,
+            "y_min": 277,
+            "y_max": 562
+        }
+    ]
+}
