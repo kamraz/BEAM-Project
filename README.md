@@ -9,10 +9,17 @@
 - Select "Install NVIDIA GPU driver automatically on first startup?"
 - Bootdisk as large as needed 150gb sugested to start
 
-## Adding SSH key to google cloud
+### Adding SSH key to google cloud
 
 - Open compute engine metadata page
 - Click on ssh keys tab, add personal ssh key
+
+### Setup once ssh'ed to remote server
+- Clone repo from github
+- conda env create -f env.yml
+
+### Getting ready to run the code
+- activate conda env
 
 ## Getting data out of a bucket
 

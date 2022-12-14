@@ -6,7 +6,56 @@ from PIL import Image
 from utils.constants import SAMPLE_MAP
 from utils.transforms import get_transform
 
+def collate_fn(batch):
+    return tuple(zip(*batch))
+
+class BeamDataset(torch.utils.data.Dataset):
+    """
+    Dataset class for the beam dataset created on gcloud
+    """
+    def __init__(self, data_folder, annotations_file, transforms=None):
+        self.data_folder = os.path.normpath(data_folder)
+        self.annotations_file = os.path.normpath(annotations_file)
+        self.transforms = transforms
+        
+        with open(self.annotations_file, 'r') as f:
+            self.annotations = json.load(f)
+
+        self.imgs = list(sorted(self.annotations.keys()))
+
+    def __getitem__(self, index):
+
+        img = Image.open(os.path.join(self.data_folder, self.imgs[index])).convert("RGB")
+        objects = self.annotations[self.imgs[index]]
+
+        boxes = []
+        labels = []
+        for data in objects:
+
+            labels.append(data["label"])
+
+            xmin = int(data["x_min"])
+            xmax = int(data["x_max"])
+            ymin = int(data["y_min"])
+            ymax = int(data["y_max"])
+            boxes.append([xmin, ymin, xmax, ymax])
+        
+        target = {}
+        target["boxes"] = torch.as_tensor(boxes, dtype=torch.float32)
+        target["labels"] = torch.as_tensor(labels, dtype=torch.int64)
+        
+        if self.transforms is not None:
+            img, target = self.transforms(img, target)
+
+        return img, target
+
+    def __len__(self):
+        return len(self.imgs)
+
 class SmallDataset(torch.utils.data.Dataset):
+    """
+    Daatset class created for dataset from project proposal
+    """
     def __init__(self, data_folder, annotations_file, transforms=None):
         self.data_folder = os.path.normpath(data_folder)
         self.annotations_file = os.path.normpath(annotations_file)
@@ -52,16 +101,13 @@ class SmallDataset(torch.utils.data.Dataset):
         return len(self.imgs)
 
 if __name__ == "__main__":
-    dataset = SmallDataset("/home/kamranzolfonoon/eagle-test-bucket", 
-    "/home/kamranzolfonoon/eagle-test-bucket/image_labels.json", get_transform(train=False))
+    dataset = BeamDataset("/home/kamranzolfonoon/dev/eagle-images/beam_large_batch", 
+    "/home/kamranzolfonoon/dev/eagle-images/beam_large_batch/annotations/annotations.json", get_transform(train=False))
     img, target = dataset[2]
-
-    for i in range(len(dataset)):
-        img, target = dataset[i]
     print("done")
-    loader = torch.utils.data.DataLoader(dataset, batch_size=2, shuffle=True, num_workers=4, collate_fn=collate_fn)
     # Draw bounding boxes on the image using pil
     # from PIL import ImageDraw
+    # img = Image.fromarray(img.mul(255).permute(1, 2, 0).byte().numpy())
     # draw = ImageDraw.Draw(img)
     # for box in target["boxes"]:
     #     draw.rectangle(box.tolist(), outline="red")

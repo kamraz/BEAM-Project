@@ -1,6 +1,7 @@
 import torch
 from torchvision.models.detection import (
     fasterrcnn_resnet50_fpn,
+    fasterrcnn_resnet50_fpn_v2,
     fcos_resnet50_fpn,
     FCOS_ResNet50_FPN_Weights,
 )
@@ -22,15 +23,25 @@ def get_model(
                 weights=FCOS_ResNet50_FPN_Weights.DEFAULT, num_classes=num_classes
             )
     elif model_name == "fasterrcnn_resnet50_fpn":
-        model = fasterrcnn_resnet50_fpn(weights="DEFAULT")
         if frozen:
-            # TODO: Investigate more re: what to freeze
-            for param in model.parameters():
-                param.requires_grad = False
+            model = fasterrcnn_resnet50_fpn(
+                weights="DEFAULT", trainable_backbone_layers=0
+            )
+        else:
+            model = fasterrcnn_resnet50_fpn(weights="DEFAULT")
         num_classes = num_classes + 1  # +1 for background
         in_features = model.roi_heads.box_predictor.cls_score.in_features
         model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
-    # TODO: Implement v2 with vision transformers
+    elif model_name == "fasterrcnn_resnet50_fpn_v2":
+        if frozen:
+            model = fasterrcnn_resnet50_fpn_v2(
+                weights="DEFAULT", trainable_backbone_layers=0
+            )
+        else:
+            model = fasterrcnn_resnet50_fpn_v2(weights="DEFAULT")
+        num_classes = num_classes + 1  # +1 for background
+        in_features = model.roi_heads.box_predictor.cls_score.in_features
+        model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
     else:
         raise NotImplementedError(f"Model {model_name} not implemented")
     return model

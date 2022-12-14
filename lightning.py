@@ -32,6 +32,10 @@ class LitCNN(pl.LightningModule):
             optimizer = optimizer = torch.optim.SGD(
                 self.parameters(), **self.hparams.optimizer_hparams
             )
+        elif self.hparams.optimizer_name == "ADAM":
+            optimizer = torch.optim.Adam(
+                self.parameters(), **self.hparams.optimizer_hparams
+            )
         else:
             raise NotImplementedError(
                 f"Optimizer {self.hparams.optimizer_name} not implemented"
@@ -39,6 +43,10 @@ class LitCNN(pl.LightningModule):
 
         if self.hparams.scheduler_name == "StepLR":
             scheduler = torch.optim.lr_scheduler.StepLR(
+                optimizer, **self.hparams.scheduler_hparams
+            )
+        elif self.hparams.scheduler_name == "MultiStepLR":
+            scheduler = torch.optim.lr_scheduler.MultiStepLR(
                 optimizer, **self.hparams.scheduler_hparams
             )
         else:
