@@ -7,22 +7,20 @@ from torchvision.transforms.functional import to_pil_image
 
 
 def visualize_image(
-    model, img, target=None, prediction_path="prediction.png", ground_truth_path=None
+    model, img, target=None, prediction_path="prediction.png", ground_truth_path=None, threshold=0.5
 ):
     device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
     model.to(device)
     model.eval()
 
-    # good example: 12
-    # tricky: 5, 80
     img_cuda = img.to(device)
     prediction = model([img_cuda])[0]
 
     labels = []
     boxes = []
     for i in range(len(prediction["labels"])):
-        if prediction["scores"][i] > 0.5:
+        if prediction["scores"][i] > threshold:
             labels.append(
                 str(prediction["labels"][i].item())
                 + " "

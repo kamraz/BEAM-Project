@@ -35,7 +35,7 @@ def get_model(
     elif model_name == "fasterrcnn_resnet50_fpn_v2":
         if frozen:
             model = fasterrcnn_resnet50_fpn_v2(
-                weights="DEFAULT", trainable_backbone_layers=0
+                weights="DEFAULT", trainable_backbone_layers=1
             )
         else:
             model = fasterrcnn_resnet50_fpn_v2(weights="DEFAULT")

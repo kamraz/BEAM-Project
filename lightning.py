@@ -2,6 +2,7 @@ from models import get_model
 import torch
 import pytorch_lightning as pl
 from torchmetrics.detection.mean_ap import MeanAveragePrecision
+from utils.constants import OUTPUT_REDUCED_MAP
 
 
 class LitCNN(pl.LightningModule):
@@ -22,6 +23,11 @@ class LitCNN(pl.LightningModule):
 
         self.validation_map = MeanAveragePrecision(
             num_classes=self.hparams.model_hparams["num_classes"]
+        )
+
+        self.test_map = MeanAveragePrecision(
+            num_classes=self.hparams.model_hparams["num_classes"],
+            class_metrics=True,
         )
 
     def forward(self, images, targets=None):
@@ -82,9 +88,19 @@ class LitCNN(pl.LightningModule):
         self.log("val_map", metrics["map"], on_step=False, on_epoch=True)
         self.log("val_ar", metrics["mar_10"], on_step=False, on_epoch=True)
 
-    # def test_step(self, batch, batch_idx):
-    #     images, targets = batch
-    #     loss_dict = self.model(images, targets)
-    #     losses = sum(loss for loss in loss_dict.values())
+    def test_step(self, batch, batch_idx):
+        images, targets = batch
+        results = self.model(images, targets)
+        self.test_map.update(results, targets)
 
-    #     self.log("test_loss", losses, on_step=False, on_epoch=True)
+    def test_epoch_end(self, outputs):
+        metrics = self.test_map.compute()
+        self.log("test_map", metrics["map"], on_step=False, on_epoch=True)
+        self.log("test_ar", metrics["mar_10"], on_step=False, on_epoch=True)
+
+        # Log mAP for each class
+        for key, v in OUTPUT_REDUCED_MAP.items():
+            title = "test_map_" + v
+            self.log(
+                title, metrics["map_per_class"][key - 1], on_step=False, on_epoch=True
+            )

@@ -28,4 +28,12 @@ DATASET_REDUCED_MAP = {
     "Invalid_Empty_Nest": -1,
 }
 
+OUTPUT_REDUCED_MAP = {
+    0: "Background",
+    1: "Eagle_Adult",
+    2: "Eagle_Chick",
+    3: "Eagle_Juvenile",
+    4: "Food",
+}
+
 SAMPLE_MAP = {"Eagle_adult": 1, "Eagle_chick": 2, "Duck": 3, "Rabbit": 4, "Fish": 5}
