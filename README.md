@@ -72,11 +72,25 @@ Per Class mAP:
 |------------|-------|----------|-------|------|
 | 0.22       | 0.65  | 0.26     | 0.37  | 0.22 | -->
 
-#### Successful Examples
+#### Successful Examples From Validation Set
 
-![eagle_image](results/final_multi_eagles_branch.png)
+![eagles_on_branch](results/final_multi_eagles_branch.png)
+
+![eagle_with_food](results/final_eagle_in_nest_food.png)
+
+![eagle_with_chick](results/final_eagle_in_nest_chick.png)
+
+![eagle_with_juv](results/final_juv.png)
+
+![dark_tricky](results/final_dark_tricky_prediction.png)
 
 #### Failed Examples
+
+![huddled_chick_adult](results/final_multibirdfail_prediction.png)
+
+![missed_food](results/final_multi_fish.png)
+
+![shiny_object_labeled_food](results/final_false_food.png)
 
 ## Future work
 The, and most impactful step, towards improving the performance of this model would be to **label more data**. The model was trained on a relatively small dataset, and the results reflect this. It was able to detect and classify adult eagles with a high degree of accuracy, but struggled with juveniles and classifying food items which had a limited number of examples. The inclusion of **more nests** into the training data would further improve the model's generalizability so that it could be used on nests it was not trained on.
