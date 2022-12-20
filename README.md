@@ -48,10 +48,6 @@ The best model was trained for 40 epochs using SGD with a learning rate of 5e-3,
 
 ![training_loss](results/training_loss.png)
 
-![val_map](results/validation_map.png)
-
-![val_mar](results/validation_ar.png)
-
 #### Final Model Evaluation Metrics
 
 ##### Metrics on Validation Set
