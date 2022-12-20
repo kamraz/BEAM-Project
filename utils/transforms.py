@@ -44,7 +44,7 @@ class ScaleJitter(nn.Module):
     def __init__(
         self,
         target_size,
-        scale_range=(0.1, 2.0),
+        scale_range=(0.5, 1.5),
         interpolation: InterpolationMode = InterpolationMode.BILINEAR,
     ):
         super().__init__()

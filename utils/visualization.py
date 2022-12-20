@@ -1,13 +1,19 @@
 import torch
 from torchvision.utils import draw_bounding_boxes
 from torchvision.transforms.functional import to_pil_image
+from PIL import Image, ImageDraw
 
 # If checkpoint is saved, load it:
 # model = LitCNN.load_from_checkpoint('/home/kamranzolfonoon/dev/eaglescnn/lightning_logs/version_0/checkpoints/epoch=29-step=3540.ckpt')
 
 
 def visualize_image(
-    model, img, target=None, prediction_path="prediction.png", ground_truth_path=None, threshold=0.5
+    model,
+    img,
+    target=None,
+    prediction_path="prediction.png",
+    ground_truth_path=None,
+    threshold=0.5,
 ):
     device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
@@ -39,6 +45,8 @@ def visualize_image(
         labels=labels,
         colors="red",
         width=4,
+        font="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+        font_size=20,
     )
     im = to_pil_image(prediction.detach())
     im.save(prediction_path)
@@ -60,6 +68,8 @@ def visualize_image(
             labels=labels,
             colors="blue",
             width=4,
+            font="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+            font_size=20,
         )
         im = to_pil_image(ground_truth.detach())
         im.save(ground_truth_path)

@@ -36,13 +36,11 @@ Class label distribution:
 We used the standard PyTorch implimentation of a Faster R-CNN object detection model with a ResNet-50-FPN backbone. This model was chosen due to it's modular design which made it ideal for fine-tuning, and effective performance in early testing.
 
 #### Training
-We used the PyTorch Lightning framework to train the model. This framework allowed us to iterate quickly and log metrics easily. 
-
-We also used data augmentation to reduce overfitting. We used the following augmentations: Random Horizontal Flips, and Scaling Jitter.
+We used the PyTorch Lightning framework to train the model. This framework allowed us to iterate quickly and log metrics easily. We also used data augmentation to reduce overfitting. Augmentations: Horizontal Flips, and Scaled Jitter
 
 Several candidate models were trained and evaluated on a 20% hold-out validation set. The best model was chosen based on the following metrics: mAP, mAR10, and per class mAP.
 
-The best model was trained for 14 epochs using SGD with a learning rate of 5e-3, weight decay of 5e-4, and momentum of 0.9. A StepLR schedululer was used to reduce the learning rate by a factor of 0.1 every 5 epochs. The model was trained on a Google Cloud VM with a Nvidia T4 GPU. 
+The best model was trained for 40 epochs using SGD with a learning rate of 5e-3, weight decay of 5e-4, and momentum of 0.9. A StepLR schedululer was used to reduce the learning rate by a factor of 0.1 every 9 epochs. The model was trained on a Google Cloud VM with a Nvidia T4 GPU. 
 
 ## Results
 
@@ -51,15 +49,28 @@ The best model was trained for 14 epochs using SGD with a learning rate of 5e-3,
 #### Final Model Evaluation Metrics
 
 ##### Metrics on Validation Set
+
 | Metric     | Value |
 |------------|-------|
-| mAP        | 0.37  |
-| mAR10      | 0.55  |
+| mAP        | 0.42  |
+| mAR10      | 0.61  |
 
 Per Class mAP:
 | Background | Adult | Juvenile | Chick | Food |
 |------------|-------|----------|-------|------|
-| 0.22       | 0.65  | 0.26     | 0.37  | 0.22 |
+| 0.25       | 0.70  | 0.27     | 0.45  | 0.25 |
+
+<!-- ##### Metrics on Full Dataset
+
+| Metric     | Value |
+|------------|-------|
+| mAP        | 0.70  |
+| mAR10      | 0.78  |
+
+Per Class mAP:
+| Background | Adult | Juvenile | Chick | Food |
+|------------|-------|----------|-------|------|
+| 0.22       | 0.65  | 0.26     | 0.37  | 0.22 | -->
 
 #### Successful Examples
 
