@@ -7,7 +7,7 @@ This repo contains the code written for the Bald Eagle Automated Monitoring proj
 ## Implementation Details
 
 #### Data
-We collected a dataset of hundreds of thousands of images from several nest cameras over the course of the 2022 mating season. The images were collected, with permission, usig a Youtube webscraper. A dataset of 717 images sampled evenly from each nest were labaled by hand into 12 classes:
+We collected a dataset of hundreds of thousands of images from several nest cameras over the course of the 2022 mating season. The images were collected, with permission, using a Youtube web scraper. A dataset of 717 images sampled evenly from each nest were labeled by hand into 12 classes:
 * Eagle_Adult
 * Eagle_Chick
 * Eagle_Egg
@@ -33,18 +33,24 @@ Class label distribution:
 | Labels | 393 | 160 | 238 | 61 |
 
 #### Model
-We used the standard PyTorch implimentation of a Faster R-CNN object detection model with a ResNet-50-FPN backbone. This model was chosen due to it's modular design which made it ideal for fine-tuning, and effective performance in early testing.
+We used the standard PyTorch implementation of a Faster R-CNN object detection model with a ResNet-50-FPN backbone. This model was chosen due to its modular design which made it ideal for fine-tuning, effective performance in early testing, and its performance on object detection benchmark challenges. 
 
 #### Training
 We used the PyTorch Lightning framework to train the model. This framework allowed us to iterate quickly and log metrics easily. We also used data augmentation to reduce overfitting. Augmentations: Horizontal Flips, and Scaled Jitter
 
 Several candidate models were trained and evaluated on a 20% hold-out validation set. The best model was chosen based on the following metrics: mAP, mAR10, and per class mAP.
 
-The best model was trained for 40 epochs using SGD with a learning rate of 5e-3, weight decay of 5e-4, and momentum of 0.9. A StepLR schedululer was used to reduce the learning rate by a factor of 0.1 every 9 epochs. The model was trained on a Google Cloud VM with a Nvidia T4 GPU. 
+The best model was trained for 40 epochs using SGD with a learning rate of 5e-3, weight decay of 5e-4, and momentum of 0.9. A StepLR scheduler was used to reduce the learning rate by a factor of 0.1 every 9 epochs. The model was trained on a Google Cloud VM with a Nvidia T4 GPU. 
 
 ## Results
 
 #### Training Graphs
+
+![training_loss](results/training_loss.png)
+
+![val_map](results/validation_map.png)
+
+![val_mar](results/validation_ar.png)
 
 #### Final Model Evaluation Metrics
 
@@ -102,12 +108,12 @@ In this larger dataset it would also be important to create **more balanced clas
 
 #### Creating Google Cloud VM
 
-- Open compute engine dash board
+- Open compute engine dashboard
 - Select marketplace and search for: "Deep Learning VM" or "Pytorch" select the google click to deploy ML vm and hit launch
-- Sugested compute settings GPU: Nvidia T4, Machine Type: n1-standard-2
+- Suggested compute settings GPU: Nvidia T4, Machine Type: n1-standard-2
 - Set framework to be: "PyTorch 1.12 (CUDA 11.3)"
 - Select "Install NVIDIA GPU driver automatically on first startup?"
-- Bootdisk as large as needed 150gb sugested to start
+- Bootdisk as large as needed 150gb suggested to start
 
 #### Adding SSH key to VM
 
