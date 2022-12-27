@@ -116,7 +116,19 @@ In this larger dataset it would also be important to create **more balanced clas
 - Open compute engine metadata page
 - Click on ssh keys tab, add personal ssh key
 
-#### On VM:
+#### Starting Server
+- got to compute engine dashboard
+- start resume beam-gpu instance
+- refresh page after 15 seconds
+- copy external ip
+
+#### Conntecting from vs-code
+-Install remotes explorer in vscode
+-Add server ip to vscode remotes
+-Password for ssh key may be required
+-Open folder /home/kamranzolfonoon/
+
+#### On VM setting up clean repo:
 - Clone repo from github
 - In repo run: `conda env create -f env.yml`
 - Then `activate conda env`
