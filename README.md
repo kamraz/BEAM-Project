@@ -4,6 +4,8 @@
 
 This repo contains the code written for the Bald Eagle Automated Monitoring project. The goal of this project is to train a model capable of detecting and classifying Eagles and their prey items in nest camera footage.
 
+![eagle_with_chick](results/final_eagle_in_nest_chick.png)
+
 ## Implementation Details
 
 #### Data
